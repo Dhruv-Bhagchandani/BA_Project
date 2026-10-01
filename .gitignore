@@ -1,0 +1,17 @@
+# dependencies & builds
+node_modules/
+dist/
+.vercel/
+
+# environment / secrets
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+__pycache__/
+*.pyc
+
+# large raw corpus (57 MB) — not needed by the app; samples live in app/public/samples
+files (2)/po_documents.zip

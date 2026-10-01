@@ -1,0 +1,151 @@
+customer_id,customer_name,customer_segment,city,state_code,gstin_masked,commercial_tier,standard_discount_pct,credit_terms_days,credit_limit_inr,preferred_uom,uses_own_item_codes,customer_code_prefix,onboarding_date,is_new_customer,po_channel_preference,avg_monthly_order_value_inr
+CUST0001,Eshanya Trading Co,Wholesaler / Trader,Mumbai,MH,35XXXXX4339X1Z7,C,3.0,45,500000,MTR,N,,2021-05-24,N,Email Excel,221056.94
+CUST0002,Nirvaan Fabs,Home Furnishing Retailer,Chennai,TN,22XXXXX7377X1Z5,B,7.0,45,1000000,MTR,N,,2023-03-11,N,WhatsApp Image,105980.33
+CUST0003,Bhavya Vastra,Institutional / Uniform,Hyderabad,TG,16XXXXX9799X1Z3,B,7.0,30,2000000,MTR,N,,2022-09-26,N,Email Excel,228043.29
+CUST0004,Charvi Fashions LLP,Domestic Apparel Brand,Coimbatore,TN,18XXXXX7020X1Z2,C,3.0,15,1000000,MTR,N,,2022-04-08,N,Email Excel,185774.33
+CUST0005,Tejomay Fabs,Boutique / Designer,Mumbai,MH,11XXXXX6008X1Z8,A,12.0,45,500000,MTR,N,,2022-05-31,N,Email PDF,134769.39
+CUST0006,Yuvaan Sourcing LLP,Domestic Apparel Brand,Noida,UP,14XXXXX3280X1Z8,B,7.0,30,500000,MTR,N,,2022-12-02,N,Email Excel,333692.19
+CUST0007,Vaidehi Enterprises,Garment Exporter,Jaipur,RJ,13XXXXX2091X1Z1,B,7.0,30,5000000,MTR,N,,2023-03-06,N,Email PDF,184935.72
+CUST0008,Kritika Enterprises,Garment Exporter,Bengaluru,KA,04XXXXX5523X1Z1,B,7.0,0,3500000,MTR,N,,2022-06-22,N,Email Excel,160474.13
+CUST0009,Sattva Fashions LLP,Boutique / Designer,Ahmedabad,GJ,25XXXXX2310X1Z7,B,7.0,30,5000000,MTR,N,,2021-08-20,N,WhatsApp Image,93614.72
+CUST0010,Yashvi Clothing Co,Garment Exporter,Noida,UP,32XXXXX2550X1Z1,B,7.0,30,200000,MTR,N,,2023-03-31,N,Email PDF,123818.72
+CUST0011,Bhavya Uniforms,Wholesaler / Trader,Surat,GJ,34XXXXX3221X1Z2,B,7.0,90,750000,MTR,N,,2021-07-18,N,Email PDF,333144.03
+CUST0012,Tanvi Enterprises,Domestic Apparel Brand,Ahmedabad,GJ,32XXXXX5275X1Z1,C,3.0,30,1000000,MTR,Y,TAN-,2022-09-29,N,Email PDF,117585.02
+CUST0013,Suryakiran Weaves,Domestic Apparel Brand,Surat,GJ,33XXXXX8713X1Z7,C,3.0,60,1000000,MTR,N,,2021-11-17,N,WhatsApp Image,47324.33
+CUST0014,Kavyansh Furnishings,Institutional / Uniform,Panipat,HR,10XXXXX8225X1Z5,B,7.0,60,3500000,MTR,Y,KAV-,2022-05-13,N,Email PDF,37232.52
+CUST0015,Bhoomika Sourcing LLP,Home Furnishing Retailer,Ludhiana,PB,36XXXXX6877X1Z3,C,3.0,30,5000000,MTR,N,,2021-08-06,N,WhatsApp Image,86089.88
+CUST0016,Yashvi Creations,Wholesaler / Trader,Surat,GJ,01XXXXX6193X1Z9,A,12.0,90,1000000,MTR,Y,YAS-,2022-07-06,N,WhatsApp Image,66173.77
+CUST0017,Advika Clothing Co,Garment Exporter,Karur,TN,29XXXXX2063X1Z2,B,7.0,0,1000000,KG,N,,2021-06-02,N,Email Excel,134122.56
+CUST0018,Ojas Clothing Co,Domestic Apparel Brand,Ludhiana,PB,16XXXXX1698X1Z6,B,7.0,15,500000,MTR,Y,OJA-,2021-07-06,N,Scanned Copy,166981.62
+CUST0019,Devansh Trading Co,Garment Exporter,Ludhiana,PB,14XXXXX9649X1Z9,A,12.0,30,750000,KG,N,,2021-08-15,N,Email PDF,63919.56
+CUST0020,Nakshatra Clothing Co,Domestic Apparel Brand,Bengaluru,KA,05XXXXX5475X1Z5,B,7.0,45,3500000,MTR,N,,2021-05-16,N,Email Excel,286490.3
+CUST0021,Utsav Sourcing LLP,Home Furnishing Retailer,Kolkata,WB,15XXXXX6029X1Z7,C,3.0,15,1000000,MTR,N,,2022-10-07,N,Email Excel,176476.94
+CUST0022,Nirjara Trading Co,Wholesaler / Trader,Erode,TN,30XXXXX2286X1Z0,B,7.0,60,5000000,MTR,N,,2022-12-19,N,Email Excel,183543.06
+CUST0023,Manthan Weaves,Institutional / Uniform,Panipat,HR,05XXXXX3726X1Z7,B,7.0,90,200000,MTR,N,,2021-06-15,N,WhatsApp Image,80478.99
+CUST0024,Suryakiran Exports Pvt Ltd,Garment Exporter,Indore,MP,26XXXXX6392X1Z9,C,3.0,90,1000000,MTR,Y,SUR-,2021-05-15,N,Email Excel,168654.86
+CUST0025,Ruchira Apparels Pvt Ltd,Domestic Apparel Brand,Noida,UP,37XXXXX9648X1Z0,C,3.0,15,3500000,MTR,N,,2022-02-10,N,Email PDF,49354.92
+CUST0026,Vasudha Clothing Co,Wholesaler / Trader,Ichalkaranji,MH,23XXXXX4083X1Z5,C,3.0,60,500000,MTR,Y,VAS-,2023-01-06,N,WhatsApp Image,37736.67
+CUST0027,Parnika Fashions LLP,Boutique / Designer,Noida,UP,25XXXXX7862X1Z7,B,7.0,60,750000,MTR,N,,2022-10-07,N,Portal Upload,94403.28
+CUST0028,Shreeyan Creations,Boutique / Designer,Indore,MP,25XXXXX8365X1Z8,C,3.0,60,1000000,MTR,N,,2021-12-02,N,Email Excel,162071.52
+CUST0029,Urvi Furnishings,Garment Exporter,Bhilwara,RJ,12XXXXX8622X1Z8,B,7.0,45,200000,KG,N,,2022-06-06,N,Email PDF,147218.34
+CUST0030,Nimaya Fabs,Garment Exporter,Erode,TN,01XXXXX1451X1Z0,A,12.0,60,3500000,KG,N,,2022-02-22,N,Email PDF,376576.56
+CUST0031,Jaanvi Trading Co,Garment Exporter,Mumbai,MH,29XXXXX6145X1Z5,B,7.0,0,200000,KG,N,,2022-09-09,N,Email Excel,203275.7
+CUST0032,Nirjara Sourcing LLP,Wholesaler / Trader,Ludhiana,PB,22XXXXX7338X1Z2,C,3.0,30,5000000,MTR,Y,NIR-,2022-11-02,N,Email PDF,210554.09
+CUST0033,Navrang Fabs,Wholesaler / Trader,Ichalkaranji,MH,24XXXXX4404X1Z8,C,3.0,30,2000000,MTR,N,,2021-05-13,N,Email Excel,116669.52
+CUST0034,Nimaya Garments,Garment Exporter,Bengaluru,KA,17XXXXX3022X1Z3,B,7.0,90,5000000,KG,N,,2022-12-14,N,Email PDF,156905.09
+CUST0035,Bhavya Sourcing LLP,Domestic Apparel Brand,Bhilwara,RJ,19XXXXX7302X1Z7,C,3.0,30,1000000,MTR,Y,BHA-,2023-02-04,N,Email PDF,67119.89
+CUST0036,Yashvi Vastra,Domestic Apparel Brand,Indore,MP,08XXXXX4625X1Z1,A,12.0,30,1000000,MTR,N,,2021-09-10,N,WhatsApp Image,262468.5
+CUST0037,Nimaya Sourcing LLP,Domestic Apparel Brand,Mumbai,MH,07XXXXX9802X1Z6,B,7.0,30,3500000,MTR,Y,NIM-,2022-03-05,N,Email PDF,35597.13
+CUST0038,Pratham Textiles,Home Furnishing Retailer,Coimbatore,TN,30XXXXX8059X1Z4,A,12.0,30,500000,MTR,N,,2022-06-20,N,Email PDF,81078.02
+CUST0039,Sanchi Weaves,Garment Exporter,Ahmedabad,GJ,04XXXXX4666X1Z5,B,7.0,30,500000,KG,N,,2022-03-06,N,WhatsApp Image,55680.59
+CUST0040,Utsav Trading Co,Boutique / Designer,Bengaluru,KA,32XXXXX3499X1Z2,A,12.0,60,2000000,MTR,N,,2022-08-06,N,Email PDF,120865.71
+CUST0041,Zenith Textiles,Home Furnishing Retailer,Karur,TN,24XXXXX4121X1Z9,C,3.0,0,3500000,MTR,N,,2023-03-29,N,Email Excel,23809.19
+CUST0042,Rajvi Creations,Domestic Apparel Brand,Bhilwara,RJ,10XXXXX6860X1Z9,A,12.0,90,200000,MTR,N,,2021-06-14,N,Email Excel,89126.03
+CUST0043,Amrit Apparels Pvt Ltd,Domestic Apparel Brand,Pune,MH,34XXXXX5066X1Z8,C,3.0,0,2000000,MTR,N,,2023-02-22,N,Email PDF,232393.09
+CUST0044,Saanvi Enterprises,Home Furnishing Retailer,Surat,GJ,19XXXXX5547X1Z7,B,7.0,90,5000000,MTR,N,,2022-07-12,N,Email PDF,467311.3
+CUST0045,Ridhima Vastra,Home Furnishing Retailer,Karur,TN,02XXXXX2273X1Z4,B,7.0,30,3500000,MTR,N,,2022-06-18,N,Portal Upload,62046.15
+CUST0046,Manthan Textiles,Institutional / Uniform,Panipat,HR,10XXXXX1043X1Z0,B,7.0,30,500000,MTR,N,,2021-05-01,N,WhatsApp Image,149688.53
+CUST0047,Zarina Clothing Co,Garment Exporter,Indore,MP,18XXXXX9678X1Z6,B,7.0,90,750000,MTR,N,,2023-01-30,N,Email PDF,432913.63
+CUST0048,Mihika Furnishings,Domestic Apparel Brand,Indore,MP,14XXXXX5251X1Z2,A,12.0,0,2000000,MTR,N,,2022-12-22,N,WhatsApp Image,418794.7
+CUST0049,Kavyansh Fabs,Institutional / Uniform,Bhilwara,RJ,18XXXXX7887X1Z8,C,3.0,30,2000000,MTR,Y,KAV-,2022-02-13,N,Portal Upload,89078.7
+CUST0050,Zenith Garments,Institutional / Uniform,Pune,MH,36XXXXX2689X1Z2,C,3.0,0,1000000,MTR,N,,2023-01-14,N,Email PDF,16406.85
+CUST0051,Prisha Apparels Pvt Ltd,Garment Exporter,Noida,UP,07XXXXX2547X1Z4,B,7.0,0,750000,MTR,N,,2022-02-22,N,Email Excel,137744.89
+CUST0052,Lakshit Fabs,Institutional / Uniform,Bengaluru,KA,07XXXXX4709X1Z1,C,3.0,45,750000,MTR,N,,2022-07-22,N,WhatsApp Image,661703.53
+CUST0053,Mayurika Creations,Institutional / Uniform,Jaipur,RJ,20XXXXX2052X1Z2,C,3.0,45,3500000,MTR,N,,2021-05-25,N,Email PDF,412835.37
+CUST0054,Manthan Vastra,Home Furnishing Retailer,Bhilwara,RJ,21XXXXX9841X1Z1,B,7.0,90,750000,MTR,Y,MAN-,2022-12-23,N,WhatsApp Image,400348.55
+CUST0055,Pratham Creations,Wholesaler / Trader,Mumbai,MH,32XXXXX6933X1Z1,C,3.0,90,200000,MTR,N,,2023-03-03,N,Email Excel,61575.26
+CUST0056,Anantam Creations,Garment Exporter,Pune,MH,17XXXXX3852X1Z5,A,12.0,45,200000,KG,Y,ANA-,2022-12-12,N,Email Excel,322017.88
+CUST0057,Aashritha Vastra,Garment Exporter,Tiruppur,TN,08XXXXX6098X1Z1,B,7.0,0,2000000,MTR,Y,AAS-,2022-06-20,N,Email PDF,39177.97
+CUST0058,Rangoli Sourcing LLP,Garment Exporter,Indore,MP,09XXXXX8255X1Z7,B,7.0,90,2000000,KG,N,,2021-06-21,N,WhatsApp Image,183128.58
+CUST0059,Meghdoot Textiles,Institutional / Uniform,Pune,MH,33XXXXX7146X1Z0,A,12.0,15,750000,MTR,Y,MEG-,2021-11-22,N,Email PDF,203270.89
+CUST0060,Charvi Weaves,Garment Exporter,New Delhi,DL,04XXXXX6792X1Z2,A,12.0,15,750000,MTR,N,,2021-08-07,N,Portal Upload,61178.6
+CUST0061,Falguni Fashions LLP,Boutique / Designer,Erode,TN,30XXXXX4287X1Z9,C,3.0,60,3500000,MTR,Y,FAL-,2022-04-09,N,Portal Upload,89334.58
+CUST0062,Rangoli Apparels Pvt Ltd,Domestic Apparel Brand,Ichalkaranji,MH,10XXXXX5239X1Z6,A,12.0,60,1000000,MTR,N,,2022-01-10,N,Email PDF,134298.2
+CUST0063,Urvi Exports Pvt Ltd,Garment Exporter,Mumbai,MH,13XXXXX9199X1Z3,B,7.0,15,750000,MTR,N,,2021-05-12,N,Email PDF,63135.87
+CUST0064,Vaidehi Clothing Co,Garment Exporter,Hyderabad,TG,37XXXXX4012X1Z6,A,12.0,30,500000,MTR,Y,VAI-,2021-11-29,N,Email PDF,115165.51
+CUST0065,Advika Creations,Boutique / Designer,Hyderabad,TG,28XXXXX2037X1Z7,A,12.0,0,1000000,MTR,N,,2021-08-15,N,WhatsApp Image,86329.61
+CUST0066,Ishira Enterprises,Wholesaler / Trader,Mumbai,MH,16XXXXX2277X1Z6,C,3.0,90,1000000,MTR,Y,ISH-,2022-12-16,N,Portal Upload,83380.41
+CUST0067,Aashritha Trading Co,Home Furnishing Retailer,Noida,UP,33XXXXX9271X1Z1,A,12.0,90,3500000,MTR,N,,2021-09-06,N,Email PDF,162187.94
+CUST0068,Utsav Furnishings,Wholesaler / Trader,Ahmedabad,GJ,11XXXXX1814X1Z5,C,3.0,45,3500000,MTR,N,,2021-07-03,N,Email Excel,332751.88
+CUST0069,Oorja Trading Co,Wholesaler / Trader,Chennai,TN,21XXXXX6445X1Z8,B,7.0,90,750000,MTR,N,,2023-01-27,N,Email PDF,86110.33
+CUST0070,Vrinda Sourcing LLP,Wholesaler / Trader,Noida,UP,17XXXXX4277X1Z7,C,3.0,30,3500000,MTR,N,,2022-03-29,N,Email PDF,527802.99
+CUST0071,Pratham Exports Pvt Ltd,Domestic Apparel Brand,Jaipur,RJ,27XXXXX3788X1Z8,B,7.0,0,5000000,MTR,N,,2021-08-29,N,WhatsApp Image,182627.14
+CUST0072,Tanvi Trading Co,Wholesaler / Trader,New Delhi,DL,03XXXXX7657X1Z1,A,12.0,30,200000,MTR,Y,TAN-,2021-12-12,N,Email PDF,149596.14
+CUST0073,Ruchira Exports Pvt Ltd,Home Furnishing Retailer,Karur,TN,18XXXXX7863X1Z0,A,12.0,15,200000,MTR,N,,2023-01-25,N,Email Excel,611043.81
+CUST0074,Oorja Enterprises,Domestic Apparel Brand,Pune,MH,07XXXXX2887X1Z1,C,3.0,0,5000000,MTR,Y,OOR-,2023-01-12,N,Scanned Copy,90395.53
+CUST0075,Nakshatra Weaves,Garment Exporter,Bengaluru,KA,31XXXXX6598X1Z5,B,7.0,30,2000000,MTR,Y,NAK-,2022-03-12,N,Email PDF,48490.3
+CUST0076,Tanvi Fashions LLP,Domestic Apparel Brand,Panipat,HR,29XXXXX8252X1Z6,B,7.0,0,500000,MTR,N,,2022-09-06,N,Email PDF,390762.13
+CUST0077,Devansh Exports Pvt Ltd,Wholesaler / Trader,Ahmedabad,GJ,07XXXXX7637X1Z5,B,7.0,90,200000,MTR,N,,2022-02-08,N,Email PDF,494378.29
+CUST0078,Aarohi Creations,Boutique / Designer,Ichalkaranji,MH,07XXXXX4521X1Z6,B,7.0,60,3500000,MTR,Y,AAR-,2022-09-06,N,Email Excel,39979.1
+CUST0079,Yuvaan Vastra,Wholesaler / Trader,Hyderabad,TG,36XXXXX7450X1Z9,C,3.0,30,5000000,MTR,N,,2022-01-24,N,Email Excel,313107.56
+CUST0080,Bhoomika Apparels Pvt Ltd,Home Furnishing Retailer,Ichalkaranji,MH,13XXXXX8445X1Z5,B,7.0,30,750000,MTR,N,,2021-08-11,N,Email PDF,238593.07
+CUST0081,Vaidehi Garments,Boutique / Designer,Indore,MP,17XXXXX3204X1Z2,B,7.0,60,1000000,MTR,N,,2021-06-01,N,Email PDF,60608.75
+CUST0082,Meghdoot Clothing Co,Garment Exporter,Coimbatore,TN,11XXXXX4820X1Z5,B,7.0,30,200000,MTR,Y,MEG-,2022-11-03,N,WhatsApp Image,102854.11
+CUST0083,Harsith Textiles,Garment Exporter,Surat,GJ,08XXXXX6032X1Z3,C,3.0,15,200000,KG,Y,HAR-,2022-05-08,N,Portal Upload,106376.18
+CUST0084,Samvit Sourcing LLP,Institutional / Uniform,Indore,MP,09XXXXX4236X1Z2,A,12.0,30,750000,MTR,N,,2021-07-09,N,Email Excel,47730.41
+CUST0085,Sanchi Enterprises,Domestic Apparel Brand,Hyderabad,TG,24XXXXX6284X1Z3,C,3.0,15,3500000,MTR,Y,SAN-,2023-02-17,N,Email PDF,168836.75
+CUST0086,Kritika Creations,Boutique / Designer,Indore,MP,26XXXXX3597X1Z1,B,7.0,60,5000000,MTR,N,,2022-04-01,N,WhatsApp Image,102470.95
+CUST0087,Nimaya Enterprises,Garment Exporter,Ludhiana,PB,32XXXXX6635X1Z5,B,7.0,45,500000,KG,N,,2022-01-12,N,Scanned Copy,26233.41
+CUST0088,Devansh Uniforms,Home Furnishing Retailer,Ludhiana,PB,32XXXXX5196X1Z1,A,12.0,0,1000000,MTR,N,,2023-03-05,N,Scanned Copy,89132.98
+CUST0089,Meghdoot Weaves,Wholesaler / Trader,Coimbatore,TN,01XXXXX7009X1Z9,C,3.0,45,750000,MTR,N,,2022-11-21,N,Email PDF,98276.4
+CUST0090,Girish Garments,Garment Exporter,Noida,UP,25XXXXX4955X1Z3,C,3.0,0,750000,KG,N,,2023-01-19,N,Portal Upload,76668.62
+CUST0091,Nirjara Apparels Pvt Ltd,Garment Exporter,Coimbatore,TN,06XXXXX3467X1Z0,A,12.0,15,5000000,MTR,N,,2023-02-05,N,Email PDF,183700.91
+CUST0092,Advika Garments,Boutique / Designer,Indore,MP,36XXXXX7876X1Z7,C,3.0,90,200000,MTR,N,,2022-03-17,N,Email PDF,67252.31
+CUST0093,Sanchi Fashions LLP,Garment Exporter,Coimbatore,TN,19XXXXX5500X1Z9,A,12.0,15,5000000,MTR,Y,SAN-,2022-12-18,N,Email PDF,86721.76
+CUST0094,Dhruvi Garments,Garment Exporter,Erode,TN,30XXXXX9170X1Z1,B,7.0,30,500000,MTR,N,,2022-09-15,N,Portal Upload,36857.74
+CUST0095,Sanchi Textiles,Home Furnishing Retailer,Bengaluru,KA,30XXXXX6941X1Z4,B,7.0,60,3500000,MTR,N,,2021-11-06,N,Email PDF,283935.44
+CUST0096,Devansh Creations,Garment Exporter,New Delhi,DL,10XXXXX8048X1Z0,B,7.0,0,750000,KG,N,,2021-06-01,N,Email PDF,386747.07
+CUST0097,Devansh Garments,Boutique / Designer,Tiruppur,TN,14XXXXX6337X1Z3,C,3.0,0,3500000,MTR,N,,2022-06-08,N,Email PDF,126036.24
+CUST0098,Vrinda Trading Co,Wholesaler / Trader,Bengaluru,KA,22XXXXX3358X1Z5,B,7.0,30,3500000,MTR,Y,VRI-,2022-05-11,N,Email PDF,375067.88
+CUST0099,Jaanvi Apparels Pvt Ltd,Wholesaler / Trader,Hyderabad,TG,28XXXXX9325X1Z6,B,7.0,90,5000000,MTR,Y,JAA-,2021-06-17,N,WhatsApp Image,185684.01
+CUST0100,Anantam Textiles,Garment Exporter,Ludhiana,PB,19XXXXX2777X1Z6,C,3.0,15,3500000,MTR,Y,ANA-,2022-08-22,N,Scanned Copy,230060.03
+CUST0101,Kanchan Clothing Co,Domestic Apparel Brand,Tiruppur,TN,21XXXXX4889X1Z9,B,7.0,30,2000000,MTR,N,,2022-03-11,N,Email PDF,43383.86
+CUST0102,Urvi Uniforms,Garment Exporter,Jaipur,RJ,33XXXXX4600X1Z6,B,7.0,15,5000000,KG,N,,2022-03-25,N,Email PDF,99821.79
+CUST0103,Manthan Clothing Co,Domestic Apparel Brand,Bengaluru,KA,15XXXXX5448X1Z1,C,3.0,15,2000000,MTR,N,,2022-08-11,N,WhatsApp Image,324812.26
+CUST0104,Devansh Apparels Pvt Ltd,Domestic Apparel Brand,Pune,MH,20XXXXX5232X1Z0,B,7.0,60,200000,MTR,N,,2021-06-03,N,Email PDF,20569.79
+CUST0105,Nakshatra Garments,Domestic Apparel Brand,Indore,MP,23XXXXX4689X1Z3,A,12.0,30,750000,MTR,Y,NAK-,2021-12-17,N,Email PDF,271882.59
+CUST0106,Zarina Garments,Institutional / Uniform,Chennai,TN,02XXXXX9460X1Z4,B,7.0,30,3500000,MTR,N,,2022-02-14,N,Email Excel,224905.09
+CUST0107,Kavyansh Uniforms,Wholesaler / Trader,Mumbai,MH,27XXXXX8161X1Z1,C,3.0,90,5000000,MTR,N,,2021-11-20,N,Email PDF,165034.48
+CUST0108,Bhavya Fabs,Wholesaler / Trader,Jaipur,RJ,04XXXXX4067X1Z0,A,12.0,15,3500000,MTR,N,,2021-09-20,N,Scanned Copy,394497.84
+CUST0109,Harsith Fashions LLP,Domestic Apparel Brand,Hyderabad,TG,29XXXXX6521X1Z0,A,12.0,30,500000,MTR,N,,2021-10-15,N,WhatsApp Image,267180.41
+CUST0110,Suryakiran Sourcing LLP,Institutional / Uniform,Tiruppur,TN,09XXXXX4965X1Z5,C,3.0,30,3500000,MTR,Y,SUR-,2022-06-12,N,Email PDF,168915.39
+CUST0111,Ojas Garments,Boutique / Designer,Ahmedabad,GJ,03XXXXX7092X1Z8,A,12.0,30,2000000,MTR,Y,OJA-,2023-02-23,N,Email PDF,259006.05
+CUST0112,Ojas Trading Co,Home Furnishing Retailer,Tiruppur,TN,20XXXXX1876X1Z1,B,7.0,30,200000,MTR,N,,2022-10-16,N,Email Excel,115669.88
+CUST0113,Sattva Trading Co,Domestic Apparel Brand,Ichalkaranji,MH,33XXXXX9870X1Z7,B,7.0,30,500000,MTR,N,,2022-02-12,N,Email Excel,43359.92
+CUST0114,Nirjara Creations,Wholesaler / Trader,Bhilwara,RJ,14XXXXX5133X1Z4,A,12.0,30,750000,MTR,N,,2022-04-29,N,Portal Upload,228585.69
+CUST0115,Navrang Fashions LLP,Garment Exporter,Erode,TN,17XXXXX7068X1Z2,B,7.0,45,5000000,KG,N,,2023-01-21,N,WhatsApp Image,21811.09
+CUST0116,Parnika Vastra,Wholesaler / Trader,Indore,MP,22XXXXX3757X1Z1,B,7.0,30,500000,MTR,N,,2021-08-23,N,Scanned Copy,117668.21
+CUST0117,Nirjara Garments,Wholesaler / Trader,Bengaluru,KA,07XXXXX2183X1Z0,C,3.0,90,2000000,MTR,Y,NIR-,2021-07-28,N,Email PDF,83317.79
+CUST0118,Kavyansh Enterprises,Wholesaler / Trader,Erode,TN,01XXXXX3983X1Z8,B,7.0,60,5000000,MTR,Y,KAV-,2022-06-11,N,Email PDF,631091.75
+CUST0119,Oorja Furnishings,Boutique / Designer,Tiruppur,TN,26XXXXX6554X1Z6,B,7.0,15,500000,MTR,N,,2021-11-20,N,Scanned Copy,212845.74
+CUST0120,Samvit Trading Co,Wholesaler / Trader,Mumbai,MH,18XXXXX9523X1Z0,B,7.0,0,500000,MTR,N,,2023-03-08,N,Email PDF,313075.9
+CUST0121,Saanvi Garments,Home Furnishing Retailer,Panipat,HR,03XXXXX8688X1Z7,A,12.0,15,200000,MTR,N,,2023-01-20,N,Scanned Copy,301814.18
+CUST0122,Meghdoot Apparels Pvt Ltd,Institutional / Uniform,Pune,MH,04XXXXX2778X1Z9,C,3.0,90,5000000,MTR,N,,2022-01-18,N,Email PDF,290150.32
+CUST0123,Bhavya Apparels Pvt Ltd,Garment Exporter,Surat,GJ,01XXXXX6085X1Z0,B,7.0,30,2000000,MTR,N,,2022-09-07,N,Email Excel,0.0
+CUST0124,Yashvi Sourcing LLP,Boutique / Designer,Pune,MH,08XXXXX2424X1Z3,B,7.0,60,3500000,MTR,N,,2022-06-11,N,Portal Upload,202879.96
+CUST0125,Meghdoot Enterprises,Garment Exporter,Mumbai,MH,28XXXXX9210X1Z1,B,7.0,0,200000,MTR,N,,2022-10-06,N,Scanned Copy,147502.84
+CUST0126,Ishira Creations,Domestic Apparel Brand,Indore,MP,12XXXXX7784X1Z3,B,7.0,0,200000,MTR,Y,ISH-,2022-07-01,N,Email PDF,267459.62
+CUST0127,Advika Uniforms,Garment Exporter,Bhilwara,RJ,17XXXXX7838X1Z1,C,3.0,30,3500000,MTR,Y,ADV-,2023-02-18,N,Email PDF,54042.41
+CUST0128,Vasudha Creations,Garment Exporter,Kolkata,WB,22XXXXX9361X1Z5,C,3.0,60,3500000,KG,N,,2022-10-17,N,Email PDF,134878.54
+CUST0129,Advika Furnishings,Wholesaler / Trader,Bengaluru,KA,05XXXXX5321X1Z8,C,3.0,30,200000,MTR,N,,2022-12-31,N,Email Excel,171074.14
+CUST0130,Amrit Sourcing LLP,Boutique / Designer,Noida,UP,04XXXXX5703X1Z1,B,7.0,30,2000000,MTR,Y,AMR-,2021-06-07,N,Email PDF,55459.37
+CUST0131,Ojas Fabs,Wholesaler / Trader,Kolkata,WB,04XXXXX1859X1Z7,B,7.0,45,2000000,MTR,N,,2023-01-28,N,Portal Upload,41473.08
+CUST0132,Manthan Fashions LLP,Domestic Apparel Brand,Chennai,TN,26XXXXX5672X1Z5,B,7.0,60,500000,MTR,N,,2021-05-16,N,Portal Upload,123332.4
+CUST0133,Suryakiran Enterprises,Boutique / Designer,Pune,MH,04XXXXX4106X1Z2,B,7.0,30,3500000,MTR,N,,2023-02-24,N,Email Excel,47749.99
+CUST0134,Utsav Creations,Institutional / Uniform,Karur,TN,15XXXXX3393X1Z0,C,3.0,45,200000,MTR,N,,2021-10-17,N,Email PDF,275242.88
+CUST0135,Girish Creations,Home Furnishing Retailer,Ichalkaranji,MH,22XXXXX1948X1Z9,C,3.0,30,1000000,MTR,N,,2021-08-22,N,Email Excel,186387.18
+CUST0136,Utsav Textiles,Wholesaler / Trader,New Delhi,DL,15XXXXX2633X1Z3,A,12.0,0,500000,MTR,Y,UTS-,2022-10-11,N,WhatsApp Image,54239.87
+CUST0137,Charvi Furnishings,Domestic Apparel Brand,Pune,MH,22XXXXX8990X1Z6,B,7.0,30,500000,MTR,N,,2021-07-16,N,Scanned Copy,71779.77
+CUST0138,Yashvi Trading Co,Garment Exporter,Ahmedabad,GJ,31XXXXX1761X1Z0,B,7.0,30,750000,MTR,N,,2026-04-04,Y,Email Excel,0.0
+CUST0139,Prisha Uniforms,Wholesaler / Trader,Tiruppur,TN,04XXXXX5313X1Z5,C,3.0,45,500000,MTR,N,,2026-06-02,Y,Email PDF,0.0
+CUST0140,Trinetra Creations,Institutional / Uniform,Surat,GJ,22XXXXX8216X1Z2,B,7.0,30,3500000,MTR,Y,TRI-,2026-05-04,Y,Email PDF,0.0
+CUST0141,Kesar Creations,Domestic Apparel Brand,Bengaluru,KA,16XXXXX8936X1Z3,B,7.0,30,3500000,MTR,N,,2026-07-10,Y,Email PDF,0.0
+CUST0142,Nimaya Vastra,Garment Exporter,Coimbatore,TN,27XXXXX5816X1Z0,B,7.0,90,200000,KG,N,,2026-04-08,Y,Email Excel,0.0
+CUST0143,Bhoomika Clothing Co,Wholesaler / Trader,Surat,GJ,22XXXXX4330X1Z8,A,12.0,30,2000000,MTR,N,,2026-05-14,Y,Email Excel,0.0
+CUST0144,Shreeyan Trading Co,Garment Exporter,Pune,MH,17XXXXX2204X1Z5,C,3.0,90,2000000,MTR,N,,2026-05-30,Y,Email Excel,0.0
+CUST0145,Saanvi Trading Co,Boutique / Designer,Surat,GJ,13XXXXX7747X1Z3,C,3.0,90,3500000,MTR,N,,2026-04-28,Y,Email Excel,0.0
+CUST0146,Ekaanth Sourcing LLP,Garment Exporter,New Delhi,DL,24XXXXX5052X1Z4,C,3.0,45,1000000,MTR,N,,2026-07-06,Y,WhatsApp Image,0.0
+CUST0147,Falguni Vastra,Domestic Apparel Brand,Coimbatore,TN,34XXXXX6102X1Z2,A,12.0,60,750000,MTR,Y,FAL-,2026-05-14,Y,Email PDF,0.0
+CUST0148,Saanvi Fabs,Domestic Apparel Brand,Ichalkaranji,MH,33XXXXX4722X1Z9,C,3.0,60,500000,MTR,N,,2026-05-30,Y,Email Excel,0.0
+CUST0149,Chhaya Fabs,Wholesaler / Trader,Ichalkaranji,MH,23XXXXX3121X1Z0,B,7.0,0,750000,MTR,N,,2026-05-28,Y,Portal Upload,0.0
+CUST0150,Anantam Weaves,Domestic Apparel Brand,Erode,TN,11XXXXX5410X1Z0,B,7.0,30,200000,MTR,N,,2026-05-03,Y,WhatsApp Image,0.0

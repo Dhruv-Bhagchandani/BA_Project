@@ -1,0 +1,96 @@
+V1 product count == 750                                            PASS   750
+V2 customer count == 150                                           PASS   150
+V3 transaction count == 7500                                       PASS   7500
+V4 purchase order count == 1000                                    PASS   1000
+V5 PO lines within 4750-5250                                       PASS   4985
+V6 ground truth rows == PO lines                                   PASS   4985 vs 4985
+K1 sku unique                                                      PASS   
+K2 customer_id unique                                              PASS   
+K3 transaction_id unique                                           PASS   
+K4 po_id unique                                                    PASS   
+K5 po_line_id unique                                               PASS   
+K6 ground truth keyed 1:1 to lines                                 PASS   
+R1 txn.customer_id -> customer_master                              PASS   
+R2 txn.sku -> product_master                                       PASS   
+R3 po.customer_id -> customer_master                               PASS   
+R4 po_line.po_id -> purchase_orders                                PASS   
+R5 gt.true_sku -> product_master (non-blank)                       PASS   4852
+R6 duplicate_of_po_id -> purchase_orders                           PASS   
+R7 po_line_count matches actual lines                              PASS   
+R8 all candidate SKUs exist                                        PASS   4001
+L1 should_auto_process <-> action                                  PASS   
+L2 no_match => blank true_sku                                      PASS   
+L3 no_match (excl. malformed) => unknown_product exception         PASS   124
+L3b malformed lines => incomplete_line exception                   PASS   
+L4 auto-processed lines carry no blocking exception                PASS   
+L5 ambiguous => >=2 candidate SKUs                                 PASS   
+L6 do_not_create => blank expected SO qty/price                    PASS   
+L7 create_so_line => exception 'none'                              PASS   
+L8 new-customer lines never auto-process                           PASS   
+P1 price_delta_pct reproducible from ref & quote                   PASS   0.005
+P2 |delta|<=2% on live reference => within_tolerance               PASS   
+P3 |delta|>5% => outside_tolerance_*                               PASS   
+P4 outside tolerance => expected SO price falls back to reference  PASS   
+P5 stale reference age > 180 days                                  PASS   
+P6 live reference age <= 180 days                                  PASS   
+H1 >=35% of customer-SKU pairs are repeat purchases                PASS   0.774
+H2 repeat prices related but not identical (median CV 0.3%-8%)     PASS   0.0306
+H3 no zero/negative prices or quantities                           PASS   
+H4 line_amount = qty * price                                       PASS   
+S1 easy share 35-45%                                               PASS   0.401
+S2 medium share 27-37%                                             PASS   0.314
+S3 hard share 15-25%                                               PASS   0.198
+S4 exception share 5-12%                                           PASS   0.086
+S5 all 21 scenarios present                                        PASS   21
+S6 multi-scenario POs exist (>=25% of multi-line POs)              PASS   0.955
+S7 duplicate POs dated after their source                          PASS   
+S8 missing_quantity lines have no parseable quantity               PASS   
+S9 descriptions differ from catalogue names on non-clean lines     PASS   
+
+48/48 checks passed.
+
+--- Difficulty x auto-process (STP eligibility) ---
+should_auto_process  FALSE   TRUE
+difficulty_level                 
+easy                 0.000  1.000
+exception            0.944  0.056
+hard                 1.000  0.000
+medium               0.312  0.688
+
+--- Expected action distribution ---
+expected_action
+auto_process              42.71
+review_match              21.50
+auto_process_with_flag    19.52
+review_price               4.35
+request_clarification      3.95
+manual_entry               3.37
+reject_line                2.49
+hold_duplicate_check       0.80
+review_uom                 0.70
+review_quantity            0.60
+
+--- Expected exception distribution ---
+expected_exception_type
+none                       42.71
+ambiguous_match             9.91
+no_reference_price          8.26
+stale_reference_price       5.44
+price_variance_minor        5.34
+partial_match               4.95
+attribute_conflict          3.97
+conflicting_data            2.97
+illegible_document          2.97
+unmapped_customer_code      2.67
+unknown_product             2.49
+price_variance_major        2.19
+new_customer_no_history     2.17
+missing_quantity            0.98
+duplicate_order             0.80
+uom_mismatch                0.70
+quantity_outlier            0.60
+uom_converted               0.48
+incomplete_line             0.40
+
+--- Order-level straight-through potential ---
+POs fully auto-processable: 18.90%

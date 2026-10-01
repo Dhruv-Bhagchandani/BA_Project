@@ -1,0 +1,751 @@
+sku,product_name,product_family,sub_category,quality_group_id,composition,gsm,width_inch,size_spec,colour,colour_family,weave_knit,finish,uom,list_price_inr,moq_units,lead_time_days,hsn_code,gst_rate_pct,is_active,launch_date
+DD-BDS-0001,50/50 Poly Cotton Percale 170 GSM 108 inch Black,Bedsheet and Sheeting,Percale,BDS-Q01,50/50 Poly Cotton,170,108,,Black,Dark,Woven,Enzyme Wash,MTR,225.66,150,15,52094100,5,N,2021-01-30
+DD-BDS-0002,50/50 Poly Cotton Percale 170 GSM 108 inch Olive,Bedsheet and Sheeting,Percale,BDS-Q01,50/50 Poly Cotton,170,108,,Olive,Green,Woven,Enzyme Wash,MTR,219.48,100,30,52094100,5,Y,2022-04-08
+DD-BDS-0003,50/50 Poly Cotton Percale 170 GSM 108 inch Peach,Bedsheet and Sheeting,Percale,BDS-Q01,50/50 Poly Cotton,170,108,,Peach,Pink,Woven,Enzyme Wash,MTR,217.08,150,30,52094100,5,Y,2021-05-25
+DD-BDS-0004,50/50 Poly Cotton Percale 120 GSM 90 inch Beige,Bedsheet and Sheeting,Percale,BDS-Q02,50/50 Poly Cotton,120,90,,Beige,Neutral,Woven,Calendered,MTR,150.39,200,21,52094100,5,Y,2021-09-02
+DD-BDS-0005,50/50 Poly Cotton Percale 120 GSM 90 inch Sea Green,Bedsheet and Sheeting,Percale,BDS-Q02,50/50 Poly Cotton,120,90,,Sea Green,Green,Woven,Calendered,MTR,150.4,100,12,52094100,5,Y,2022-03-16
+DD-BDS-0006,50/50 Poly Cotton Percale 120 GSM 90 inch Ecru,Bedsheet and Sheeting,Percale,BDS-Q02,50/50 Poly Cotton,120,90,,Ecru,Neutral,Woven,Calendered,MTR,151.02,300,21,52094100,5,Y,2021-12-04
+DD-BDS-0007,50/50 Poly Cotton Percale 120 GSM 90 inch Mint,Bedsheet and Sheeting,Percale,BDS-Q02,50/50 Poly Cotton,120,90,,Mint,Green,Woven,Calendered,MTR,152.37,250,15,52094100,5,Y,2022-07-25
+DD-BDS-0008,50/50 Poly Cotton Bedsheet Fabric 115 GSM 108 inch Firozi,Bedsheet and Sheeting,Bedsheet Fabric,BDS-Q03,50/50 Poly Cotton,115,108,,Firozi,Blue,Woven,Standard,MTR,154.85,200,25,52094100,5,Y,2023-02-24
+DD-BDS-0009,50/50 Poly Cotton Bedsheet Fabric 115 GSM 108 inch Maroon,Bedsheet and Sheeting,Bedsheet Fabric,BDS-Q03,50/50 Poly Cotton,115,108,,Maroon,Red,Woven,Standard,MTR,156.54,100,30,52094100,5,Y,2022-12-27
+DD-BDS-0010,50/50 Poly Cotton Bedsheet Fabric 115 GSM 108 inch Royal Blue,Bedsheet and Sheeting,Bedsheet Fabric,BDS-Q03,50/50 Poly Cotton,115,108,,Royal Blue,Blue,Woven,Standard,MTR,154.75,300,21,52094100,5,Y,2021-02-05
+DD-BDS-0011,50/50 Poly Cotton Bedsheet Fabric 115 GSM 108 inch Mustard,Bedsheet and Sheeting,Bedsheet Fabric,BDS-Q03,50/50 Poly Cotton,115,108,,Mustard,Yellow,Woven,Standard,MTR,155.52,100,12,52094100,5,Y,2022-05-31
+DD-BDS-0012,50/50 Poly Cotton Bedsheet Fabric 115 GSM 108 inch Bottle Green,Bedsheet and Sheeting,Bedsheet Fabric,BDS-Q03,50/50 Poly Cotton,115,108,,Bottle Green,Green,Woven,Standard,MTR,156.33,100,21,52094100,5,Y,2021-03-29
+DD-BDS-0013,50/50 Poly Cotton Sheeting 210 GSM 90 inch Bottle Green,Bedsheet and Sheeting,Sheeting,BDS-Q04,50/50 Poly Cotton,210,90,,Bottle Green,Green,Woven,Calendered,MTR,251.95,50,10,52094100,5,Y,2020-10-16
+DD-BDS-0014,50/50 Poly Cotton Sheeting 210 GSM 90 inch Charcoal,Bedsheet and Sheeting,Sheeting,BDS-Q04,50/50 Poly Cotton,210,90,,Charcoal,Grey,Woven,Calendered,MTR,249.99,300,21,52094100,5,Y,2022-10-22
+DD-BDS-0015,50/50 Poly Cotton Sheeting 210 GSM 90 inch Beige,Bedsheet and Sheeting,Sheeting,BDS-Q04,50/50 Poly Cotton,210,90,,Beige,Neutral,Woven,Calendered,MTR,241.49,50,10,52094100,5,Y,2020-11-02
+DD-BDS-0016,50/50 Poly Cotton Sheeting 210 GSM 90 inch Royal Blue,Bedsheet and Sheeting,Sheeting,BDS-Q04,50/50 Poly Cotton,210,90,,Royal Blue,Blue,Woven,Calendered,MTR,245.72,250,21,52094100,5,Y,2021-04-17
+DD-BDS-0017,50/50 Poly Cotton Bedsheet Fabric 180 GSM 108 inch Greige RFD,Bedsheet and Sheeting,Bedsheet Fabric,BDS-Q05,50/50 Poly Cotton,180,108,,Greige RFD,Undyed,Woven,Soft Finish,MTR,204.84,100,30,52094100,5,Y,2021-02-04
+DD-BDS-0018,50/50 Poly Cotton Bedsheet Fabric 180 GSM 108 inch Teal,Bedsheet and Sheeting,Bedsheet Fabric,BDS-Q05,50/50 Poly Cotton,180,108,,Teal,Blue,Woven,Soft Finish,MTR,230.92,250,21,52094100,5,Y,2021-04-22
+DD-BDS-0019,50/50 Poly Cotton Bedsheet Fabric 180 GSM 108 inch Royal Blue,Bedsheet and Sheeting,Bedsheet Fabric,BDS-Q05,50/50 Poly Cotton,180,108,,Royal Blue,Blue,Woven,Soft Finish,MTR,233.75,250,21,52094100,5,Y,2022-03-05
+DD-BDS-0020,50/50 Poly Cotton Percale 210 GSM 90 inch Greige RFD,Bedsheet and Sheeting,Percale,BDS-Q06,50/50 Poly Cotton,210,90,,Greige RFD,Undyed,Woven,Mercerised,MTR,227.13,150,15,52094100,5,Y,2022-06-26
+DD-BDS-0021,50/50 Poly Cotton Percale 210 GSM 90 inch Olive,Bedsheet and Sheeting,Percale,BDS-Q06,50/50 Poly Cotton,210,90,,Olive,Green,Woven,Mercerised,MTR,255.43,300,10,52094100,5,Y,2022-03-02
+DD-BDS-0022,50/50 Poly Cotton Percale 210 GSM 90 inch Black,Bedsheet and Sheeting,Percale,BDS-Q06,50/50 Poly Cotton,210,90,,Black,Dark,Woven,Mercerised,MTR,263.88,200,7,52094100,5,Y,2022-02-12
+DD-BDS-0023,50/50 Poly Cotton Percale 210 GSM 90 inch Charcoal,Bedsheet and Sheeting,Percale,BDS-Q06,50/50 Poly Cotton,210,90,,Charcoal,Grey,Woven,Mercerised,MTR,262.8,50,30,52094100,5,Y,2023-02-21
+DD-BDS-0024,50/50 Poly Cotton Percale 210 GSM 90 inch Mustard,Bedsheet and Sheeting,Percale,BDS-Q06,50/50 Poly Cotton,210,90,,Mustard,Yellow,Woven,Mercerised,MTR,258.83,200,15,52094100,5,Y,2022-05-15
+DD-BDS-0025,50/50 Poly Cotton Percale 210 GSM 90 inch Cream,Bedsheet and Sheeting,Percale,BDS-Q06,50/50 Poly Cotton,210,90,,Cream,Neutral,Woven,Mercerised,MTR,250.43,200,10,52094100,5,Y,2022-04-04
+DD-BDS-0026,50/50 Poly Cotton Sheeting 180 GSM 108 inch Off White,Bedsheet and Sheeting,Sheeting,BDS-Q07,50/50 Poly Cotton,180,108,,Off White,Neutral,Woven,Standard,MTR,224.37,300,30,52094100,5,Y,2021-06-24
+DD-BDS-0027,50/50 Poly Cotton Sheeting 180 GSM 108 inch Royal Blue,Bedsheet and Sheeting,Sheeting,BDS-Q07,50/50 Poly Cotton,180,108,,Royal Blue,Blue,Woven,Standard,MTR,226.69,200,25,52094100,5,Y,2021-12-25
+DD-BDS-0028,50/50 Poly Cotton Sheeting 180 GSM 108 inch Firozi,Bedsheet and Sheeting,Sheeting,BDS-Q07,50/50 Poly Cotton,180,108,,Firozi,Blue,Woven,Standard,MTR,228.52,50,30,52094100,5,Y,2022-09-11
+DD-BDS-0029,50/50 Poly Cotton Sheeting 180 GSM 108 inch Navy Blue,Bedsheet and Sheeting,Sheeting,BDS-Q07,50/50 Poly Cotton,180,108,,Navy Blue,Blue,Woven,Standard,MTR,226.6,250,7,52094100,5,Y,2020-12-22
+DD-BDS-0030,100% Cotton Sheeting 140 GSM 108 inch Beige,Bedsheet and Sheeting,Sheeting,BDS-Q08,100% Cotton,140,108,,Beige,Neutral,Woven,Anti Crease,MTR,187.56,200,15,52094100,5,Y,2021-08-25
+DD-BDS-0031,100% Cotton Sheeting 140 GSM 108 inch Navy Blue,Bedsheet and Sheeting,Sheeting,BDS-Q08,100% Cotton,140,108,,Navy Blue,Blue,Woven,Anti Crease,MTR,194.94,200,21,52094100,5,Y,2023-03-27
+DD-BDS-0032,100% Cotton Sheeting 140 GSM 108 inch Ecru,Bedsheet and Sheeting,Sheeting,BDS-Q08,100% Cotton,140,108,,Ecru,Neutral,Woven,Anti Crease,MTR,188.56,200,7,52094100,5,Y,2021-10-19
+DD-BDS-0033,100% Cotton Sheeting 140 GSM 108 inch Charcoal,Bedsheet and Sheeting,Sheeting,BDS-Q08,100% Cotton,140,108,,Charcoal,Grey,Woven,Anti Crease,MTR,193.38,300,10,52094100,5,Y,2022-12-24
+DD-BDS-0034,100% Cotton Sheeting 140 GSM 108 inch Greige RFD,Bedsheet and Sheeting,Sheeting,BDS-Q08,100% Cotton,140,108,,Greige RFD,Undyed,Woven,Anti Crease,MTR,167.89,200,7,52094100,5,Y,2021-02-23
+DD-BDS-0035,100% Cotton Sheeting 140 GSM 108 inch Cream,Bedsheet and Sheeting,Sheeting,BDS-Q08,100% Cotton,140,108,,Cream,Neutral,Woven,Anti Crease,MTR,188.05,100,21,52094100,5,Y,2022-05-30
+DD-CDV-0001,100% Cotton Corduroy 21 Wale 245 GSM 58 inch Grey Melange,Corduroy and Velvet,21 Wale,CDV-Q01,100% Cotton Corduroy,245,58,,Grey Melange,Grey,Woven,Soft Finish,MTR,194.61,100,15,58012200,5,N,2021-12-29
+DD-CDV-0002,100% Cotton Corduroy 21 Wale 245 GSM 58 inch Black,Corduroy and Velvet,21 Wale,CDV-Q01,100% Cotton Corduroy,245,58,,Black,Dark,Woven,Soft Finish,MTR,191.13,250,21,58012200,5,Y,2022-07-26
+DD-CDV-0003,100% Cotton Corduroy 21 Wale 245 GSM 58 inch Off White,Corduroy and Velvet,21 Wale,CDV-Q01,100% Cotton Corduroy,245,58,,Off White,Neutral,Woven,Soft Finish,MTR,184.73,50,10,58012200,5,Y,2023-02-15
+DD-CDV-0004,100% Cotton Corduroy 21 Wale 245 GSM 58 inch Peach,Corduroy and Velvet,21 Wale,CDV-Q01,100% Cotton Corduroy,245,58,,Peach,Pink,Woven,Soft Finish,MTR,189.56,300,30,58012200,5,Y,2022-07-28
+DD-CDV-0005,100% Cotton Corduroy 21 Wale 245 GSM 58 inch Sea Green,Corduroy and Velvet,21 Wale,CDV-Q01,100% Cotton Corduroy,245,58,,Sea Green,Green,Woven,Soft Finish,MTR,186.93,200,30,58012200,5,Y,2021-10-17
+DD-CDV-0006,100% Polyester Velvet 21 Wale 250 GSM 44 inch Mustard,Corduroy and Velvet,21 Wale,CDV-Q02,100% Polyester Velvet,250,44,,Mustard,Yellow,Woven,Enzyme Wash,MTR,185.11,100,7,58012200,5,Y,2022-01-02
+DD-CDV-0007,100% Polyester Velvet 21 Wale 250 GSM 44 inch Black,Corduroy and Velvet,21 Wale,CDV-Q02,100% Polyester Velvet,250,44,,Black,Dark,Woven,Enzyme Wash,MTR,189.92,200,12,58012200,5,Y,2021-12-15
+DD-CDV-0008,100% Polyester Velvet 21 Wale 250 GSM 44 inch Royal Blue,Corduroy and Velvet,21 Wale,CDV-Q02,100% Polyester Velvet,250,44,,Royal Blue,Blue,Woven,Enzyme Wash,MTR,184.87,100,12,58012200,5,Y,2021-02-10
+DD-CDV-0009,100% Polyester Velvet 8 Wale 330 GSM 44 inch Greige RFD,Corduroy and Velvet,8 Wale,CDV-Q03,100% Polyester Velvet,330,44,,Greige RFD,Undyed,Woven,Mercerised,MTR,213.0,300,30,58012200,5,Y,2023-02-07
+DD-CDV-0010,100% Polyester Velvet 8 Wale 330 GSM 44 inch Olive,Corduroy and Velvet,8 Wale,CDV-Q03,100% Polyester Velvet,330,44,,Olive,Green,Woven,Mercerised,MTR,242.73,50,10,58012200,5,Y,2022-12-18
+DD-CDV-0011,100% Polyester Velvet 8 Wale 330 GSM 44 inch Wine,Corduroy and Velvet,8 Wale,CDV-Q03,100% Polyester Velvet,330,44,,Wine,Red,Woven,Mercerised,MTR,240.04,150,21,58012200,5,Y,2021-09-28
+DD-CDV-0012,100% Polyester Velvet 8 Wale 330 GSM 44 inch Sky Blue,Corduroy and Velvet,8 Wale,CDV-Q03,100% Polyester Velvet,330,44,,Sky Blue,Blue,Woven,Mercerised,MTR,240.98,250,30,58012200,5,Y,2021-07-02
+DD-CDV-0013,100% Polyester Velvet 8 Wale 265 GSM 44 inch Royal Blue,Corduroy and Velvet,8 Wale,CDV-Q04,100% Polyester Velvet,265,44,,Royal Blue,Blue,Woven,Sanforised,MTR,193.22,250,10,58012200,5,Y,2022-05-14
+DD-CDV-0014,100% Polyester Velvet 8 Wale 265 GSM 44 inch Silver Grey,Corduroy and Velvet,8 Wale,CDV-Q04,100% Polyester Velvet,265,44,,Silver Grey,Grey,Woven,Sanforised,MTR,188.74,300,15,58012200,5,Y,2021-05-14
+DD-CDV-0015,100% Polyester Velvet 8 Wale 265 GSM 44 inch Lavender,Corduroy and Velvet,8 Wale,CDV-Q04,100% Polyester Velvet,265,44,,Lavender,Purple,Woven,Sanforised,MTR,192.56,100,25,58012200,5,Y,2022-05-20
+DD-CDV-0016,100% Polyester Velvet 21 Wale 225 GSM 44 inch Navy Blue,Corduroy and Velvet,21 Wale,CDV-Q05,100% Polyester Velvet,225,44,,Navy Blue,Blue,Woven,Peach Finish,MTR,171.32,300,10,58012200,5,Y,2022-01-24
+DD-CDV-0017,100% Polyester Velvet 21 Wale 225 GSM 44 inch Coffee Brown,Corduroy and Velvet,21 Wale,CDV-Q05,100% Polyester Velvet,225,44,,Coffee Brown,Brown,Woven,Peach Finish,MTR,168.54,100,7,58012200,5,N,2023-03-24
+DD-CDV-0018,100% Polyester Velvet 21 Wale 225 GSM 44 inch Peach,Corduroy and Velvet,21 Wale,CDV-Q05,100% Polyester Velvet,225,44,,Peach,Pink,Woven,Peach Finish,MTR,170.09,300,25,58012200,5,Y,2021-10-16
+DD-CDV-0019,100% Polyester Velvet 21 Wale 225 GSM 44 inch Black,Corduroy and Velvet,21 Wale,CDV-Q05,100% Polyester Velvet,225,44,,Black,Dark,Woven,Peach Finish,MTR,174.85,100,30,58012200,5,Y,2022-09-06
+DD-CDV-0020,100% Polyester Velvet 8 Wale 250 GSM 44 inch Greige RFD,Corduroy and Velvet,8 Wale,CDV-Q06,100% Polyester Velvet,250,44,,Greige RFD,Undyed,Woven,Standard,MTR,156.36,50,30,58012200,5,Y,2021-05-18
+DD-CDV-0021,100% Polyester Velvet 8 Wale 250 GSM 44 inch Mustard,Corduroy and Velvet,8 Wale,CDV-Q06,100% Polyester Velvet,250,44,,Mustard,Yellow,Woven,Standard,MTR,176.41,100,21,58012200,5,Y,2021-05-27
+DD-CDV-0022,100% Polyester Velvet 8 Wale 250 GSM 44 inch Navy Blue,Corduroy and Velvet,8 Wale,CDV-Q06,100% Polyester Velvet,250,44,,Navy Blue,Blue,Woven,Standard,MTR,182.1,250,30,58012200,5,Y,2022-04-27
+DD-CDV-0023,100% Polyester Velvet 8 Wale 250 GSM 44 inch Wine,Corduroy and Velvet,8 Wale,CDV-Q06,100% Polyester Velvet,250,44,,Wine,Red,Woven,Standard,MTR,178.35,150,30,58012200,5,Y,2022-08-20
+DD-CDV-0024,100% Cotton Corduroy 8 Wale 270 GSM 44 inch Firozi,Corduroy and Velvet,8 Wale,CDV-Q07,100% Cotton Corduroy,270,44,,Firozi,Blue,Woven,Sanforised,MTR,197.12,300,7,58012200,5,Y,2021-08-30
+DD-CDV-0025,100% Cotton Corduroy 8 Wale 270 GSM 44 inch White,Corduroy and Velvet,8 Wale,CDV-Q07,100% Cotton Corduroy,270,44,,White,Neutral,Woven,Sanforised,MTR,192.0,200,12,58012200,5,Y,2021-12-05
+DD-CDV-0026,100% Cotton Corduroy 8 Wale 270 GSM 44 inch Baby Pink,Corduroy and Velvet,8 Wale,CDV-Q07,100% Cotton Corduroy,270,44,,Baby Pink,Pink,Woven,Sanforised,MTR,194.14,150,25,58012200,5,N,2021-04-10
+DD-CDV-0027,100% Cotton Corduroy 8 Wale 215 GSM 58 inch Sky Blue,Corduroy and Velvet,8 Wale,CDV-Q08,100% Cotton Corduroy,215,58,,Sky Blue,Blue,Woven,Peach Finish,MTR,170.9,200,25,58012200,5,Y,2022-10-05
+DD-CDV-0028,100% Cotton Corduroy 8 Wale 215 GSM 58 inch Coffee Brown,Corduroy and Velvet,8 Wale,CDV-Q08,100% Cotton Corduroy,215,58,,Coffee Brown,Brown,Woven,Peach Finish,MTR,173.91,150,15,58012200,5,Y,2022-10-05
+DD-CDV-0029,100% Cotton Corduroy 8 Wale 215 GSM 58 inch White,Corduroy and Velvet,8 Wale,CDV-Q08,100% Cotton Corduroy,215,58,,White,Neutral,Woven,Peach Finish,MTR,169.58,200,30,58012200,5,Y,2023-01-14
+DD-CDV-0030,100% Cotton Corduroy 8 Wale 215 GSM 58 inch Cream,Corduroy and Velvet,8 Wale,CDV-Q08,100% Cotton Corduroy,215,58,,Cream,Neutral,Woven,Peach Finish,MTR,168.76,50,21,58012200,5,Y,2021-04-03
+DD-CDV-0031,100% Cotton Corduroy 8 Wale 215 GSM 58 inch Teal,Corduroy and Velvet,8 Wale,CDV-Q08,100% Cotton Corduroy,215,58,,Teal,Blue,Woven,Peach Finish,MTR,171.6,250,30,58012200,5,Y,2020-11-06
+DD-CDV-0032,100% Cotton Corduroy 8 Wale 215 GSM 58 inch Greige RFD,Corduroy and Velvet,8 Wale,CDV-Q08,100% Cotton Corduroy,215,58,,Greige RFD,Undyed,Woven,Peach Finish,MTR,150.87,300,30,58012200,5,Y,2022-04-17
+DD-CDV-0033,100% Polyester Velvet 21 Wale 225 GSM 44 inch Grey Melange,Corduroy and Velvet,21 Wale,CDV-Q05,100% Polyester Velvet,225,44,,Grey Melange,Grey,Woven,Peach Finish,MTR,177.33,50,25,58012200,5,Y,2022-02-17
+DD-CIN-0001,100% Cotton Duck Canvas 390 GSM 63 inch White,Canvas and Industrial,Duck Canvas,CIN-Q01,100% Cotton,390,63,,White,Neutral,Woven,Calendered,MTR,222.49,100,7,52093100,5,Y,2022-05-02
+DD-CIN-0002,100% Cotton Duck Canvas 390 GSM 63 inch Firozi,Canvas and Industrial,Duck Canvas,CIN-Q01,100% Cotton,390,63,,Firozi,Blue,Woven,Calendered,MTR,226.13,50,12,52093100,5,Y,2022-02-17
+DD-CIN-0003,100% Cotton Duck Canvas 390 GSM 63 inch Beige,Canvas and Industrial,Duck Canvas,CIN-Q01,100% Cotton,390,63,,Beige,Neutral,Woven,Calendered,MTR,222.81,300,10,52093100,5,Y,2022-12-28
+DD-CIN-0004,65/35 Poly Cotton Canvas 350 GSM 63 inch Coffee Brown,Canvas and Industrial,Canvas,CIN-Q02,65/35 Poly Cotton,350,63,,Coffee Brown,Brown,Woven,Calendered,MTR,204.88,200,30,52093100,5,Y,2020-12-29
+DD-CIN-0005,65/35 Poly Cotton Canvas 350 GSM 63 inch Maroon,Canvas and Industrial,Canvas,CIN-Q02,65/35 Poly Cotton,350,63,,Maroon,Red,Woven,Calendered,MTR,210.27,100,30,52093100,5,Y,2022-02-26
+DD-CIN-0006,65/35 Poly Cotton Canvas 350 GSM 63 inch Silver Grey,Canvas and Industrial,Canvas,CIN-Q02,65/35 Poly Cotton,350,63,,Silver Grey,Grey,Woven,Calendered,MTR,206.34,200,10,52093100,5,Y,2022-04-13
+DD-CIN-0007,65/35 Poly Cotton Duck Canvas 405 GSM 63 inch Bottle Green,Canvas and Industrial,Duck Canvas,CIN-Q03,65/35 Poly Cotton,405,63,,Bottle Green,Green,Woven,Peach Finish,MTR,239.16,300,21,52093100,5,Y,2022-10-18
+DD-CIN-0008,65/35 Poly Cotton Duck Canvas 405 GSM 63 inch Peach,Canvas and Industrial,Duck Canvas,CIN-Q03,65/35 Poly Cotton,405,63,,Peach,Pink,Woven,Peach Finish,MTR,235.1,300,12,52093100,5,Y,2021-12-12
+DD-CIN-0009,65/35 Poly Cotton Duck Canvas 405 GSM 63 inch Grey Melange,Canvas and Industrial,Duck Canvas,CIN-Q03,65/35 Poly Cotton,405,63,,Grey Melange,Grey,Woven,Peach Finish,MTR,247.11,300,21,52093100,5,Y,2022-07-23
+DD-CIN-0010,65/35 Poly Cotton Duck Canvas 405 GSM 63 inch Ecru,Canvas and Industrial,Duck Canvas,CIN-Q03,65/35 Poly Cotton,405,63,,Ecru,Neutral,Woven,Peach Finish,MTR,230.68,300,30,52093100,5,Y,2021-09-08
+DD-CIN-0011,65/35 Poly Cotton Canvas 375 GSM 58 inch Coffee Brown,Canvas and Industrial,Canvas,CIN-Q04,65/35 Poly Cotton,375,58,,Coffee Brown,Brown,Woven,Mercerised,MTR,223.49,200,10,52093100,5,Y,2022-06-29
+DD-CIN-0012,65/35 Poly Cotton Canvas 375 GSM 58 inch Greige RFD,Canvas and Industrial,Canvas,CIN-Q04,65/35 Poly Cotton,375,58,,Greige RFD,Undyed,Woven,Mercerised,MTR,198.76,100,30,52093100,5,Y,2022-02-09
+DD-CIN-0013,65/35 Poly Cotton Canvas 375 GSM 58 inch Silver Grey,Canvas and Industrial,Canvas,CIN-Q04,65/35 Poly Cotton,375,58,,Silver Grey,Grey,Woven,Mercerised,MTR,218.88,250,12,52093100,5,Y,2021-05-07
+DD-CIN-0014,65/35 Poly Cotton Canvas 375 GSM 58 inch Off White,Canvas and Industrial,Canvas,CIN-Q04,65/35 Poly Cotton,375,58,,Off White,Neutral,Woven,Mercerised,MTR,220.85,250,21,52093100,5,Y,2021-03-23
+DD-CIN-0015,65/35 Poly Cotton Canvas 375 GSM 58 inch Baby Pink,Canvas and Industrial,Canvas,CIN-Q04,65/35 Poly Cotton,375,58,,Baby Pink,Pink,Woven,Mercerised,MTR,218.07,300,25,52093100,5,Y,2021-07-07
+DD-CIN-0016,65/35 Poly Cotton Duck Canvas 465 GSM 63 inch Off White,Canvas and Industrial,Duck Canvas,CIN-Q05,65/35 Poly Cotton,465,63,,Off White,Neutral,Woven,Calendered,MTR,253.99,200,7,52093100,5,Y,2023-01-22
+DD-CIN-0017,65/35 Poly Cotton Duck Canvas 465 GSM 63 inch Grey Melange,Canvas and Industrial,Duck Canvas,CIN-Q05,65/35 Poly Cotton,465,63,,Grey Melange,Grey,Woven,Calendered,MTR,266.42,200,25,52093100,5,Y,2022-05-13
+DD-CIN-0018,65/35 Poly Cotton Duck Canvas 465 GSM 63 inch Sky Blue,Canvas and Industrial,Duck Canvas,CIN-Q05,65/35 Poly Cotton,465,63,,Sky Blue,Blue,Woven,Calendered,MTR,255.81,150,7,52093100,5,Y,2022-10-11
+DD-CIN-0019,65/35 Poly Cotton Duck Canvas 465 GSM 63 inch Bottle Green,Canvas and Industrial,Duck Canvas,CIN-Q05,65/35 Poly Cotton,465,63,,Bottle Green,Green,Woven,Calendered,MTR,262.07,300,21,52093100,5,Y,2021-01-23
+DD-CIN-0020,65/35 Poly Cotton Duck Canvas 465 GSM 63 inch Silver Grey,Canvas and Industrial,Duck Canvas,CIN-Q05,65/35 Poly Cotton,465,63,,Silver Grey,Grey,Woven,Calendered,MTR,258.04,300,30,52093100,5,Y,2021-04-21
+DD-CIN-0021,65/35 Poly Cotton Duck Canvas 465 GSM 63 inch Lavender,Canvas and Industrial,Duck Canvas,CIN-Q05,65/35 Poly Cotton,465,63,,Lavender,Purple,Woven,Calendered,MTR,260.5,100,30,52093100,5,Y,2022-09-27
+DD-CIN-0022,100% Cotton Duck Canvas 465 GSM 58 inch Off White,Canvas and Industrial,Duck Canvas,CIN-Q06,100% Cotton,465,58,,Off White,Neutral,Woven,Mercerised,MTR,261.25,100,21,52093100,5,Y,2021-05-08
+DD-CIN-0023,100% Cotton Duck Canvas 465 GSM 58 inch Royal Blue,Canvas and Industrial,Duck Canvas,CIN-Q06,100% Cotton,465,58,,Royal Blue,Blue,Woven,Mercerised,MTR,266.56,150,7,52093100,5,Y,2022-09-23
+DD-CIN-0024,100% Cotton Duck Canvas 465 GSM 58 inch Olive,Canvas and Industrial,Duck Canvas,CIN-Q06,100% Cotton,465,58,,Olive,Green,Woven,Mercerised,MTR,265.1,150,25,52093100,5,Y,2022-03-09
+DD-CIN-0025,100% Cotton Duck Canvas 465 GSM 58 inch Baby Pink,Canvas and Industrial,Duck Canvas,CIN-Q06,100% Cotton,465,58,,Baby Pink,Pink,Woven,Mercerised,MTR,260.91,300,12,52093100,5,Y,2022-08-17
+DD-CIN-0026,65/35 Poly Cotton Duck Canvas 310 GSM 63 inch Maroon,Canvas and Industrial,Duck Canvas,CIN-Q07,65/35 Poly Cotton,310,63,,Maroon,Red,Woven,Peach Finish,MTR,190.73,300,12,52093100,5,Y,2021-11-17
+DD-CIN-0027,65/35 Poly Cotton Duck Canvas 310 GSM 63 inch Baby Pink,Canvas and Industrial,Duck Canvas,CIN-Q07,65/35 Poly Cotton,310,63,,Baby Pink,Pink,Woven,Peach Finish,MTR,184.7,200,21,52093100,5,Y,2022-11-29
+DD-CIN-0028,65/35 Poly Cotton Duck Canvas 310 GSM 63 inch Sea Green,Canvas and Industrial,Duck Canvas,CIN-Q07,65/35 Poly Cotton,310,63,,Sea Green,Green,Woven,Peach Finish,MTR,185.79,250,10,52093100,5,Y,2023-03-22
+DD-CIN-0029,65/35 Poly Cotton Duck Canvas 310 GSM 63 inch Lavender,Canvas and Industrial,Duck Canvas,CIN-Q07,65/35 Poly Cotton,310,63,,Lavender,Purple,Woven,Peach Finish,MTR,189.16,300,10,52093100,5,Y,2021-11-24
+DD-CIN-0030,65/35 Poly Cotton Duck Canvas 310 GSM 63 inch Wine,Canvas and Industrial,Duck Canvas,CIN-Q07,65/35 Poly Cotton,310,63,,Wine,Red,Woven,Peach Finish,MTR,193.16,150,30,52093100,5,Y,2021-07-02
+DD-CIN-0031,100% Cotton Army Canvas 415 GSM 58 inch Bottle Green,Canvas and Industrial,Army Canvas,CIN-Q08,100% Cotton,415,58,,Bottle Green,Green,Woven,Calendered,MTR,236.73,200,12,52093100,5,Y,2021-01-29
+DD-CIN-0032,100% Cotton Army Canvas 415 GSM 58 inch Cream,Canvas and Industrial,Army Canvas,CIN-Q08,100% Cotton,415,58,,Cream,Neutral,Woven,Calendered,MTR,225.28,200,7,52093100,5,Y,2020-12-24
+DD-CIN-0033,100% Cotton Army Canvas 415 GSM 58 inch Mustard,Canvas and Industrial,Army Canvas,CIN-Q08,100% Cotton,415,58,,Mustard,Yellow,Woven,Calendered,MTR,236.66,200,25,52093100,5,Y,2021-04-21
+DD-CTB-0001,98/2 Cotton Lycra Chino 210 GSM 58 inch Charcoal,Cotton Bottomweight,Chino,CTB-Q01,98/2 Cotton Lycra,210,58,,Charcoal,Grey,Woven,Standard,MTR,170.34,200,7,52094200,5,Y,2022-12-09
+DD-CTB-0002,98/2 Cotton Lycra Chino 210 GSM 58 inch Mint,Cotton Bottomweight,Chino,CTB-Q01,98/2 Cotton Lycra,210,58,,Mint,Green,Woven,Standard,MTR,162.94,100,30,52094200,5,Y,2023-01-25
+DD-CTB-0003,98/2 Cotton Lycra Chino 210 GSM 58 inch White,Cotton Bottomweight,Chino,CTB-Q01,98/2 Cotton Lycra,210,58,,White,Neutral,Woven,Standard,MTR,164.47,50,30,52094200,5,Y,2022-10-02
+DD-CTB-0004,97/3 Cotton Spandex Drill 275 GSM 58 inch Bottle Green,Cotton Bottomweight,Drill,CTB-Q02,97/3 Cotton Spandex,275,58,,Bottle Green,Green,Woven,Bio Wash,MTR,220.31,250,15,52094200,5,Y,2023-02-15
+DD-CTB-0005,97/3 Cotton Spandex Drill 275 GSM 58 inch Sky Blue,Cotton Bottomweight,Drill,CTB-Q02,97/3 Cotton Spandex,275,58,,Sky Blue,Blue,Woven,Bio Wash,MTR,214.7,100,30,52094200,5,Y,2022-12-21
+DD-CTB-0006,97/3 Cotton Spandex Drill 275 GSM 58 inch Olive,Cotton Bottomweight,Drill,CTB-Q02,97/3 Cotton Spandex,275,58,,Olive,Green,Woven,Bio Wash,MTR,216.09,50,30,52094200,5,Y,2020-10-26
+DD-CTB-0007,97/3 Cotton Spandex Chino 320 GSM 58 inch Off White,Cotton Bottomweight,Chino,CTB-Q03,97/3 Cotton Spandex,320,58,,Off White,Neutral,Woven,Bio Wash,MTR,238.15,50,25,52094200,5,Y,2021-08-08
+DD-CTB-0008,97/3 Cotton Spandex Chino 320 GSM 58 inch Ecru,Cotton Bottomweight,Chino,CTB-Q03,97/3 Cotton Spandex,320,58,,Ecru,Neutral,Woven,Bio Wash,MTR,239.61,150,15,52094200,5,Y,2020-10-20
+DD-CTB-0009,97/3 Cotton Spandex Chino 320 GSM 58 inch Camel,Cotton Bottomweight,Chino,CTB-Q03,97/3 Cotton Spandex,320,58,,Camel,Brown,Woven,Bio Wash,MTR,248.89,100,12,52094200,5,Y,2022-05-29
+DD-CTB-0010,97/3 Cotton Spandex Chino 320 GSM 58 inch Peach,Cotton Bottomweight,Chino,CTB-Q03,97/3 Cotton Spandex,320,58,,Peach,Pink,Woven,Bio Wash,MTR,240.62,300,10,52094200,5,Y,2021-03-14
+DD-CTB-0011,100% Cotton Canvas Bottom 225 GSM 58 inch Camel,Cotton Bottomweight,Canvas Bottom,CTB-Q04,100% Cotton,225,58,,Camel,Brown,Woven,Enzyme Wash,MTR,165.65,300,15,52094200,5,Y,2022-02-22
+DD-CTB-0012,100% Cotton Canvas Bottom 225 GSM 58 inch Bottle Green,Cotton Bottomweight,Canvas Bottom,CTB-Q04,100% Cotton,225,58,,Bottle Green,Green,Woven,Enzyme Wash,MTR,170.03,150,25,52094200,5,Y,2021-08-30
+DD-CTB-0013,100% Cotton Canvas Bottom 225 GSM 58 inch Beige,Cotton Bottomweight,Canvas Bottom,CTB-Q04,100% Cotton,225,58,,Beige,Neutral,Woven,Enzyme Wash,MTR,161.62,150,30,52094200,5,Y,2021-08-31
+DD-CTB-0014,100% Cotton Canvas Bottom 225 GSM 58 inch Navy Blue,Cotton Bottomweight,Canvas Bottom,CTB-Q04,100% Cotton,225,58,,Navy Blue,Blue,Woven,Enzyme Wash,MTR,168.69,100,15,52094200,5,Y,2021-06-13
+DD-CTB-0015,100% Cotton Drill 195 GSM 60 inch Teal,Cotton Bottomweight,Drill,CTB-Q05,100% Cotton,195,60,,Teal,Blue,Woven,Soft Finish,MTR,149.04,200,25,52094200,5,Y,2022-01-27
+DD-CTB-0016,100% Cotton Drill 195 GSM 60 inch Camel,Cotton Bottomweight,Drill,CTB-Q05,100% Cotton,195,60,,Camel,Brown,Woven,Soft Finish,MTR,149.03,250,25,52094200,5,N,2021-04-29
+DD-CTB-0017,100% Cotton Drill 195 GSM 60 inch Cream,Cotton Bottomweight,Drill,CTB-Q05,100% Cotton,195,60,,Cream,Neutral,Woven,Soft Finish,MTR,145.89,100,12,52094200,5,Y,2022-12-04
+DD-CTB-0018,100% Cotton Drill 195 GSM 60 inch Mint,Cotton Bottomweight,Drill,CTB-Q05,100% Cotton,195,60,,Mint,Green,Woven,Soft Finish,MTR,146.59,100,12,52094200,5,Y,2021-10-28
+DD-CTB-0019,100% Cotton Twill 295 GSM 58 inch Bottle Green,Cotton Bottomweight,Twill,CTB-Q06,100% Cotton,295,58,,Bottle Green,Green,Woven,Anti Crease,MTR,217.09,150,15,52094200,5,Y,2022-03-13
+DD-CTB-0020,100% Cotton Twill 295 GSM 58 inch Wine,Cotton Bottomweight,Twill,CTB-Q06,100% Cotton,295,58,,Wine,Red,Woven,Anti Crease,MTR,216.85,50,15,52094200,5,Y,2022-01-12
+DD-CTB-0021,100% Cotton Twill 295 GSM 58 inch Mustard,Cotton Bottomweight,Twill,CTB-Q06,100% Cotton,295,58,,Mustard,Yellow,Woven,Anti Crease,MTR,215.85,200,25,52094200,5,Y,2022-06-12
+DD-CTB-0022,100% Cotton Twill 295 GSM 58 inch Beige,Cotton Bottomweight,Twill,CTB-Q06,100% Cotton,295,58,,Beige,Neutral,Woven,Anti Crease,MTR,208.27,50,21,52094200,5,Y,2021-10-17
+DD-CTB-0023,98/2 Cotton Lycra Drill 235 GSM 60 inch Bottle Green,Cotton Bottomweight,Drill,CTB-Q07,98/2 Cotton Lycra,235,60,,Bottle Green,Green,Woven,Anti Crease,MTR,198.57,150,10,52094200,5,Y,2022-11-07
+DD-CTB-0024,98/2 Cotton Lycra Drill 235 GSM 60 inch Coffee Brown,Cotton Bottomweight,Drill,CTB-Q07,98/2 Cotton Lycra,235,60,,Coffee Brown,Brown,Woven,Anti Crease,MTR,195.22,50,30,52094200,5,Y,2021-10-31
+DD-CTB-0025,98/2 Cotton Lycra Drill 235 GSM 60 inch Greige RFD,Cotton Bottomweight,Drill,CTB-Q07,98/2 Cotton Lycra,235,60,,Greige RFD,Undyed,Woven,Anti Crease,MTR,172.17,250,30,52094200,5,N,2022-12-12
+DD-CTB-0026,98/2 Cotton Lycra Drill 235 GSM 60 inch Maroon,Cotton Bottomweight,Drill,CTB-Q07,98/2 Cotton Lycra,235,60,,Maroon,Red,Woven,Anti Crease,MTR,195.16,150,7,52094200,5,Y,2022-04-16
+DD-CTB-0027,97/3 Cotton Spandex Canvas Bottom 195 GSM 60 inch Lavender,Cotton Bottomweight,Canvas Bottom,CTB-Q08,97/3 Cotton Spandex,195,60,,Lavender,Purple,Woven,Anti Crease,MTR,165.17,100,15,52094200,5,Y,2020-11-26
+DD-CTB-0028,97/3 Cotton Spandex Canvas Bottom 195 GSM 60 inch Sea Green,Cotton Bottomweight,Canvas Bottom,CTB-Q08,97/3 Cotton Spandex,195,60,,Sea Green,Green,Woven,Anti Crease,MTR,166.36,50,7,52094200,5,Y,2022-06-18
+DD-CTB-0029,97/3 Cotton Spandex Canvas Bottom 195 GSM 60 inch Bottle Green,Cotton Bottomweight,Canvas Bottom,CTB-Q08,97/3 Cotton Spandex,195,60,,Bottle Green,Green,Woven,Anti Crease,MTR,167.35,250,10,52094200,5,Y,2022-10-16
+DD-CTB-0030,97/3 Cotton Spandex Canvas Bottom 195 GSM 60 inch Cream,Cotton Bottomweight,Canvas Bottom,CTB-Q08,97/3 Cotton Spandex,195,60,,Cream,Neutral,Woven,Anti Crease,MTR,161.08,50,25,52094200,5,Y,2021-06-29
+DD-CTB-0031,97/3 Cotton Spandex Canvas Bottom 195 GSM 60 inch Beige,Cotton Bottomweight,Canvas Bottom,CTB-Q08,97/3 Cotton Spandex,195,60,,Beige,Neutral,Woven,Anti Crease,MTR,161.06,50,12,52094200,5,Y,2020-12-13
+DD-CTB-0032,97/3 Cotton Spandex Canvas Bottom 195 GSM 60 inch Baby Pink,Cotton Bottomweight,Canvas Bottom,CTB-Q08,97/3 Cotton Spandex,195,60,,Baby Pink,Pink,Woven,Anti Crease,MTR,162.96,50,12,52094200,5,Y,2021-03-23
+DD-CTB-0033,97/3 Cotton Spandex Drill 275 GSM 58 inch Cream,Cotton Bottomweight,Drill,CTB-Q02,97/3 Cotton Spandex,275,58,,Cream,Neutral,Woven,Bio Wash,MTR,212.9,50,10,52094200,5,Y,2022-04-04
+DD-CTB-0034,98/2 Cotton Lycra Drill 235 GSM 60 inch White,Cotton Bottomweight,Drill,CTB-Q07,98/2 Cotton Lycra,235,60,,White,Neutral,Woven,Anti Crease,MTR,193.02,50,10,52094200,5,Y,2021-11-21
+DD-CTS-0001,60/40 Cotton Poly Dobby 130 GSM 44 inch Navy Blue,Cotton Shirting,Dobby,CTS-Q01,60/40 Cotton Poly,130,44,,Navy Blue,Blue,Woven,Calendered,MTR,101.59,100,7,52081200,5,Y,2023-02-14
+DD-CTS-0002,60/40 Cotton Poly Dobby 130 GSM 44 inch Greige RFD,Cotton Shirting,Dobby,CTS-Q01,60/40 Cotton Poly,130,44,,Greige RFD,Undyed,Woven,Calendered,MTR,88.28,50,10,52081200,5,N,2022-02-17
+DD-CTS-0003,60/40 Cotton Poly Dobby 130 GSM 44 inch Ecru,Cotton Shirting,Dobby,CTS-Q01,60/40 Cotton Poly,130,44,,Ecru,Neutral,Woven,Calendered,MTR,97.92,50,30,52081200,5,Y,2021-09-30
+DD-CTS-0004,100% Combed Cotton Dobby 140 GSM 58 inch Mustard,Cotton Shirting,Dobby,CTS-Q02,100% Combed Cotton,140,58,,Mustard,Yellow,Woven,Standard,MTR,119.07,250,12,52081200,5,Y,2022-12-18
+DD-CTS-0005,100% Combed Cotton Dobby 140 GSM 58 inch Royal Blue,Cotton Shirting,Dobby,CTS-Q02,100% Combed Cotton,140,58,,Royal Blue,Blue,Woven,Standard,MTR,120.41,250,12,52081200,5,Y,2021-02-21
+DD-CTS-0006,100% Combed Cotton Dobby 140 GSM 58 inch Rust,Cotton Shirting,Dobby,CTS-Q02,100% Combed Cotton,140,58,,Rust,Red,Woven,Standard,MTR,119.93,150,12,52081200,5,Y,2021-11-11
+DD-CTS-0007,100% Combed Cotton Dobby 150 GSM 58 inch Mustard,Cotton Shirting,Dobby,CTS-Q03,100% Combed Cotton,150,58,,Mustard,Yellow,Woven,Peach Finish,MTR,131.82,150,15,52081200,5,Y,2022-12-10
+DD-CTS-0008,100% Combed Cotton Dobby 150 GSM 58 inch Wine,Cotton Shirting,Dobby,CTS-Q03,100% Combed Cotton,150,58,,Wine,Red,Woven,Peach Finish,MTR,132.66,250,30,52081200,5,Y,2023-01-10
+DD-CTS-0009,100% Combed Cotton Dobby 150 GSM 58 inch Royal Blue,Cotton Shirting,Dobby,CTS-Q03,100% Combed Cotton,150,58,,Royal Blue,Blue,Woven,Peach Finish,MTR,132.34,150,25,52081200,5,Y,2022-08-07
+DD-CTS-0010,100% Combed Cotton Dobby 150 GSM 58 inch Beige,Cotton Shirting,Dobby,CTS-Q03,100% Combed Cotton,150,58,,Beige,Neutral,Woven,Peach Finish,MTR,128.78,200,21,52081200,5,N,2020-11-21
+DD-CTS-0011,100% Combed Cotton Oxford 160 GSM 44 inch Royal Blue,Cotton Shirting,Oxford,CTS-Q04,100% Combed Cotton,160,44,,Royal Blue,Blue,Woven,Peach Finish,MTR,131.23,100,25,52081200,5,Y,2022-05-31
+DD-CTS-0012,100% Combed Cotton Oxford 160 GSM 44 inch Wine,Cotton Shirting,Oxford,CTS-Q04,100% Combed Cotton,160,44,,Wine,Red,Woven,Peach Finish,MTR,132.51,50,25,52081200,5,Y,2022-02-02
+DD-CTS-0013,100% Combed Cotton Chambray 130 GSM 58 inch Off White,Cotton Shirting,Chambray,CTS-Q05,100% Combed Cotton,130,58,,Off White,Neutral,Woven,Bio Wash,MTR,111.53,50,15,52081200,5,Y,2021-12-26
+DD-CTS-0014,100% Combed Cotton Chambray 130 GSM 58 inch Sea Green,Cotton Shirting,Chambray,CTS-Q05,100% Combed Cotton,130,58,,Sea Green,Green,Woven,Bio Wash,MTR,113.52,150,30,52081200,5,Y,2020-11-15
+DD-CTS-0015,100% Combed Cotton Chambray 130 GSM 58 inch Black,Cotton Shirting,Chambray,CTS-Q05,100% Combed Cotton,130,58,,Black,Dark,Woven,Bio Wash,MTR,117.17,300,21,52081200,5,Y,2022-03-21
+DD-CTS-0016,100% Combed Cotton Chambray 130 GSM 58 inch Baby Pink,Cotton Shirting,Chambray,CTS-Q05,100% Combed Cotton,130,58,,Baby Pink,Pink,Woven,Bio Wash,MTR,113.82,50,21,52081200,5,Y,2022-04-11
+DD-CTS-0017,100% Combed Cotton Poplin 95 GSM 58 inch Teal,Cotton Shirting,Poplin,CTS-Q06,100% Combed Cotton,95,58,,Teal,Blue,Woven,Anti Crease,MTR,90.37,50,25,52081200,5,Y,2021-11-09
+DD-CTS-0018,100% Combed Cotton Poplin 95 GSM 58 inch Peach,Cotton Shirting,Poplin,CTS-Q06,100% Combed Cotton,95,58,,Peach,Pink,Woven,Anti Crease,MTR,87.8,250,7,52081200,5,Y,2022-10-09
+DD-CTS-0019,100% Combed Cotton Poplin 95 GSM 58 inch White,Cotton Shirting,Poplin,CTS-Q06,100% Combed Cotton,95,58,,White,Neutral,Woven,Anti Crease,MTR,88.18,300,12,52081200,5,Y,2022-06-14
+DD-CTS-0020,100% Combed Cotton Poplin 95 GSM 58 inch Maroon,Cotton Shirting,Poplin,CTS-Q06,100% Combed Cotton,95,58,,Maroon,Red,Woven,Anti Crease,MTR,89.15,200,12,52081200,5,N,2022-01-12
+DD-CTS-0021,60/40 Cotton Poly Cambric 105 GSM 44 inch Greige RFD,Cotton Shirting,Cambric,CTS-Q07,60/40 Cotton Poly,105,44,,Greige RFD,Undyed,Woven,Mercerised,MTR,76.49,200,25,52081200,5,Y,2021-10-23
+DD-CTS-0022,60/40 Cotton Poly Cambric 105 GSM 44 inch Camel,Cotton Shirting,Cambric,CTS-Q07,60/40 Cotton Poly,105,44,,Camel,Brown,Woven,Mercerised,MTR,88.01,50,25,52081200,5,Y,2023-02-17
+DD-CTS-0023,60/40 Cotton Poly Cambric 105 GSM 44 inch Royal Blue,Cotton Shirting,Cambric,CTS-Q07,60/40 Cotton Poly,105,44,,Royal Blue,Blue,Woven,Mercerised,MTR,87.5,150,7,52081200,5,Y,2020-11-16
+DD-CTS-0024,60/40 Cotton Poly Cambric 105 GSM 44 inch Beige,Cotton Shirting,Cambric,CTS-Q07,60/40 Cotton Poly,105,44,,Beige,Neutral,Woven,Mercerised,MTR,84.52,50,30,52081200,5,Y,2022-11-29
+DD-CTS-0025,60/40 Cotton Poly Voile 130 GSM 44 inch Firozi,Cotton Shirting,Voile,CTS-Q08,60/40 Cotton Poly,130,44,,Firozi,Blue,Woven,Sanforised,MTR,101.76,100,7,52081200,5,Y,2022-12-13
+DD-CTS-0026,60/40 Cotton Poly Voile 130 GSM 44 inch Royal Blue,Cotton Shirting,Voile,CTS-Q08,60/40 Cotton Poly,130,44,,Royal Blue,Blue,Woven,Sanforised,MTR,101.53,200,30,52081200,5,Y,2022-09-05
+DD-CTS-0027,60/40 Cotton Poly Voile 130 GSM 44 inch Greige RFD,Cotton Shirting,Voile,CTS-Q08,60/40 Cotton Poly,130,44,,Greige RFD,Undyed,Woven,Sanforised,MTR,88.84,250,7,52081200,5,Y,2021-01-31
+DD-DNM-0001,98/2 Cotton Lycra Denim Rigid 300 GSM 63 inch Bottle Green,Denim,Rigid,DNM-Q01,98/2 Cotton Lycra Denim,300,63,,Bottle Green,Green,Woven,Anti Crease,MTR,228.23,200,15,52094200,5,Y,2022-02-13
+DD-DNM-0002,98/2 Cotton Lycra Denim Rigid 300 GSM 63 inch Maroon,Denim,Rigid,DNM-Q01,98/2 Cotton Lycra Denim,300,63,,Maroon,Red,Woven,Anti Crease,MTR,230.64,300,15,52094200,5,Y,2020-12-29
+DD-DNM-0003,98/2 Cotton Lycra Denim Rigid 300 GSM 63 inch Peach,Denim,Rigid,DNM-Q01,98/2 Cotton Lycra Denim,300,63,,Peach,Pink,Woven,Anti Crease,MTR,225.13,200,10,52094200,5,Y,2020-12-09
+DD-DNM-0004,98/2 Cotton Lycra Denim Rigid 300 GSM 63 inch Firozi,Denim,Rigid,DNM-Q01,98/2 Cotton Lycra Denim,300,63,,Firozi,Blue,Woven,Anti Crease,MTR,225.49,100,25,52094200,5,Y,2021-04-16
+DD-DNM-0005,98/2 Cotton Lycra Denim Rigid 300 GSM 63 inch Sea Green,Denim,Rigid,DNM-Q01,98/2 Cotton Lycra Denim,300,63,,Sea Green,Green,Woven,Anti Crease,MTR,224.61,250,30,52094200,5,Y,2022-06-08
+DD-DNM-0006,98/2 Cotton Lycra Denim Lightweight 350 GSM 58 inch Maroon,Denim,Lightweight,DNM-Q02,98/2 Cotton Lycra Denim,350,58,,Maroon,Red,Woven,Standard,MTR,244.54,150,21,52094200,5,Y,2020-11-19
+DD-DNM-0007,98/2 Cotton Lycra Denim Lightweight 350 GSM 58 inch Navy Blue,Denim,Lightweight,DNM-Q02,98/2 Cotton Lycra Denim,350,58,,Navy Blue,Blue,Woven,Standard,MTR,241.62,50,30,52094200,5,Y,2022-07-07
+DD-DNM-0008,98/2 Cotton Lycra Denim Lightweight 350 GSM 58 inch Wine,Denim,Lightweight,DNM-Q02,98/2 Cotton Lycra Denim,350,58,,Wine,Red,Woven,Standard,MTR,242.79,300,7,52094200,5,Y,2022-11-22
+DD-DNM-0009,98/2 Cotton Lycra Denim Lightweight 350 GSM 58 inch Coffee Brown,Denim,Lightweight,DNM-Q02,98/2 Cotton Lycra Denim,350,58,,Coffee Brown,Brown,Woven,Standard,MTR,239.47,150,10,52094200,5,Y,2022-09-05
+DD-DNM-0010,98/2 Cotton Lycra Denim Lightweight 350 GSM 58 inch Camel,Denim,Lightweight,DNM-Q02,98/2 Cotton Lycra Denim,350,58,,Camel,Brown,Woven,Standard,MTR,240.27,100,25,52094200,5,Y,2022-10-15
+DD-DNM-0011,Poly Cotton Denim Lightweight 255 GSM 58 inch Sea Green,Denim,Lightweight,DNM-Q03,Poly Cotton Denim,255,58,,Sea Green,Green,Woven,Calendered,MTR,171.27,300,10,52094200,5,Y,2021-06-06
+DD-DNM-0012,Poly Cotton Denim Lightweight 255 GSM 58 inch Olive,Denim,Lightweight,DNM-Q03,Poly Cotton Denim,255,58,,Olive,Green,Woven,Calendered,MTR,175.28,50,21,52094200,5,Y,2021-04-12
+DD-DNM-0013,Poly Cotton Denim Lightweight 255 GSM 58 inch Royal Blue,Denim,Lightweight,DNM-Q03,Poly Cotton Denim,255,58,,Royal Blue,Blue,Woven,Calendered,MTR,175.03,150,10,52094200,5,Y,2021-05-07
+DD-DNM-0014,Poly Cotton Denim Lightweight 255 GSM 58 inch White,Denim,Lightweight,DNM-Q03,Poly Cotton Denim,255,58,,White,Neutral,Woven,Calendered,MTR,171.0,200,12,52094200,5,Y,2021-11-08
+DD-DNM-0015,Poly Cotton Denim Lightweight 255 GSM 58 inch Silver Grey,Denim,Lightweight,DNM-Q03,Poly Cotton Denim,255,58,,Silver Grey,Grey,Woven,Calendered,MTR,169.51,300,7,52094200,5,Y,2022-12-26
+DD-DNM-0016,98/2 Cotton Lycra Denim Stretch 370 GSM 63 inch Off White,Denim,Stretch,DNM-Q04,98/2 Cotton Lycra Denim,370,63,,Off White,Neutral,Woven,Sanforised,MTR,254.59,150,7,52094200,5,Y,2022-03-02
+DD-DNM-0017,98/2 Cotton Lycra Denim Stretch 370 GSM 63 inch Rust,Denim,Stretch,DNM-Q04,98/2 Cotton Lycra Denim,370,63,,Rust,Red,Woven,Sanforised,MTR,260.35,200,25,52094200,5,Y,2021-11-27
+DD-DNM-0018,98/2 Cotton Lycra Denim Stretch 370 GSM 63 inch Mint,Denim,Stretch,DNM-Q04,98/2 Cotton Lycra Denim,370,63,,Mint,Green,Woven,Sanforised,MTR,260.17,50,12,52094200,5,Y,2021-08-03
+DD-DNM-0019,100% Cotton Denim Rigid 370 GSM 63 inch Grey Melange,Denim,Rigid,DNM-Q05,100% Cotton Denim,370,63,,Grey Melange,Grey,Woven,Sanforised,MTR,245.73,200,7,52094200,5,Y,2021-12-06
+DD-DNM-0020,100% Cotton Denim Rigid 370 GSM 63 inch Lavender,Denim,Rigid,DNM-Q05,100% Cotton Denim,370,63,,Lavender,Purple,Woven,Sanforised,MTR,242.05,300,15,52094200,5,Y,2022-06-22
+DD-DNM-0021,100% Cotton Denim Lightweight 310 GSM 58 inch Mint,Denim,Lightweight,DNM-Q06,100% Cotton Denim,310,58,,Mint,Green,Woven,Calendered,MTR,203.17,150,15,52094200,5,Y,2022-01-24
+DD-DNM-0022,100% Cotton Denim Lightweight 310 GSM 58 inch Camel,Denim,Lightweight,DNM-Q06,100% Cotton Denim,310,58,,Camel,Brown,Woven,Calendered,MTR,201.2,100,15,52094200,5,Y,2022-12-09
+DD-DNM-0023,100% Cotton Denim Lightweight 310 GSM 58 inch Firozi,Denim,Lightweight,DNM-Q06,100% Cotton Denim,310,58,,Firozi,Blue,Woven,Calendered,MTR,202.71,200,30,52094200,5,Y,2022-07-24
+DD-DNM-0024,Poly Cotton Denim Rigid 310 GSM 63 inch Silver Grey,Denim,Rigid,DNM-Q07,Poly Cotton Denim,310,63,,Silver Grey,Grey,Woven,Sanforised,MTR,203.95,250,21,52094200,5,Y,2021-09-07
+DD-DNM-0025,Poly Cotton Denim Rigid 310 GSM 63 inch Camel,Denim,Rigid,DNM-Q07,Poly Cotton Denim,310,63,,Camel,Brown,Woven,Sanforised,MTR,208.86,250,15,52094200,5,Y,2020-11-10
+DD-DNM-0026,Poly Cotton Denim Rigid 310 GSM 63 inch Mustard,Denim,Rigid,DNM-Q07,Poly Cotton Denim,310,63,,Mustard,Yellow,Woven,Sanforised,MTR,210.46,300,21,52094200,5,Y,2022-08-29
+DD-DNM-0027,Poly Cotton Denim Rigid 310 GSM 63 inch Sky Blue,Denim,Rigid,DNM-Q07,Poly Cotton Denim,310,63,,Sky Blue,Blue,Woven,Sanforised,MTR,206.74,50,30,52094200,5,Y,2020-12-27
+DD-DNM-0028,Poly Cotton Denim Rigid 310 GSM 63 inch Maroon,Denim,Rigid,DNM-Q07,Poly Cotton Denim,310,63,,Maroon,Red,Woven,Sanforised,MTR,209.33,50,12,52094200,5,Y,2021-04-07
+DD-DNM-0029,98/2 Cotton Lycra Denim Rigid 415 GSM 63 inch Grey Melange,Denim,Rigid,DNM-Q08,98/2 Cotton Lycra Denim,415,63,,Grey Melange,Grey,Woven,Soft Finish,MTR,297.93,150,30,52094200,5,Y,2022-06-17
+DD-DNM-0030,98/2 Cotton Lycra Denim Rigid 415 GSM 63 inch Charcoal,Denim,Rigid,DNM-Q08,98/2 Cotton Lycra Denim,415,63,,Charcoal,Grey,Woven,Soft Finish,MTR,290.61,50,15,52094200,5,Y,2022-02-12
+DD-DNM-0031,98/2 Cotton Lycra Denim Rigid 415 GSM 63 inch Mint,Denim,Rigid,DNM-Q08,98/2 Cotton Lycra Denim,415,63,,Mint,Green,Woven,Soft Finish,MTR,289.89,100,15,52094200,5,N,2022-05-09
+DD-DNM-0032,98/2 Cotton Lycra Denim Rigid 415 GSM 63 inch Maroon,Denim,Rigid,DNM-Q08,98/2 Cotton Lycra Denim,415,63,,Maroon,Red,Woven,Soft Finish,MTR,290.12,300,7,52094200,5,Y,2022-08-20
+DD-DNM-0033,98/2 Cotton Lycra Denim Rigid 415 GSM 63 inch Rust,Denim,Rigid,DNM-Q08,98/2 Cotton Lycra Denim,415,63,,Rust,Red,Woven,Soft Finish,MTR,294.68,300,15,52094200,5,Y,2021-05-06
+DD-DNM-0034,98/2 Cotton Lycra Denim Rigid 415 GSM 63 inch Beige,Denim,Rigid,DNM-Q08,98/2 Cotton Lycra Denim,415,63,,Beige,Neutral,Woven,Soft Finish,MTR,282.67,100,25,52094200,5,Y,2022-01-04
+DD-DNM-0035,Poly Cotton Denim Rigid 310 GSM 63 inch Peach,Denim,Rigid,DNM-Q07,Poly Cotton Denim,310,63,,Peach,Pink,Woven,Sanforised,MTR,203.7,200,10,52094200,5,Y,2020-12-11
+DD-FLN-0001,65/35 Poly Cotton Flannel 200 GSM 58 inch Teal,Flannel and Winterwear,Flannel,FLN-Q01,65/35 Poly Cotton,200,58,,Teal,Blue,Woven,Calendered,MTR,152.67,100,7,52081900,5,Y,2021-10-22
+DD-FLN-0002,65/35 Poly Cotton Flannel 200 GSM 58 inch Peach,Flannel and Winterwear,Flannel,FLN-Q01,65/35 Poly Cotton,200,58,,Peach,Pink,Woven,Calendered,MTR,150.15,200,21,52081900,5,N,2022-11-20
+DD-FLN-0003,65/35 Poly Cotton Flannel 200 GSM 58 inch Silver Grey,Flannel and Winterwear,Flannel,FLN-Q01,65/35 Poly Cotton,200,58,,Silver Grey,Grey,Woven,Calendered,MTR,150.36,150,12,52081900,5,Y,2022-05-18
+DD-FLN-0004,65/35 Poly Cotton Flannel 200 GSM 58 inch Beige,Flannel and Winterwear,Flannel,FLN-Q01,65/35 Poly Cotton,200,58,,Beige,Neutral,Woven,Calendered,MTR,147.94,250,7,52081900,5,Y,2021-11-18
+DD-FLN-0005,65/35 Poly Cotton Flannel 200 GSM 58 inch Sea Green,Flannel and Winterwear,Flannel,FLN-Q01,65/35 Poly Cotton,200,58,,Sea Green,Green,Woven,Calendered,MTR,151.47,150,12,52081900,5,Y,2023-01-20
+DD-FLN-0006,100% Cotton Flannel 245 GSM 58 inch Wine,Flannel and Winterwear,Flannel,FLN-Q02,100% Cotton,245,58,,Wine,Red,Woven,Anti Crease,MTR,188.45,200,30,52081900,5,Y,2021-03-11
+DD-FLN-0007,100% Cotton Flannel 245 GSM 58 inch Rust,Flannel and Winterwear,Flannel,FLN-Q02,100% Cotton,245,58,,Rust,Red,Woven,Anti Crease,MTR,185.86,50,15,52081900,5,Y,2023-01-11
+DD-FLN-0008,100% Cotton Flannel 245 GSM 58 inch Teal,Flannel and Winterwear,Flannel,FLN-Q02,100% Cotton,245,58,,Teal,Blue,Woven,Anti Crease,MTR,184.48,50,15,52081900,5,Y,2023-01-20
+DD-FLN-0009,100% Cotton Flannel 245 GSM 58 inch Camel,Flannel and Winterwear,Flannel,FLN-Q02,100% Cotton,245,58,,Camel,Brown,Woven,Anti Crease,MTR,183.41,300,7,52081900,5,Y,2022-09-12
+DD-FLN-0010,100% Cotton Flannel 245 GSM 58 inch Beige,Flannel and Winterwear,Flannel,FLN-Q02,100% Cotton,245,58,,Beige,Neutral,Woven,Anti Crease,MTR,181.23,100,12,52081900,5,Y,2021-12-30
+DD-FLN-0011,65/35 Poly Cotton Brushed Twill 170 GSM 58 inch Mint,Flannel and Winterwear,Brushed Twill,FLN-Q03,65/35 Poly Cotton,170,58,,Mint,Green,Woven,Soft Finish,MTR,130.24,50,25,52081900,5,Y,2022-07-27
+DD-FLN-0012,65/35 Poly Cotton Brushed Twill 170 GSM 58 inch Baby Pink,Flannel and Winterwear,Brushed Twill,FLN-Q03,65/35 Poly Cotton,170,58,,Baby Pink,Pink,Woven,Soft Finish,MTR,131.65,100,7,52081900,5,Y,2022-09-21
+DD-FLN-0013,65/35 Poly Cotton Brushed Twill 170 GSM 58 inch Royal Blue,Flannel and Winterwear,Brushed Twill,FLN-Q03,65/35 Poly Cotton,170,58,,Royal Blue,Blue,Woven,Soft Finish,MTR,132.5,100,30,52081900,5,Y,2022-08-02
+DD-FLN-0014,100% Cotton Brushed Twill 155 GSM 58 inch Ecru,Flannel and Winterwear,Brushed Twill,FLN-Q04,100% Cotton,155,58,,Ecru,Neutral,Woven,Sanforised,MTR,118.75,300,7,52081900,5,Y,2021-11-10
+DD-FLN-0015,100% Cotton Brushed Twill 155 GSM 58 inch Bottle Green,Flannel and Winterwear,Brushed Twill,FLN-Q04,100% Cotton,155,58,,Bottle Green,Green,Woven,Sanforised,MTR,124.17,150,25,52081900,5,Y,2020-12-02
+DD-FLN-0016,100% Cotton Flannel 165 GSM 58 inch Navy Blue,Flannel and Winterwear,Flannel,FLN-Q05,100% Cotton,165,58,,Navy Blue,Blue,Woven,Mercerised,MTR,137.33,100,25,52081900,5,Y,2022-08-02
+DD-FLN-0017,100% Cotton Flannel 165 GSM 58 inch Rust,Flannel and Winterwear,Flannel,FLN-Q05,100% Cotton,165,58,,Rust,Red,Woven,Mercerised,MTR,135.49,200,30,52081900,5,Y,2022-02-20
+DD-FLN-0018,100% Cotton Flannel 165 GSM 58 inch Cream,Flannel and Winterwear,Flannel,FLN-Q05,100% Cotton,165,58,,Cream,Neutral,Woven,Mercerised,MTR,129.73,100,12,52081900,5,Y,2023-03-15
+DD-FLN-0019,100% Cotton Flannel 165 GSM 58 inch Black,Flannel and Winterwear,Flannel,FLN-Q05,100% Cotton,165,58,,Black,Dark,Woven,Mercerised,MTR,137.92,300,15,52081900,5,Y,2022-05-22
+DD-FLN-0020,100% Cotton Flannel 165 GSM 58 inch Royal Blue,Flannel and Winterwear,Flannel,FLN-Q05,100% Cotton,165,58,,Royal Blue,Blue,Woven,Mercerised,MTR,136.77,150,21,52081900,5,Y,2022-12-18
+DD-FLN-0021,100% Cotton Brushed Twill 235 GSM 58 inch Bottle Green,Flannel and Winterwear,Brushed Twill,FLN-Q06,100% Cotton,235,58,,Bottle Green,Green,Woven,Sanforised,MTR,174.98,300,12,52081900,5,Y,2022-01-17
+DD-FLN-0022,100% Cotton Brushed Twill 235 GSM 58 inch Ecru,Flannel and Winterwear,Brushed Twill,FLN-Q06,100% Cotton,235,58,,Ecru,Neutral,Woven,Sanforised,MTR,167.84,100,15,52081900,5,Y,2023-01-13
+DD-FLN-0023,100% Cotton Brushed Twill 235 GSM 58 inch Coffee Brown,Flannel and Winterwear,Brushed Twill,FLN-Q06,100% Cotton,235,58,,Coffee Brown,Brown,Woven,Sanforised,MTR,174.2,150,7,52081900,5,Y,2022-08-28
+DD-FLN-0024,100% Cotton Brushed Twill 235 GSM 58 inch Navy Blue,Flannel and Winterwear,Brushed Twill,FLN-Q06,100% Cotton,235,58,,Navy Blue,Blue,Woven,Sanforised,MTR,175.86,250,25,52081900,5,Y,2022-01-08
+DD-FLN-0025,100% Cotton Brushed Twill 235 GSM 58 inch Maroon,Flannel and Winterwear,Brushed Twill,FLN-Q06,100% Cotton,235,58,,Maroon,Red,Woven,Sanforised,MTR,174.02,250,10,52081900,5,Y,2022-08-20
+DD-FLN-0026,65/35 Poly Cotton Flannel 210 GSM 58 inch Beige,Flannel and Winterwear,Flannel,FLN-Q07,65/35 Poly Cotton,210,58,,Beige,Neutral,Woven,Mercerised,MTR,161.06,150,30,52081900,5,Y,2021-10-11
+DD-FLN-0027,65/35 Poly Cotton Flannel 210 GSM 58 inch White,Flannel and Winterwear,Flannel,FLN-Q07,65/35 Poly Cotton,210,58,,White,Neutral,Woven,Mercerised,MTR,160.02,300,10,52081900,5,Y,2022-07-30
+DD-FLN-0028,65/35 Poly Cotton Flannel 210 GSM 58 inch Black,Flannel and Winterwear,Flannel,FLN-Q07,65/35 Poly Cotton,210,58,,Black,Dark,Woven,Mercerised,MTR,169.59,50,30,52081900,5,Y,2021-01-22
+DD-FLN-0029,65/35 Poly Cotton Flannel 210 GSM 58 inch Camel,Flannel and Winterwear,Flannel,FLN-Q07,65/35 Poly Cotton,210,58,,Camel,Brown,Woven,Mercerised,MTR,165.8,300,15,52081900,5,Y,2021-05-11
+DD-FLN-0030,100% Cotton Flannel 185 GSM 58 inch Coffee Brown,Flannel and Winterwear,Flannel,FLN-Q08,100% Cotton,185,58,,Coffee Brown,Brown,Woven,Soft Finish,MTR,143.26,250,12,52081900,5,N,2022-12-18
+DD-FLN-0031,100% Cotton Flannel 185 GSM 58 inch Sea Green,Flannel and Winterwear,Flannel,FLN-Q08,100% Cotton,185,58,,Sea Green,Green,Woven,Soft Finish,MTR,141.86,300,21,52081900,5,N,2021-01-17
+DD-FLN-0032,100% Cotton Flannel 185 GSM 58 inch Baby Pink,Flannel and Winterwear,Flannel,FLN-Q08,100% Cotton,185,58,,Baby Pink,Pink,Woven,Soft Finish,MTR,139.41,300,25,52081900,5,Y,2020-10-26
+DD-FLN-0033,100% Cotton Flannel 185 GSM 58 inch Grey Melange,Flannel and Winterwear,Flannel,FLN-Q08,100% Cotton,185,58,,Grey Melange,Grey,Woven,Soft Finish,MTR,148.45,150,12,52081900,5,Y,2021-10-17
+DD-FLN-0034,100% Cotton Flannel 185 GSM 58 inch Peach,Flannel and Winterwear,Flannel,FLN-Q08,100% Cotton,185,58,,Peach,Pink,Woven,Soft Finish,MTR,139.44,50,12,52081900,5,Y,2020-12-23
+DD-HCT-0001,100% Polyester Curtain Jacquard 160 GSM 54 inch Navy Blue,Curtain Fabric,Curtain Jacquard,HCT-Q01,100% Polyester,160,54,,Navy Blue,Blue,Woven,Anti Crease,MTR,137.47,100,12,54075400,5,N,2021-06-01
+DD-HCT-0002,100% Polyester Curtain Jacquard 160 GSM 54 inch Charcoal,Curtain Fabric,Curtain Jacquard,HCT-Q01,100% Polyester,160,54,,Charcoal,Grey,Woven,Anti Crease,MTR,137.11,300,10,54075400,5,Y,2021-10-25
+DD-HCT-0003,100% Polyester Curtain Jacquard 160 GSM 54 inch Black,Curtain Fabric,Curtain Jacquard,HCT-Q01,100% Polyester,160,54,,Black,Dark,Woven,Anti Crease,MTR,139.8,300,25,54075400,5,Y,2021-12-15
+DD-HCT-0004,100% Polyester Curtain Jacquard 160 GSM 54 inch Wine,Curtain Fabric,Curtain Jacquard,HCT-Q01,100% Polyester,160,54,,Wine,Red,Woven,Anti Crease,MTR,137.14,50,15,54075400,5,Y,2021-05-16
+DD-HCT-0005,100% Polyester Curtain Jacquard 160 GSM 54 inch Lavender,Curtain Fabric,Curtain Jacquard,HCT-Q01,100% Polyester,160,54,,Lavender,Purple,Woven,Anti Crease,MTR,134.86,100,12,54075400,5,Y,2022-01-06
+DD-HCT-0006,70/30 Poly Cotton Blackout Base 225 GSM 110 inch Ecru,Curtain Fabric,Blackout Base,HCT-Q02,70/30 Poly Cotton,225,110,,Ecru,Neutral,Woven,Sanforised,MTR,211.76,250,15,54075400,5,Y,2023-01-17
+DD-HCT-0007,70/30 Poly Cotton Blackout Base 225 GSM 110 inch Greige RFD,Curtain Fabric,Blackout Base,HCT-Q02,70/30 Poly Cotton,225,110,,Greige RFD,Undyed,Woven,Sanforised,MTR,193.85,100,30,54075400,5,Y,2022-09-28
+DD-HCT-0008,70/30 Poly Cotton Blackout Base 225 GSM 110 inch Beige,Curtain Fabric,Blackout Base,HCT-Q02,70/30 Poly Cotton,225,110,,Beige,Neutral,Woven,Sanforised,MTR,211.68,250,10,54075400,5,Y,2021-12-08
+DD-HCT-0009,70/30 Poly Cotton Blackout Base 225 GSM 110 inch Silver Grey,Curtain Fabric,Blackout Base,HCT-Q02,70/30 Poly Cotton,225,110,,Silver Grey,Grey,Woven,Sanforised,MTR,213.65,200,21,54075400,5,Y,2020-12-07
+DD-HCT-0010,70/30 Poly Cotton Blackout Base 225 GSM 110 inch Lavender,Curtain Fabric,Blackout Base,HCT-Q02,70/30 Poly Cotton,225,110,,Lavender,Purple,Woven,Sanforised,MTR,219.63,150,10,54075400,5,Y,2022-03-04
+DD-HCT-0011,70/30 Poly Cotton Sheer Casement 215 GSM 110 inch Royal Blue,Curtain Fabric,Sheer Casement,HCT-Q03,70/30 Poly Cotton,215,110,,Royal Blue,Blue,Woven,Calendered,MTR,209.75,300,15,54075400,5,Y,2021-05-18
+DD-HCT-0012,70/30 Poly Cotton Sheer Casement 215 GSM 110 inch Ecru,Curtain Fabric,Sheer Casement,HCT-Q03,70/30 Poly Cotton,215,110,,Ecru,Neutral,Woven,Calendered,MTR,203.12,100,21,54075400,5,Y,2023-03-18
+DD-HCT-0013,70/30 Poly Cotton Sheer Casement 215 GSM 110 inch Wine,Curtain Fabric,Sheer Casement,HCT-Q03,70/30 Poly Cotton,215,110,,Wine,Red,Woven,Calendered,MTR,214.54,100,12,54075400,5,Y,2021-08-10
+DD-HCT-0014,70/30 Poly Cotton Sheer Casement 215 GSM 110 inch Bottle Green,Curtain Fabric,Sheer Casement,HCT-Q03,70/30 Poly Cotton,215,110,,Bottle Green,Green,Woven,Calendered,MTR,210.78,50,21,54075400,5,Y,2021-10-12
+DD-HCT-0015,70/30 Poly Cotton Sheer Casement 215 GSM 110 inch Peach,Curtain Fabric,Sheer Casement,HCT-Q03,70/30 Poly Cotton,215,110,,Peach,Pink,Woven,Calendered,MTR,209.29,300,12,54075400,5,N,2021-09-17
+DD-HCT-0016,100% Polyester Curtain Jacquard 195 GSM 54 inch Beige,Curtain Fabric,Curtain Jacquard,HCT-Q04,100% Polyester,195,54,,Beige,Neutral,Woven,Enzyme Wash,MTR,155.86,250,21,54075400,5,Y,2021-01-11
+DD-HCT-0017,100% Polyester Curtain Jacquard 195 GSM 54 inch Ecru,Curtain Fabric,Curtain Jacquard,HCT-Q04,100% Polyester,195,54,,Ecru,Neutral,Woven,Enzyme Wash,MTR,154.14,200,21,54075400,5,N,2021-03-21
+DD-HCT-0018,100% Polyester Curtain Jacquard 195 GSM 54 inch Rust,Curtain Fabric,Curtain Jacquard,HCT-Q04,100% Polyester,195,54,,Rust,Red,Woven,Enzyme Wash,MTR,156.27,250,7,54075400,5,Y,2022-03-06
+DD-HCT-0019,100% Polyester Blackout Base 220 GSM 54 inch Off White,Curtain Fabric,Blackout Base,HCT-Q05,100% Polyester,220,54,,Off White,Neutral,Woven,Sanforised,MTR,168.64,200,30,54075400,5,Y,2021-01-16
+DD-HCT-0020,100% Polyester Blackout Base 220 GSM 54 inch Coffee Brown,Curtain Fabric,Blackout Base,HCT-Q05,100% Polyester,220,54,,Coffee Brown,Brown,Woven,Sanforised,MTR,171.87,300,15,54075400,5,Y,2021-08-03
+DD-HCT-0021,100% Polyester Blackout Base 220 GSM 54 inch Ecru,Curtain Fabric,Blackout Base,HCT-Q05,100% Polyester,220,54,,Ecru,Neutral,Woven,Sanforised,MTR,168.77,150,21,54075400,5,Y,2022-06-14
+DD-HCT-0022,100% Polyester Blackout Base 220 GSM 54 inch Mint,Curtain Fabric,Blackout Base,HCT-Q05,100% Polyester,220,54,,Mint,Green,Woven,Sanforised,MTR,172.51,250,25,54075400,5,Y,2021-12-27
+DD-HCT-0023,100% Polyester Blackout Base 220 GSM 54 inch Camel,Curtain Fabric,Blackout Base,HCT-Q05,100% Polyester,220,54,,Camel,Brown,Woven,Sanforised,MTR,175.41,300,15,54075400,5,Y,2021-08-30
+DD-HCT-0024,100% Polyester Blackout Base 220 GSM 54 inch Sea Green,Curtain Fabric,Blackout Base,HCT-Q05,100% Polyester,220,54,,Sea Green,Green,Woven,Sanforised,MTR,173.35,200,10,54075400,5,Y,2021-12-03
+DD-HCT-0025,100% Polyester Blackout Base 160 GSM 54 inch Firozi,Curtain Fabric,Blackout Base,HCT-Q06,100% Polyester,160,54,,Firozi,Blue,Woven,Standard,MTR,130.9,300,30,54075400,5,Y,2020-12-16
+DD-HCT-0026,100% Polyester Blackout Base 160 GSM 54 inch Sea Green,Curtain Fabric,Blackout Base,HCT-Q06,100% Polyester,160,54,,Sea Green,Green,Woven,Standard,MTR,127.6,100,25,54075400,5,Y,2023-03-18
+DD-HCT-0027,100% Polyester Blackout Base 160 GSM 54 inch Maroon,Curtain Fabric,Blackout Base,HCT-Q06,100% Polyester,160,54,,Maroon,Red,Woven,Standard,MTR,133.13,300,12,54075400,5,Y,2021-10-26
+DD-HCT-0028,100% Polyester Blackout Base 160 GSM 54 inch Mustard,Curtain Fabric,Blackout Base,HCT-Q06,100% Polyester,160,54,,Mustard,Yellow,Woven,Standard,MTR,130.55,50,25,54075400,5,Y,2022-04-27
+DD-HCT-0029,100% Polyester Blackout Base 160 GSM 54 inch Cream,Curtain Fabric,Blackout Base,HCT-Q06,100% Polyester,160,54,,Cream,Neutral,Woven,Standard,MTR,127.45,250,30,54075400,5,Y,2022-09-28
+DD-HCT-0030,100% Polyester Blackout Base 160 GSM 54 inch Rust,Curtain Fabric,Blackout Base,HCT-Q06,100% Polyester,160,54,,Rust,Red,Woven,Standard,MTR,131.79,200,21,54075400,5,Y,2021-02-16
+DD-HCT-0031,70/30 Poly Cotton Blackout Base 195 GSM 54 inch Grey Melange,Curtain Fabric,Blackout Base,HCT-Q07,70/30 Poly Cotton,195,54,,Grey Melange,Grey,Woven,Enzyme Wash,MTR,164.44,300,15,54075400,5,Y,2022-12-15
+DD-HCT-0032,70/30 Poly Cotton Blackout Base 195 GSM 54 inch Lavender,Curtain Fabric,Blackout Base,HCT-Q07,70/30 Poly Cotton,195,54,,Lavender,Purple,Woven,Enzyme Wash,MTR,160.7,200,30,54075400,5,Y,2022-03-18
+DD-HCT-0033,70/30 Poly Cotton Blackout Base 195 GSM 54 inch Charcoal,Curtain Fabric,Blackout Base,HCT-Q07,70/30 Poly Cotton,195,54,,Charcoal,Grey,Woven,Enzyme Wash,MTR,158.27,150,30,54075400,5,Y,2022-02-05
+DD-HCT-0034,70/30 Poly Cotton Sheer Casement 225 GSM 110 inch Peach,Curtain Fabric,Sheer Casement,HCT-Q08,70/30 Poly Cotton,225,110,,Peach,Pink,Woven,Sanforised,MTR,214.65,150,10,54075400,5,Y,2022-05-14
+DD-HCT-0035,70/30 Poly Cotton Sheer Casement 225 GSM 110 inch Coffee Brown,Curtain Fabric,Sheer Casement,HCT-Q08,70/30 Poly Cotton,225,110,,Coffee Brown,Brown,Woven,Sanforised,MTR,216.15,50,30,54075400,5,Y,2021-09-17
+DD-HCT-0036,70/30 Poly Cotton Sheer Casement 225 GSM 110 inch Mint,Curtain Fabric,Sheer Casement,HCT-Q08,70/30 Poly Cotton,225,110,,Mint,Green,Woven,Sanforised,MTR,215.14,250,12,54075400,5,N,2021-07-18
+DD-HCT-0037,70/30 Poly Cotton Sheer Casement 225 GSM 110 inch Rust,Curtain Fabric,Sheer Casement,HCT-Q08,70/30 Poly Cotton,225,110,,Rust,Red,Woven,Sanforised,MTR,219.79,250,15,54075400,5,Y,2023-03-13
+DD-HCT-0038,70/30 Poly Cotton Sheer Casement 225 GSM 110 inch Greige RFD,Curtain Fabric,Sheer Casement,HCT-Q08,70/30 Poly Cotton,225,110,,Greige RFD,Undyed,Woven,Sanforised,MTR,194.34,200,25,54075400,5,Y,2022-08-14
+DD-HUP-0001,100% Polyester Chenille 350 GSM 58 inch Wine,Upholstery Fabric,Chenille,HUP-Q01,100% Polyester,350,58,,Wine,Red,Woven,Mercerised,MTR,288.85,50,15,58013600,5,Y,2023-03-22
+DD-HUP-0002,100% Polyester Chenille 350 GSM 58 inch Bottle Green,Upholstery Fabric,Chenille,HUP-Q01,100% Polyester,350,58,,Bottle Green,Green,Woven,Mercerised,MTR,284.68,200,21,58013600,5,Y,2023-01-23
+DD-HUP-0003,100% Polyester Chenille 350 GSM 58 inch Ecru,Upholstery Fabric,Chenille,HUP-Q01,100% Polyester,350,58,,Ecru,Neutral,Woven,Mercerised,MTR,270.66,300,10,58013600,5,Y,2021-04-25
+DD-HUP-0004,100% Polyester Chenille 350 GSM 58 inch Black,Upholstery Fabric,Chenille,HUP-Q01,100% Polyester,350,58,,Black,Dark,Woven,Mercerised,MTR,291.97,200,10,58013600,5,Y,2023-03-10
+DD-HUP-0005,100% Polyester Chenille 405 GSM 58 inch Olive,Upholstery Fabric,Chenille,HUP-Q02,100% Polyester,405,58,,Olive,Green,Woven,Anti Crease,MTR,321.89,100,15,58013600,5,Y,2021-04-16
+DD-HUP-0006,100% Polyester Chenille 405 GSM 58 inch Teal,Upholstery Fabric,Chenille,HUP-Q02,100% Polyester,405,58,,Teal,Blue,Woven,Anti Crease,MTR,319.15,250,15,58013600,5,Y,2021-01-26
+DD-HUP-0007,100% Polyester Chenille 405 GSM 58 inch Royal Blue,Upholstery Fabric,Chenille,HUP-Q02,100% Polyester,405,58,,Royal Blue,Blue,Woven,Anti Crease,MTR,320.34,50,30,58013600,5,Y,2022-02-24
+DD-HUP-0008,70/30 Poly Cotton Upholstery Jacquard 430 GSM 54 inch Bottle Green,Upholstery Fabric,Upholstery Jacquard,HUP-Q03,70/30 Poly Cotton,430,54,,Bottle Green,Green,Woven,Anti Crease,MTR,333.09,100,7,58013600,5,Y,2023-01-12
+DD-HUP-0009,70/30 Poly Cotton Upholstery Jacquard 430 GSM 54 inch Sea Green,Upholstery Fabric,Upholstery Jacquard,HUP-Q03,70/30 Poly Cotton,430,54,,Sea Green,Green,Woven,Anti Crease,MTR,323.4,100,15,58013600,5,Y,2022-11-12
+DD-HUP-0010,70/30 Poly Cotton Upholstery Jacquard 430 GSM 54 inch Mustard,Upholstery Fabric,Upholstery Jacquard,HUP-Q03,70/30 Poly Cotton,430,54,,Mustard,Yellow,Woven,Anti Crease,MTR,332.89,250,30,58013600,5,N,2022-12-25
+DD-HUP-0011,70/30 Poly Cotton Upholstery Jacquard 295 GSM 58 inch Rust,Upholstery Fabric,Upholstery Jacquard,HUP-Q04,70/30 Poly Cotton,295,58,,Rust,Red,Woven,Anti Crease,MTR,241.52,300,25,58013600,5,Y,2022-04-03
+DD-HUP-0012,70/30 Poly Cotton Upholstery Jacquard 295 GSM 58 inch Mustard,Upholstery Fabric,Upholstery Jacquard,HUP-Q04,70/30 Poly Cotton,295,58,,Mustard,Yellow,Woven,Anti Crease,MTR,240.57,300,25,58013600,5,Y,2022-01-27
+DD-HUP-0013,70/30 Poly Cotton Upholstery Jacquard 295 GSM 58 inch Grey Melange,Upholstery Fabric,Upholstery Jacquard,HUP-Q04,70/30 Poly Cotton,295,58,,Grey Melange,Grey,Woven,Anti Crease,MTR,248.16,50,10,58013600,5,Y,2022-10-16
+DD-HUP-0014,70/30 Poly Cotton Upholstery Jacquard 295 GSM 58 inch White,Upholstery Fabric,Upholstery Jacquard,HUP-Q04,70/30 Poly Cotton,295,58,,White,Neutral,Woven,Anti Crease,MTR,239.45,150,21,58013600,5,Y,2020-12-20
+DD-HUP-0015,70/30 Poly Cotton Chenille 415 GSM 58 inch White,Upholstery Fabric,Chenille,HUP-Q05,70/30 Poly Cotton,415,58,,White,Neutral,Woven,Calendered,MTR,305.31,250,12,58013600,5,Y,2021-11-26
+DD-HUP-0016,70/30 Poly Cotton Chenille 415 GSM 58 inch Lavender,Upholstery Fabric,Chenille,HUP-Q05,70/30 Poly Cotton,415,58,,Lavender,Purple,Woven,Calendered,MTR,310.18,50,25,58013600,5,Y,2022-06-10
+DD-HUP-0017,70/30 Poly Cotton Chenille 415 GSM 58 inch Rust,Upholstery Fabric,Chenille,HUP-Q05,70/30 Poly Cotton,415,58,,Rust,Red,Woven,Calendered,MTR,311.26,150,15,58013600,5,Y,2021-09-05
+DD-HUP-0018,70/30 Poly Cotton Upholstery Jacquard 310 GSM 54 inch Baby Pink,Upholstery Fabric,Upholstery Jacquard,HUP-Q06,70/30 Poly Cotton,310,54,,Baby Pink,Pink,Woven,Bio Wash,MTR,239.25,50,12,58013600,5,Y,2022-01-08
+DD-HUP-0019,70/30 Poly Cotton Upholstery Jacquard 310 GSM 54 inch Black,Upholstery Fabric,Upholstery Jacquard,HUP-Q06,70/30 Poly Cotton,310,54,,Black,Dark,Woven,Bio Wash,MTR,251.07,300,7,58013600,5,Y,2022-04-02
+DD-HUP-0020,70/30 Poly Cotton Chenille 380 GSM 54 inch Royal Blue,Upholstery Fabric,Chenille,HUP-Q07,70/30 Poly Cotton,380,54,,Royal Blue,Blue,Woven,Peach Finish,MTR,300.15,100,30,58013600,5,Y,2021-05-24
+DD-HUP-0021,70/30 Poly Cotton Chenille 380 GSM 54 inch Coffee Brown,Upholstery Fabric,Chenille,HUP-Q07,70/30 Poly Cotton,380,54,,Coffee Brown,Brown,Woven,Peach Finish,MTR,295.54,150,30,58013600,5,Y,2020-12-08
+DD-HUP-0022,70/30 Poly Cotton Chenille 380 GSM 54 inch Wine,Upholstery Fabric,Chenille,HUP-Q07,70/30 Poly Cotton,380,54,,Wine,Red,Woven,Peach Finish,MTR,294.09,200,10,58013600,5,Y,2021-02-19
+DD-HUP-0023,70/30 Poly Cotton Chenille 380 GSM 54 inch Sea Green,Upholstery Fabric,Chenille,HUP-Q07,70/30 Poly Cotton,380,54,,Sea Green,Green,Woven,Peach Finish,MTR,286.18,150,15,58013600,5,Y,2021-03-09
+DD-HUP-0024,70/30 Poly Cotton Chenille 380 GSM 54 inch Off White,Upholstery Fabric,Chenille,HUP-Q07,70/30 Poly Cotton,380,54,,Off White,Neutral,Woven,Peach Finish,MTR,286.72,200,7,58013600,5,Y,2022-06-14
+DD-HUP-0025,70/30 Poly Cotton Chenille 380 GSM 54 inch Teal,Upholstery Fabric,Chenille,HUP-Q07,70/30 Poly Cotton,380,54,,Teal,Blue,Woven,Peach Finish,MTR,295.28,50,12,58013600,5,Y,2021-03-23
+DD-HUP-0026,100% Polyester Chenille 320 GSM 58 inch Mustard,Upholstery Fabric,Chenille,HUP-Q08,100% Polyester,320,58,,Mustard,Yellow,Woven,Mercerised,MTR,259.37,250,21,58013600,5,Y,2022-06-26
+DD-HUP-0027,100% Polyester Chenille 320 GSM 58 inch Cream,Upholstery Fabric,Chenille,HUP-Q08,100% Polyester,320,58,,Cream,Neutral,Woven,Mercerised,MTR,258.7,150,21,58013600,5,Y,2021-01-06
+DD-HUP-0028,100% Polyester Chenille 320 GSM 58 inch Peach,Upholstery Fabric,Chenille,HUP-Q08,100% Polyester,320,58,,Peach,Pink,Woven,Mercerised,MTR,257.1,50,25,58013600,5,Y,2022-07-21
+DD-HUP-0029,100% Polyester Chenille 320 GSM 58 inch Grey Melange,Upholstery Fabric,Chenille,HUP-Q08,100% Polyester,320,58,,Grey Melange,Grey,Woven,Mercerised,MTR,265.94,100,21,58013600,5,Y,2022-04-05
+DD-HUP-0030,100% Polyester Chenille 320 GSM 58 inch Sky Blue,Upholstery Fabric,Chenille,HUP-Q08,100% Polyester,320,58,,Sky Blue,Blue,Woven,Mercerised,MTR,262.31,50,21,58013600,5,Y,2021-03-28
+DD-KFT-0001,60/40 Cotton Poly Fleece Brushed 305 GSM 60 inch Coffee Brown,Fleece and Loop Knit,Brushed,KFT-Q01,60/40 Cotton Poly Fleece,305,60,,Coffee Brown,Brown,Knit,Peach Finish,KG,326.99,200,15,60019200,5,Y,2021-05-30
+DD-KFT-0002,60/40 Cotton Poly Fleece Brushed 305 GSM 60 inch Camel,Fleece and Loop Knit,Brushed,KFT-Q01,60/40 Cotton Poly Fleece,305,60,,Camel,Brown,Knit,Peach Finish,KG,325.54,50,25,60019200,5,Y,2020-12-11
+DD-KFT-0003,60/40 Cotton Poly Fleece Brushed 305 GSM 60 inch Beige,Fleece and Loop Knit,Brushed,KFT-Q01,60/40 Cotton Poly Fleece,305,60,,Beige,Neutral,Knit,Peach Finish,KG,320.18,100,7,60019200,5,Y,2021-09-07
+DD-KFT-0004,100% Polyester Fleece Brushed 305 GSM 72 inch Cream,Fleece and Loop Knit,Brushed,KFT-Q02,100% Polyester Fleece,305,72,,Cream,Neutral,Knit,Bio Wash,KG,315.45,250,7,60019200,5,Y,2023-01-07
+DD-KFT-0005,100% Polyester Fleece Brushed 305 GSM 72 inch Royal Blue,Fleece and Loop Knit,Brushed,KFT-Q02,100% Polyester Fleece,305,72,,Royal Blue,Blue,Knit,Bio Wash,KG,329.75,150,10,60019200,5,Y,2021-02-10
+DD-KFT-0006,100% Polyester Fleece Brushed 305 GSM 72 inch Charcoal,Fleece and Loop Knit,Brushed,KFT-Q02,100% Polyester Fleece,305,72,,Charcoal,Grey,Knit,Bio Wash,KG,327.94,100,10,60019200,5,Y,2020-10-23
+DD-KFT-0007,60/40 Cotton Poly Fleece Polar 375 GSM 72 inch Charcoal,Fleece and Loop Knit,Polar,KFT-Q03,60/40 Cotton Poly Fleece,375,72,,Charcoal,Grey,Knit,Anti Crease,KG,399.18,200,7,60019200,5,Y,2021-10-20
+DD-KFT-0008,60/40 Cotton Poly Fleece Polar 375 GSM 72 inch Navy Blue,Fleece and Loop Knit,Polar,KFT-Q03,60/40 Cotton Poly Fleece,375,72,,Navy Blue,Blue,Knit,Anti Crease,KG,391.33,50,25,60019200,5,Y,2021-04-14
+DD-KFT-0009,60/40 Cotton Poly Fleece Polar 375 GSM 72 inch Teal,Fleece and Loop Knit,Polar,KFT-Q03,60/40 Cotton Poly Fleece,375,72,,Teal,Blue,Knit,Anti Crease,KG,389.3,300,30,60019200,5,Y,2023-01-16
+DD-KFT-0010,60/40 Cotton Poly Fleece Polar 375 GSM 72 inch Grey Melange,Fleece and Loop Knit,Polar,KFT-Q03,60/40 Cotton Poly Fleece,375,72,,Grey Melange,Grey,Knit,Anti Crease,KG,405.84,150,10,60019200,5,Y,2020-10-26
+DD-KFT-0011,60/40 Cotton Poly Fleece Polar 375 GSM 72 inch Ecru,Fleece and Loop Knit,Polar,KFT-Q03,60/40 Cotton Poly Fleece,375,72,,Ecru,Neutral,Knit,Anti Crease,KG,384.99,50,25,60019200,5,Y,2021-05-06
+DD-KFT-0012,60/40 Cotton Poly Fleece Polar 375 GSM 72 inch Baby Pink,Fleece and Loop Knit,Polar,KFT-Q03,60/40 Cotton Poly Fleece,375,72,,Baby Pink,Pink,Knit,Anti Crease,KG,392.35,200,15,60019200,5,Y,2023-02-21
+DD-KFT-0013,100% Polyester Fleece Polar 250 GSM 60 inch Wine,Fleece and Loop Knit,Polar,KFT-Q04,100% Polyester Fleece,250,60,,Wine,Red,Knit,Sanforised,KG,272.46,50,12,60019200,5,Y,2021-12-01
+DD-KFT-0014,100% Polyester Fleece Polar 250 GSM 60 inch Charcoal,Fleece and Loop Knit,Polar,KFT-Q04,100% Polyester Fleece,250,60,,Charcoal,Grey,Knit,Sanforised,KG,273.13,300,12,60019200,5,Y,2020-10-14
+DD-KFT-0015,100% Polyester Fleece Polar 250 GSM 60 inch Cream,Fleece and Loop Knit,Polar,KFT-Q04,100% Polyester Fleece,250,60,,Cream,Neutral,Knit,Sanforised,KG,266.43,150,21,60019200,5,Y,2021-08-13
+DD-KFT-0016,100% Polyester Fleece Brushed 275 GSM 60 inch Coffee Brown,Fleece and Loop Knit,Brushed,KFT-Q05,100% Polyester Fleece,275,60,,Coffee Brown,Brown,Knit,Soft Finish,KG,295.23,200,12,60019200,5,Y,2022-04-17
+DD-KFT-0017,100% Polyester Fleece Brushed 275 GSM 60 inch Black,Fleece and Loop Knit,Brushed,KFT-Q05,100% Polyester Fleece,275,60,,Black,Dark,Knit,Soft Finish,KG,297.25,300,21,60019200,5,Y,2021-01-19
+DD-KFT-0018,100% Polyester Fleece Brushed 275 GSM 60 inch Baby Pink,Fleece and Loop Knit,Brushed,KFT-Q05,100% Polyester Fleece,275,60,,Baby Pink,Pink,Knit,Soft Finish,KG,289.95,200,7,60019200,5,Y,2022-08-30
+DD-KFT-0019,100% Polyester Fleece Brushed 275 GSM 60 inch Charcoal,Fleece and Loop Knit,Brushed,KFT-Q05,100% Polyester Fleece,275,60,,Charcoal,Grey,Knit,Soft Finish,KG,290.68,300,30,60019200,5,Y,2022-04-17
+DD-KFT-0020,60/40 Cotton Poly Fleece Loop Terry 375 GSM 60 inch Beige,Fleece and Loop Knit,Loop Terry,KFT-Q06,60/40 Cotton Poly Fleece,375,60,,Beige,Neutral,Knit,Sanforised,KG,371.62,50,10,60019200,5,Y,2021-07-29
+DD-KFT-0021,60/40 Cotton Poly Fleece Loop Terry 375 GSM 60 inch Mustard,Fleece and Loop Knit,Loop Terry,KFT-Q06,60/40 Cotton Poly Fleece,375,60,,Mustard,Yellow,Knit,Sanforised,KG,379.87,150,10,60019200,5,Y,2022-06-23
+DD-KFT-0022,60/40 Cotton Poly Fleece Loop Terry 375 GSM 60 inch Navy Blue,Fleece and Loop Knit,Loop Terry,KFT-Q06,60/40 Cotton Poly Fleece,375,60,,Navy Blue,Blue,Knit,Sanforised,KG,385.77,100,15,60019200,5,Y,2021-03-05
+DD-KFT-0023,60/40 Cotton Poly Fleece Loop Terry 375 GSM 60 inch Wine,Fleece and Loop Knit,Loop Terry,KFT-Q06,60/40 Cotton Poly Fleece,375,60,,Wine,Red,Knit,Sanforised,KG,379.77,100,21,60019200,5,Y,2022-07-05
+DD-KFT-0024,60/40 Cotton Poly Fleece Loop Terry 325 GSM 60 inch Sky Blue,Fleece and Loop Knit,Loop Terry,KFT-Q07,60/40 Cotton Poly Fleece,325,60,,Sky Blue,Blue,Knit,Sanforised,KG,333.32,250,25,60019200,5,Y,2021-12-28
+DD-KFT-0025,60/40 Cotton Poly Fleece Loop Terry 325 GSM 60 inch Olive,Fleece and Loop Knit,Loop Terry,KFT-Q07,60/40 Cotton Poly Fleece,325,60,,Olive,Green,Knit,Sanforised,KG,341.21,300,30,60019200,5,Y,2021-07-26
+DD-KFT-0026,60/40 Cotton Poly Fleece Loop Terry 325 GSM 60 inch Charcoal,Fleece and Loop Knit,Loop Terry,KFT-Q07,60/40 Cotton Poly Fleece,325,60,,Charcoal,Grey,Knit,Sanforised,KG,338.43,50,25,60019200,5,Y,2023-03-16
+DD-KFT-0027,60/40 Cotton Poly Fleece Loop Terry 325 GSM 60 inch Navy Blue,Fleece and Loop Knit,Loop Terry,KFT-Q07,60/40 Cotton Poly Fleece,325,60,,Navy Blue,Blue,Knit,Sanforised,KG,343.87,100,12,60019200,5,Y,2022-11-20
+DD-KFT-0028,100% Polyester Fleece Brushed 240 GSM 72 inch Greige RFD,Fleece and Loop Knit,Brushed,KFT-Q08,100% Polyester Fleece,240,72,,Greige RFD,Undyed,Knit,Sanforised,KG,230.23,250,12,60019200,5,Y,2020-10-29
+DD-KFT-0029,100% Polyester Fleece Brushed 240 GSM 72 inch Olive,Fleece and Loop Knit,Brushed,KFT-Q08,100% Polyester Fleece,240,72,,Olive,Green,Knit,Sanforised,KG,262.92,50,25,60019200,5,Y,2021-04-07
+DD-KFT-0030,100% Polyester Fleece Brushed 240 GSM 72 inch Camel,Fleece and Loop Knit,Brushed,KFT-Q08,100% Polyester Fleece,240,72,,Camel,Brown,Knit,Sanforised,KG,259.12,200,25,60019200,5,Y,2022-07-18
+DD-KIR-0001,100% Cotton Knit Waffle 220 GSM 72 inch Greige RFD,Interlock and Rib Knit,Waffle,KIR-Q01,100% Cotton Knit,220,72,,Greige RFD,Undyed,Knit,Bio Wash,KG,334.59,250,10,60041000,5,Y,2023-01-31
+DD-KIR-0002,100% Cotton Knit Waffle 220 GSM 72 inch Baby Pink,Interlock and Rib Knit,Waffle,KIR-Q01,100% Cotton Knit,220,72,,Baby Pink,Pink,Knit,Bio Wash,KG,374.39,200,10,60041000,5,Y,2023-03-24
+DD-KIR-0003,100% Cotton Knit Waffle 220 GSM 72 inch Bottle Green,Interlock and Rib Knit,Waffle,KIR-Q01,100% Cotton Knit,220,72,,Bottle Green,Green,Knit,Bio Wash,KG,373.89,300,25,60041000,5,Y,2022-03-17
+DD-KIR-0004,100% Cotton Knit Waffle 220 GSM 72 inch Mint,Interlock and Rib Knit,Waffle,KIR-Q01,100% Cotton Knit,220,72,,Mint,Green,Knit,Bio Wash,KG,372.51,200,30,60041000,5,Y,2023-03-20
+DD-KIR-0005,100% Cotton Knit 2x2 Rib 230 GSM 60 inch Black,Interlock and Rib Knit,2x2 Rib,KIR-Q02,100% Cotton Knit,230,60,,Black,Dark,Knit,Peach Finish,KG,405.62,100,21,60041000,5,Y,2021-06-26
+DD-KIR-0006,100% Cotton Knit 2x2 Rib 230 GSM 60 inch Teal,Interlock and Rib Knit,2x2 Rib,KIR-Q02,100% Cotton Knit,230,60,,Teal,Blue,Knit,Peach Finish,KG,391.09,300,25,60041000,5,Y,2021-10-25
+DD-KIR-0007,100% Cotton Knit 2x2 Rib 230 GSM 60 inch Baby Pink,Interlock and Rib Knit,2x2 Rib,KIR-Q02,100% Cotton Knit,230,60,,Baby Pink,Pink,Knit,Peach Finish,KG,390.04,300,21,60041000,5,Y,2022-09-01
+DD-KIR-0008,100% Cotton Knit 2x2 Rib 230 GSM 60 inch Wine,Interlock and Rib Knit,2x2 Rib,KIR-Q02,100% Cotton Knit,230,60,,Wine,Red,Knit,Peach Finish,KG,394.01,100,7,60041000,5,Y,2020-10-13
+DD-KIR-0009,100% Cotton Knit 2x2 Rib 275 GSM 60 inch Beige,Interlock and Rib Knit,2x2 Rib,KIR-Q03,100% Cotton Knit,275,60,,Beige,Neutral,Knit,Soft Finish,KG,441.36,100,21,60041000,5,Y,2022-06-06
+DD-KIR-0010,100% Cotton Knit 2x2 Rib 275 GSM 60 inch Ecru,Interlock and Rib Knit,2x2 Rib,KIR-Q03,100% Cotton Knit,275,60,,Ecru,Neutral,Knit,Soft Finish,KG,430.38,100,25,60041000,5,Y,2022-12-08
+DD-KIR-0011,100% Cotton Knit 2x2 Rib 275 GSM 60 inch Teal,Interlock and Rib Knit,2x2 Rib,KIR-Q03,100% Cotton Knit,275,60,,Teal,Blue,Knit,Soft Finish,KG,451.32,200,30,60041000,5,Y,2020-11-16
+DD-KIR-0012,100% Cotton Knit 2x2 Rib 280 GSM 72 inch Wine,Interlock and Rib Knit,2x2 Rib,KIR-Q04,100% Cotton Knit,280,72,,Wine,Red,Knit,Mercerised,KG,470.7,150,25,60041000,5,Y,2022-05-28
+DD-KIR-0013,100% Cotton Knit 2x2 Rib 280 GSM 72 inch Olive,Interlock and Rib Knit,2x2 Rib,KIR-Q04,100% Cotton Knit,280,72,,Olive,Green,Knit,Mercerised,KG,465.88,150,10,60041000,5,Y,2022-02-16
+DD-KIR-0014,100% Cotton Knit 2x2 Rib 280 GSM 72 inch Baby Pink,Interlock and Rib Knit,2x2 Rib,KIR-Q04,100% Cotton Knit,280,72,,Baby Pink,Pink,Knit,Mercerised,KG,474.82,150,25,60041000,5,Y,2022-12-20
+DD-KIR-0015,100% Cotton Knit 2x2 Rib 280 GSM 72 inch Off White,Interlock and Rib Knit,2x2 Rib,KIR-Q04,100% Cotton Knit,280,72,,Off White,Neutral,Knit,Mercerised,KG,466.36,250,25,60041000,5,Y,2021-12-15
+DD-KIR-0016,95/5 Cotton Lycra Knit 1x1 Rib 255 GSM 72 inch Sky Blue,Interlock and Rib Knit,1x1 Rib,KIR-Q05,95/5 Cotton Lycra Knit,255,72,,Sky Blue,Blue,Knit,Anti Crease,KG,472.38,150,12,60041000,5,Y,2022-03-12
+DD-KIR-0017,95/5 Cotton Lycra Knit 1x1 Rib 255 GSM 72 inch Royal Blue,Interlock and Rib Knit,1x1 Rib,KIR-Q05,95/5 Cotton Lycra Knit,255,72,,Royal Blue,Blue,Knit,Anti Crease,KG,481.63,150,10,60041000,5,Y,2020-10-19
+DD-KIR-0018,95/5 Cotton Lycra Knit 1x1 Rib 255 GSM 72 inch Mustard,Interlock and Rib Knit,1x1 Rib,KIR-Q05,95/5 Cotton Lycra Knit,255,72,,Mustard,Yellow,Knit,Anti Crease,KG,465.21,200,12,60041000,5,Y,2021-03-27
+DD-KIR-0019,100% Cotton Knit 1x1 Rib 220 GSM 72 inch Cream,Interlock and Rib Knit,1x1 Rib,KIR-Q06,100% Cotton Knit,220,72,,Cream,Neutral,Knit,Standard,KG,358.26,300,7,60041000,5,Y,2021-02-28
+DD-KIR-0020,100% Cotton Knit 1x1 Rib 220 GSM 72 inch Wine,Interlock and Rib Knit,1x1 Rib,KIR-Q06,100% Cotton Knit,220,72,,Wine,Red,Knit,Standard,KG,362.63,250,21,60041000,5,Y,2021-03-18
+DD-KIR-0021,100% Cotton Knit 1x1 Rib 220 GSM 72 inch Olive,Interlock and Rib Knit,1x1 Rib,KIR-Q06,100% Cotton Knit,220,72,,Olive,Green,Knit,Standard,KG,358.43,200,30,60041000,5,Y,2022-10-20
+DD-KIR-0022,100% Cotton Knit 1x1 Rib 220 GSM 72 inch Mustard,Interlock and Rib Knit,1x1 Rib,KIR-Q06,100% Cotton Knit,220,72,,Mustard,Yellow,Knit,Standard,KG,362.89,150,25,60041000,5,Y,2021-05-15
+DD-KIR-0023,100% Cotton Knit 1x1 Rib 220 GSM 72 inch Lavender,Interlock and Rib Knit,1x1 Rib,KIR-Q06,100% Cotton Knit,220,72,,Lavender,Purple,Knit,Standard,KG,359.2,250,10,60041000,5,Y,2023-03-26
+DD-KIR-0024,95/5 Cotton Lycra Knit Waffle 195 GSM 60 inch Cream,Interlock and Rib Knit,Waffle,KIR-Q07,95/5 Cotton Lycra Knit,195,60,,Cream,Neutral,Knit,Mercerised,KG,370.16,200,7,60041000,5,Y,2022-01-16
+DD-KIR-0025,95/5 Cotton Lycra Knit Waffle 195 GSM 60 inch Firozi,Interlock and Rib Knit,Waffle,KIR-Q07,95/5 Cotton Lycra Knit,195,60,,Firozi,Blue,Knit,Mercerised,KG,378.43,250,12,60041000,5,Y,2021-07-13
+DD-KIR-0026,95/5 Cotton Lycra Knit Waffle 195 GSM 60 inch Coffee Brown,Interlock and Rib Knit,Waffle,KIR-Q07,95/5 Cotton Lycra Knit,195,60,,Coffee Brown,Brown,Knit,Mercerised,KG,383.42,150,10,60041000,5,Y,2023-03-05
+DD-KIR-0027,95/5 Cotton Lycra Knit Waffle 195 GSM 60 inch Wine,Interlock and Rib Knit,Waffle,KIR-Q07,95/5 Cotton Lycra Knit,195,60,,Wine,Red,Knit,Mercerised,KG,377.91,300,12,60041000,5,Y,2023-01-20
+DD-KIR-0028,95/5 Cotton Lycra Knit Waffle 195 GSM 60 inch Olive,Interlock and Rib Knit,Waffle,KIR-Q07,95/5 Cotton Lycra Knit,195,60,,Olive,Green,Knit,Mercerised,KG,381.64,50,30,60041000,5,Y,2022-10-06
+DD-KIR-0029,95/5 Cotton Lycra Knit Waffle 195 GSM 60 inch Peach,Interlock and Rib Knit,Waffle,KIR-Q07,95/5 Cotton Lycra Knit,195,60,,Peach,Pink,Knit,Mercerised,KG,374.73,200,12,60041000,5,Y,2020-12-29
+DD-KIR-0030,100% Cotton Knit Waffle 240 GSM 60 inch Charcoal,Interlock and Rib Knit,Waffle,KIR-Q08,100% Cotton Knit,240,60,,Charcoal,Grey,Knit,Calendered,KG,406.74,300,12,60041000,5,Y,2022-03-27
+DD-KIR-0031,100% Cotton Knit Waffle 240 GSM 60 inch Peach,Interlock and Rib Knit,Waffle,KIR-Q08,100% Cotton Knit,240,60,,Peach,Pink,Knit,Calendered,KG,393.5,250,7,60041000,5,Y,2022-07-12
+DD-KIR-0032,100% Cotton Knit Waffle 240 GSM 60 inch Navy Blue,Interlock and Rib Knit,Waffle,KIR-Q08,100% Cotton Knit,240,60,,Navy Blue,Blue,Knit,Calendered,KG,405.16,50,30,60041000,5,Y,2021-06-23
+DD-KIR-0033,100% Cotton Knit Waffle 240 GSM 60 inch Olive,Interlock and Rib Knit,Waffle,KIR-Q08,100% Cotton Knit,240,60,,Olive,Green,Knit,Calendered,KG,396.79,200,12,60041000,5,Y,2022-04-07
+DD-KIR-0034,95/5 Cotton Lycra Knit 1x1 Rib 255 GSM 72 inch Silver Grey,Interlock and Rib Knit,1x1 Rib,KIR-Q05,95/5 Cotton Lycra Knit,255,72,,Silver Grey,Grey,Knit,Anti Crease,KG,468.85,50,7,60041000,5,Y,2021-02-19
+DD-KIR-0035,95/5 Cotton Lycra Knit 1x1 Rib 255 GSM 72 inch Firozi,Interlock and Rib Knit,1x1 Rib,KIR-Q05,95/5 Cotton Lycra Knit,255,72,,Firozi,Blue,Knit,Anti Crease,KG,470.19,250,25,60041000,5,Y,2022-10-11
+DD-KIR-0036,100% Cotton Knit 2x2 Rib 230 GSM 60 inch Coffee Brown,Interlock and Rib Knit,2x2 Rib,KIR-Q02,100% Cotton Knit,230,60,,Coffee Brown,Brown,Knit,Peach Finish,KG,386.74,300,25,60041000,5,Y,2022-02-20
+DD-KSJ-0001,95/5 Cotton Lycra Knit Melange Jersey 220 GSM 60 inch Camel,Single Jersey Knit,Melange Jersey,KSJ-Q01,95/5 Cotton Lycra Knit,220,60,,Camel,Brown,Knit,Mercerised,KG,476.07,50,12,60062200,5,Y,2021-04-28
+DD-KSJ-0002,95/5 Cotton Lycra Knit Melange Jersey 220 GSM 60 inch Bottle Green,Single Jersey Knit,Melange Jersey,KSJ-Q01,95/5 Cotton Lycra Knit,220,60,,Bottle Green,Green,Knit,Mercerised,KG,480.13,150,10,60062200,5,Y,2021-06-05
+DD-KSJ-0003,95/5 Cotton Lycra Knit Melange Jersey 220 GSM 60 inch Wine,Single Jersey Knit,Melange Jersey,KSJ-Q01,95/5 Cotton Lycra Knit,220,60,,Wine,Red,Knit,Mercerised,KG,477.38,250,30,60062200,5,Y,2021-10-14
+DD-KSJ-0004,100% Cotton Knit Single Jersey 160 GSM 60 inch Royal Blue,Single Jersey Knit,Single Jersey,KSJ-Q02,100% Cotton Knit,160,60,,Royal Blue,Blue,Knit,Sanforised,KG,326.61,200,21,60062200,5,Y,2022-01-04
+DD-KSJ-0005,100% Cotton Knit Single Jersey 160 GSM 60 inch Mint,Single Jersey Knit,Single Jersey,KSJ-Q02,100% Cotton Knit,160,60,,Mint,Green,Knit,Sanforised,KG,321.96,100,10,60062200,5,Y,2021-02-24
+DD-KSJ-0006,100% Cotton Knit Single Jersey 160 GSM 60 inch Bottle Green,Single Jersey Knit,Single Jersey,KSJ-Q02,100% Cotton Knit,160,60,,Bottle Green,Green,Knit,Sanforised,KG,327.78,250,15,60062200,5,Y,2022-03-20
+DD-KSJ-0007,95/5 Cotton Lycra Knit Single Jersey 155 GSM 60 inch Charcoal,Single Jersey Knit,Single Jersey,KSJ-Q03,95/5 Cotton Lycra Knit,155,60,,Charcoal,Grey,Knit,Soft Finish,KG,343.05,100,12,60062200,5,Y,2022-10-28
+DD-KSJ-0008,95/5 Cotton Lycra Knit Single Jersey 155 GSM 60 inch Greige RFD,Single Jersey Knit,Single Jersey,KSJ-Q03,95/5 Cotton Lycra Knit,155,60,,Greige RFD,Undyed,Knit,Soft Finish,KG,301.65,300,15,60062200,5,Y,2020-10-18
+DD-KSJ-0009,95/5 Cotton Lycra Knit Single Jersey 155 GSM 60 inch Peach,Single Jersey Knit,Single Jersey,KSJ-Q03,95/5 Cotton Lycra Knit,155,60,,Peach,Pink,Knit,Soft Finish,KG,339.57,100,30,60062200,5,Y,2021-10-19
+DD-KSJ-0010,95/5 Cotton Lycra Knit Single Jersey 155 GSM 60 inch Sea Green,Single Jersey Knit,Single Jersey,KSJ-Q03,95/5 Cotton Lycra Knit,155,60,,Sea Green,Green,Knit,Soft Finish,KG,343.07,50,25,60062200,5,Y,2021-10-19
+DD-KSJ-0011,100% Cotton Knit Melange Jersey 160 GSM 60 inch Beige,Single Jersey Knit,Melange Jersey,KSJ-Q04,100% Cotton Knit,160,60,,Beige,Neutral,Knit,Standard,KG,305.07,250,15,60062200,5,Y,2022-03-19
+DD-KSJ-0012,100% Cotton Knit Melange Jersey 160 GSM 60 inch Cream,Single Jersey Knit,Melange Jersey,KSJ-Q04,100% Cotton Knit,160,60,,Cream,Neutral,Knit,Standard,KG,305.05,100,15,60062200,5,Y,2021-12-25
+DD-KSJ-0013,100% Cotton Knit Melange Jersey 160 GSM 60 inch Rust,Single Jersey Knit,Melange Jersey,KSJ-Q04,100% Cotton Knit,160,60,,Rust,Red,Knit,Standard,KG,315.53,300,12,60062200,5,Y,2022-07-13
+DD-KSJ-0014,100% Cotton Knit Melange Jersey 160 GSM 60 inch Sea Green,Single Jersey Knit,Melange Jersey,KSJ-Q04,100% Cotton Knit,160,60,,Sea Green,Green,Knit,Standard,KG,307.87,50,21,60062200,5,Y,2022-03-15
+DD-KSJ-0015,100% Cotton Knit Single Jersey 155 GSM 72 inch Lavender,Single Jersey Knit,Single Jersey,KSJ-Q05,100% Cotton Knit,155,72,,Lavender,Purple,Knit,Anti Crease,KG,324.49,150,10,60062200,5,Y,2022-06-22
+DD-KSJ-0016,100% Cotton Knit Single Jersey 155 GSM 72 inch Teal,Single Jersey Knit,Single Jersey,KSJ-Q05,100% Cotton Knit,155,72,,Teal,Blue,Knit,Anti Crease,KG,322.96,200,15,60062200,5,Y,2022-03-31
+DD-KSJ-0017,100% Cotton Knit Single Jersey 155 GSM 72 inch Sea Green,Single Jersey Knit,Single Jersey,KSJ-Q05,100% Cotton Knit,155,72,,Sea Green,Green,Knit,Anti Crease,KG,321.81,300,10,60062200,5,Y,2021-06-15
+DD-KSJ-0018,100% Cotton Knit Single Jersey 155 GSM 72 inch Firozi,Single Jersey Knit,Single Jersey,KSJ-Q05,100% Cotton Knit,155,72,,Firozi,Blue,Knit,Anti Crease,KG,319.42,300,25,60062200,5,Y,2023-03-26
+DD-KSJ-0019,60/40 Poly Cotton Knit Melange Jersey 155 GSM 60 inch Off White,Single Jersey Knit,Melange Jersey,KSJ-Q06,60/40 Poly Cotton Knit,155,60,,Off White,Neutral,Knit,Soft Finish,KG,310.72,300,12,60062200,5,Y,2021-10-16
+DD-KSJ-0020,60/40 Poly Cotton Knit Melange Jersey 155 GSM 60 inch White,Single Jersey Knit,Melange Jersey,KSJ-Q06,60/40 Poly Cotton Knit,155,60,,White,Neutral,Knit,Soft Finish,KG,306.02,300,7,60062200,5,Y,2022-12-03
+DD-KSJ-0021,60/40 Poly Cotton Knit Melange Jersey 155 GSM 60 inch Mint,Single Jersey Knit,Melange Jersey,KSJ-Q06,60/40 Poly Cotton Knit,155,60,,Mint,Green,Knit,Soft Finish,KG,306.86,150,12,60062200,5,N,2022-04-28
+DD-KSJ-0022,100% Cotton Knit Melange Jersey 200 GSM 72 inch Silver Grey,Single Jersey Knit,Melange Jersey,KSJ-Q07,100% Cotton Knit,200,72,,Silver Grey,Grey,Knit,Sanforised,KG,387.41,50,25,60062200,5,Y,2021-11-21
+DD-KSJ-0023,100% Cotton Knit Melange Jersey 200 GSM 72 inch Baby Pink,Single Jersey Knit,Melange Jersey,KSJ-Q07,100% Cotton Knit,200,72,,Baby Pink,Pink,Knit,Sanforised,KG,388.85,200,25,60062200,5,Y,2021-05-16
+DD-KSJ-0024,100% Cotton Knit Melange Jersey 200 GSM 72 inch Royal Blue,Single Jersey Knit,Melange Jersey,KSJ-Q07,100% Cotton Knit,200,72,,Royal Blue,Blue,Knit,Sanforised,KG,397.45,200,25,60062200,5,N,2021-09-06
+DD-KSJ-0025,100% Cotton Knit Melange Jersey 200 GSM 72 inch White,Single Jersey Knit,Melange Jersey,KSJ-Q07,100% Cotton Knit,200,72,,White,Neutral,Knit,Sanforised,KG,383.45,200,7,60062200,5,Y,2022-10-18
+DD-KSJ-0026,100% Cotton Knit Slub Jersey 150 GSM 72 inch Rust,Single Jersey Knit,Slub Jersey,KSJ-Q08,100% Cotton Knit,150,72,,Rust,Red,Knit,Soft Finish,KG,308.38,250,30,60062200,5,Y,2023-01-19
+DD-KSJ-0027,100% Cotton Knit Slub Jersey 150 GSM 72 inch Royal Blue,Single Jersey Knit,Slub Jersey,KSJ-Q08,100% Cotton Knit,150,72,,Royal Blue,Blue,Knit,Soft Finish,KG,307.58,250,10,60062200,5,Y,2021-06-12
+DD-LIN-0001,100% Linen Handloom Finish 220 GSM 58 inch Beige,Linen and Blends,Handloom Finish,LIN-Q01,100% Linen,220,58,,Beige,Neutral,Woven,Standard,MTR,426.73,150,25,53091100,5,Y,2022-08-04
+DD-LIN-0002,100% Linen Handloom Finish 220 GSM 58 inch Off White,Linen and Blends,Handloom Finish,LIN-Q01,100% Linen,220,58,,Off White,Neutral,Woven,Standard,MTR,421.54,250,12,53091100,5,Y,2021-12-30
+DD-LIN-0003,100% Linen Handloom Finish 220 GSM 58 inch Peach,Linen and Blends,Handloom Finish,LIN-Q01,100% Linen,220,58,,Peach,Pink,Woven,Standard,MTR,426.46,250,15,53091100,5,Y,2021-12-02
+DD-LIN-0004,55/45 Linen Cotton Handloom Finish 160 GSM 58 inch Teal,Linen and Blends,Handloom Finish,LIN-Q02,55/45 Linen Cotton,160,58,,Teal,Blue,Woven,Anti Crease,MTR,341.72,50,30,53091100,5,Y,2021-01-14
+DD-LIN-0005,55/45 Linen Cotton Handloom Finish 160 GSM 58 inch Greige RFD,Linen and Blends,Handloom Finish,LIN-Q02,55/45 Linen Cotton,160,58,,Greige RFD,Undyed,Woven,Anti Crease,MTR,302.66,100,25,53091100,5,Y,2021-01-01
+DD-LIN-0006,55/45 Linen Cotton Handloom Finish 160 GSM 58 inch Sea Green,Linen and Blends,Handloom Finish,LIN-Q02,55/45 Linen Cotton,160,58,,Sea Green,Green,Woven,Anti Crease,MTR,344.47,50,25,53091100,5,Y,2020-12-16
+DD-LIN-0007,55/45 Linen Cotton Handloom Finish 160 GSM 58 inch Silver Grey,Linen and Blends,Handloom Finish,LIN-Q02,55/45 Linen Cotton,160,58,,Silver Grey,Grey,Woven,Anti Crease,MTR,343.29,200,10,53091100,5,Y,2021-07-02
+DD-LIN-0008,55/45 Linen Cotton Handloom Finish 160 GSM 58 inch Peach,Linen and Blends,Handloom Finish,LIN-Q02,55/45 Linen Cotton,160,58,,Peach,Pink,Woven,Anti Crease,MTR,339.79,250,15,53091100,5,Y,2020-11-01
+DD-LIN-0009,55/45 Linen Cotton Handloom Finish 195 GSM 58 inch Lavender,Linen and Blends,Handloom Finish,LIN-Q03,55/45 Linen Cotton,195,58,,Lavender,Purple,Woven,Sanforised,MTR,394.87,100,21,53091100,5,Y,2022-08-23
+DD-LIN-0010,55/45 Linen Cotton Handloom Finish 195 GSM 58 inch Mint,Linen and Blends,Handloom Finish,LIN-Q03,55/45 Linen Cotton,195,58,,Mint,Green,Woven,Sanforised,MTR,396.84,50,12,53091100,5,Y,2022-12-15
+DD-LIN-0011,55/45 Linen Cotton Handloom Finish 195 GSM 58 inch Beige,Linen and Blends,Handloom Finish,LIN-Q03,55/45 Linen Cotton,195,58,,Beige,Neutral,Woven,Sanforised,MTR,385.28,100,21,53091100,5,Y,2022-12-09
+DD-LIN-0012,55/45 Linen Cotton Handloom Finish 195 GSM 58 inch Coffee Brown,Linen and Blends,Handloom Finish,LIN-Q03,55/45 Linen Cotton,195,58,,Coffee Brown,Brown,Woven,Sanforised,MTR,398.12,100,7,53091100,5,Y,2022-07-03
+DD-LIN-0013,55/45 Linen Cotton Handloom Finish 195 GSM 58 inch Rust,Linen and Blends,Handloom Finish,LIN-Q03,55/45 Linen Cotton,195,58,,Rust,Red,Woven,Sanforised,MTR,394.86,150,21,53091100,5,Y,2020-12-14
+DD-LIN-0014,55/45 Linen Cotton Handloom Finish 195 GSM 58 inch Camel,Linen and Blends,Handloom Finish,LIN-Q03,55/45 Linen Cotton,195,58,,Camel,Brown,Woven,Sanforised,MTR,401.42,250,30,53091100,5,Y,2021-03-27
+DD-LIN-0015,100% Linen Plain 215 GSM 58 inch Mustard,Linen and Blends,Plain,LIN-Q04,100% Linen,215,58,,Mustard,Yellow,Woven,Mercerised,MTR,454.13,250,7,53091100,5,Y,2021-09-25
+DD-LIN-0016,100% Linen Plain 215 GSM 58 inch Cream,Linen and Blends,Plain,LIN-Q04,100% Linen,215,58,,Cream,Neutral,Woven,Mercerised,MTR,440.06,150,10,53091100,5,Y,2021-12-28
+DD-LIN-0017,100% Linen Plain 215 GSM 58 inch Sea Green,Linen and Blends,Plain,LIN-Q04,100% Linen,215,58,,Sea Green,Green,Woven,Mercerised,MTR,445.98,150,21,53091100,5,Y,2021-04-24
+DD-LIN-0018,100% Linen Plain 215 GSM 58 inch Off White,Linen and Blends,Plain,LIN-Q04,100% Linen,215,58,,Off White,Neutral,Woven,Mercerised,MTR,437.35,250,21,53091100,5,Y,2022-12-24
+DD-LIN-0019,100% Linen Plain 215 GSM 58 inch Royal Blue,Linen and Blends,Plain,LIN-Q04,100% Linen,215,58,,Royal Blue,Blue,Woven,Mercerised,MTR,446.55,250,7,53091100,5,Y,2022-09-23
+DD-LIN-0020,55/45 Linen Cotton Plain 215 GSM 58 inch Off White,Linen and Blends,Plain,LIN-Q05,55/45 Linen Cotton,215,58,,Off White,Neutral,Woven,Soft Finish,MTR,418.22,250,7,53091100,5,Y,2022-03-03
+DD-LIN-0021,55/45 Linen Cotton Plain 215 GSM 58 inch Black,Linen and Blends,Plain,LIN-Q05,55/45 Linen Cotton,215,58,,Black,Dark,Woven,Soft Finish,MTR,441.46,50,15,53091100,5,Y,2023-01-10
+DD-LIN-0022,55/45 Linen Cotton Plain 215 GSM 58 inch Navy Blue,Linen and Blends,Plain,LIN-Q05,55/45 Linen Cotton,215,58,,Navy Blue,Blue,Woven,Soft Finish,MTR,430.13,200,25,53091100,5,Y,2021-11-18
+DD-LIN-0023,55/45 Linen Cotton Plain 215 GSM 58 inch Wine,Linen and Blends,Plain,LIN-Q05,55/45 Linen Cotton,215,58,,Wine,Red,Woven,Soft Finish,MTR,431.37,50,10,53091100,5,N,2023-03-22
+DD-LIN-0024,100% Linen Handloom Finish 115 GSM 58 inch Peach,Linen and Blends,Handloom Finish,LIN-Q06,100% Linen,115,58,,Peach,Pink,Woven,Calendered,MTR,251.88,300,30,53091100,5,Y,2022-08-24
+DD-LIN-0025,100% Linen Handloom Finish 115 GSM 58 inch Coffee Brown,Linen and Blends,Handloom Finish,LIN-Q06,100% Linen,115,58,,Coffee Brown,Brown,Woven,Calendered,MTR,256.07,250,10,53091100,5,Y,2021-11-07
+DD-LIN-0026,100% Linen Handloom Finish 115 GSM 58 inch Baby Pink,Linen and Blends,Handloom Finish,LIN-Q06,100% Linen,115,58,,Baby Pink,Pink,Woven,Calendered,MTR,248.11,250,10,53091100,5,Y,2022-06-25
+DD-LIN-0027,100% Linen Handloom Finish 115 GSM 58 inch Grey Melange,Linen and Blends,Handloom Finish,LIN-Q06,100% Linen,115,58,,Grey Melange,Grey,Woven,Calendered,MTR,260.24,100,10,53091100,5,Y,2021-10-14
+DD-LIN-0028,100% Linen Handloom Finish 115 GSM 58 inch Mint,Linen and Blends,Handloom Finish,LIN-Q06,100% Linen,115,58,,Mint,Green,Woven,Calendered,MTR,252.38,50,21,53091100,5,Y,2021-06-16
+DD-LIN-0029,100% Linen Handloom Finish 115 GSM 58 inch Firozi,Linen and Blends,Handloom Finish,LIN-Q06,100% Linen,115,58,,Firozi,Blue,Woven,Calendered,MTR,253.03,100,7,53091100,5,Y,2022-03-25
+DD-LIN-0030,100% Linen Plain 195 GSM 58 inch Firozi,Linen and Blends,Plain,LIN-Q07,100% Linen,195,58,,Firozi,Blue,Woven,Bio Wash,MTR,400.62,200,21,53091100,5,Y,2022-02-17
+DD-LIN-0031,100% Linen Plain 195 GSM 58 inch Baby Pink,Linen and Blends,Plain,LIN-Q07,100% Linen,195,58,,Baby Pink,Pink,Woven,Bio Wash,MTR,401.07,300,7,53091100,5,N,2022-04-08
+DD-LIN-0032,100% Linen Plain 195 GSM 58 inch Mint,Linen and Blends,Plain,LIN-Q07,100% Linen,195,58,,Mint,Green,Woven,Bio Wash,MTR,398.05,100,30,53091100,5,Y,2022-12-08
+DD-LIN-0033,100% Linen Slub 125 GSM 58 inch Sea Green,Linen and Blends,Slub,LIN-Q08,100% Linen,125,58,,Sea Green,Green,Woven,Enzyme Wash,MTR,274.44,200,15,53091100,5,Y,2022-01-15
+DD-LIN-0034,100% Linen Slub 125 GSM 58 inch Firozi,Linen and Blends,Slub,LIN-Q08,100% Linen,125,58,,Firozi,Blue,Woven,Enzyme Wash,MTR,272.55,250,15,53091100,5,Y,2021-03-07
+DD-LIN-0035,100% Linen Slub 125 GSM 58 inch Grey Melange,Linen and Blends,Slub,LIN-Q08,100% Linen,125,58,,Grey Melange,Grey,Woven,Enzyme Wash,MTR,280.78,250,25,53091100,5,Y,2020-10-20
+DD-MOD-0001,100% Modal Twill 130 GSM 58 inch Wine,Modal and Lyocell,Twill,MOD-Q01,100% Modal,130,58,,Wine,Red,Woven,Mercerised,MTR,213.43,250,30,55162200,5,Y,2022-06-19
+DD-MOD-0002,100% Modal Twill 130 GSM 58 inch Baby Pink,Modal and Lyocell,Twill,MOD-Q01,100% Modal,130,58,,Baby Pink,Pink,Woven,Mercerised,MTR,207.75,50,30,55162200,5,Y,2022-01-29
+DD-MOD-0003,100% Modal Twill 130 GSM 58 inch Maroon,Modal and Lyocell,Twill,MOD-Q01,100% Modal,130,58,,Maroon,Red,Woven,Mercerised,MTR,208.6,250,25,55162200,5,Y,2022-09-07
+DD-MOD-0004,100% Modal Twill 130 GSM 58 inch Sea Green,Modal and Lyocell,Twill,MOD-Q01,100% Modal,130,58,,Sea Green,Green,Woven,Mercerised,MTR,205.89,300,21,55162200,5,Y,2021-09-02
+DD-MOD-0005,100% Lyocell Satin 150 GSM 58 inch Grey Melange,Modal and Lyocell,Satin,MOD-Q02,100% Lyocell,150,58,,Grey Melange,Grey,Woven,Soft Finish,MTR,234.73,150,25,55162200,5,Y,2021-01-15
+DD-MOD-0006,100% Lyocell Satin 150 GSM 58 inch Black,Modal and Lyocell,Satin,MOD-Q02,100% Lyocell,150,58,,Black,Dark,Woven,Soft Finish,MTR,228.74,300,12,55162200,5,Y,2021-10-21
+DD-MOD-0007,100% Lyocell Satin 150 GSM 58 inch Maroon,Modal and Lyocell,Satin,MOD-Q02,100% Lyocell,150,58,,Maroon,Red,Woven,Soft Finish,MTR,227.79,150,10,55162200,5,Y,2022-08-29
+DD-MOD-0008,100% Lyocell Satin 150 GSM 58 inch Peach,Modal and Lyocell,Satin,MOD-Q02,100% Lyocell,150,58,,Peach,Pink,Woven,Soft Finish,MTR,226.26,200,15,55162200,5,Y,2022-04-18
+DD-MOD-0009,100% Lyocell Satin 150 GSM 58 inch Lavender,Modal and Lyocell,Satin,MOD-Q02,100% Lyocell,150,58,,Lavender,Purple,Woven,Soft Finish,MTR,227.6,250,25,55162200,5,Y,2021-04-02
+DD-MOD-0010,100% Lyocell Satin 150 GSM 58 inch Navy Blue,Modal and Lyocell,Satin,MOD-Q02,100% Lyocell,150,58,,Navy Blue,Blue,Woven,Soft Finish,MTR,227.5,200,15,55162200,5,Y,2022-07-11
+DD-MOD-0011,100% Lyocell Twill 165 GSM 58 inch Royal Blue,Modal and Lyocell,Twill,MOD-Q03,100% Lyocell,165,58,,Royal Blue,Blue,Woven,Peach Finish,MTR,256.37,150,30,55162200,5,Y,2021-02-17
+DD-MOD-0012,100% Lyocell Twill 165 GSM 58 inch Bottle Green,Modal and Lyocell,Twill,MOD-Q03,100% Lyocell,165,58,,Bottle Green,Green,Woven,Peach Finish,MTR,255.14,150,15,55162200,5,Y,2022-09-19
+DD-MOD-0013,100% Lyocell Twill 165 GSM 58 inch Olive,Modal and Lyocell,Twill,MOD-Q03,100% Lyocell,165,58,,Olive,Green,Woven,Peach Finish,MTR,253.31,300,12,55162200,5,Y,2022-10-25
+DD-MOD-0014,70/30 Modal Cotton Plain 160 GSM 58 inch Sky Blue,Modal and Lyocell,Plain,MOD-Q04,70/30 Modal Cotton,160,58,,Sky Blue,Blue,Woven,Calendered,MTR,238.56,200,7,55162200,5,Y,2021-02-08
+DD-MOD-0015,70/30 Modal Cotton Plain 160 GSM 58 inch Greige RFD,Modal and Lyocell,Plain,MOD-Q04,70/30 Modal Cotton,160,58,,Greige RFD,Undyed,Woven,Calendered,MTR,212.65,150,7,55162200,5,Y,2020-12-10
+DD-MOD-0016,70/30 Modal Cotton Plain 160 GSM 58 inch Firozi,Modal and Lyocell,Plain,MOD-Q04,70/30 Modal Cotton,160,58,,Firozi,Blue,Woven,Calendered,MTR,242.48,100,15,55162200,5,Y,2022-10-09
+DD-MOD-0017,70/30 Modal Cotton Plain 160 GSM 58 inch Charcoal,Modal and Lyocell,Plain,MOD-Q04,70/30 Modal Cotton,160,58,,Charcoal,Grey,Woven,Calendered,MTR,244.27,200,7,55162200,5,Y,2022-06-01
+DD-MOD-0018,100% Lyocell Satin 150 GSM 58 inch Rust,Modal and Lyocell,Satin,MOD-Q05,100% Lyocell,150,58,,Rust,Red,Woven,Bio Wash,MTR,231.28,200,21,55162200,5,Y,2022-08-25
+DD-MOD-0019,100% Lyocell Satin 150 GSM 58 inch Maroon,Modal and Lyocell,Satin,MOD-Q05,100% Lyocell,150,58,,Maroon,Red,Woven,Bio Wash,MTR,229.82,50,25,55162200,5,Y,2021-12-28
+DD-MOD-0020,100% Lyocell Satin 150 GSM 58 inch Baby Pink,Modal and Lyocell,Satin,MOD-Q05,100% Lyocell,150,58,,Baby Pink,Pink,Woven,Bio Wash,MTR,228.41,100,12,55162200,5,Y,2023-01-20
+DD-MOD-0021,100% Lyocell Satin 150 GSM 58 inch Navy Blue,Modal and Lyocell,Satin,MOD-Q05,100% Lyocell,150,58,,Navy Blue,Blue,Woven,Bio Wash,MTR,230.19,200,12,55162200,5,Y,2023-01-11
+DD-MOD-0022,100% Lyocell Satin 150 GSM 58 inch Charcoal,Modal and Lyocell,Satin,MOD-Q05,100% Lyocell,150,58,,Charcoal,Grey,Woven,Bio Wash,MTR,228.24,50,21,55162200,5,Y,2021-11-17
+DD-MOD-0023,100% Lyocell Satin 105 GSM 58 inch Royal Blue,Modal and Lyocell,Satin,MOD-Q06,100% Lyocell,105,58,,Royal Blue,Blue,Woven,Soft Finish,MTR,171.71,300,30,55162200,5,Y,2022-04-04
+DD-MOD-0024,100% Lyocell Satin 105 GSM 58 inch Mustard,Modal and Lyocell,Satin,MOD-Q06,100% Lyocell,105,58,,Mustard,Yellow,Woven,Soft Finish,MTR,165.59,200,10,55162200,5,Y,2023-03-18
+DD-MOD-0025,100% Lyocell Satin 105 GSM 58 inch Ecru,Modal and Lyocell,Satin,MOD-Q06,100% Lyocell,105,58,,Ecru,Neutral,Woven,Soft Finish,MTR,162.84,100,10,55162200,5,Y,2021-12-06
+DD-MOD-0026,100% Lyocell Satin 105 GSM 58 inch White,Modal and Lyocell,Satin,MOD-Q06,100% Lyocell,105,58,,White,Neutral,Woven,Soft Finish,MTR,164.49,50,25,55162200,5,Y,2022-03-09
+DD-MOD-0027,100% Lyocell Satin 105 GSM 58 inch Charcoal,Modal and Lyocell,Satin,MOD-Q06,100% Lyocell,105,58,,Charcoal,Grey,Woven,Soft Finish,MTR,170.26,200,12,55162200,5,Y,2022-04-22
+DD-MOD-0028,70/30 Modal Cotton Satin 105 GSM 58 inch Greige RFD,Modal and Lyocell,Satin,MOD-Q07,70/30 Modal Cotton,105,58,,Greige RFD,Undyed,Woven,Bio Wash,MTR,147.84,50,30,55162200,5,Y,2021-04-06
+DD-MOD-0029,70/30 Modal Cotton Satin 105 GSM 58 inch White,Modal and Lyocell,Satin,MOD-Q07,70/30 Modal Cotton,105,58,,White,Neutral,Woven,Bio Wash,MTR,166.35,200,12,55162200,5,Y,2021-08-07
+DD-MOD-0030,70/30 Modal Cotton Satin 105 GSM 58 inch Royal Blue,Modal and Lyocell,Satin,MOD-Q07,70/30 Modal Cotton,105,58,,Royal Blue,Blue,Woven,Bio Wash,MTR,172.35,250,21,55162200,5,Y,2022-06-20
+DD-MOD-0031,70/30 Modal Cotton Satin 105 GSM 58 inch Navy Blue,Modal and Lyocell,Satin,MOD-Q07,70/30 Modal Cotton,105,58,,Navy Blue,Blue,Woven,Bio Wash,MTR,169.11,50,10,55162200,5,Y,2020-10-28
+DD-MOD-0032,70/30 Modal Cotton Satin 180 GSM 58 inch Mustard,Modal and Lyocell,Satin,MOD-Q08,70/30 Modal Cotton,180,58,,Mustard,Yellow,Woven,Mercerised,MTR,274.25,100,25,55162200,5,Y,2022-03-19
+DD-MOD-0033,70/30 Modal Cotton Satin 180 GSM 58 inch Sky Blue,Modal and Lyocell,Satin,MOD-Q08,70/30 Modal Cotton,180,58,,Sky Blue,Blue,Woven,Mercerised,MTR,276.69,250,10,55162200,5,Y,2022-06-12
+DD-MOD-0034,70/30 Modal Cotton Satin 180 GSM 58 inch Lavender,Modal and Lyocell,Satin,MOD-Q08,70/30 Modal Cotton,180,58,,Lavender,Purple,Woven,Mercerised,MTR,272.9,50,25,55162200,5,Y,2021-08-08
+DD-MOD-0035,70/30 Modal Cotton Satin 180 GSM 58 inch Mint,Modal and Lyocell,Satin,MOD-Q08,70/30 Modal Cotton,180,58,,Mint,Green,Woven,Mercerised,MTR,272.9,250,25,55162200,5,Y,2023-01-02
+DD-PCS-0001,80/20 Poly Cotton Blended Shirting 115 GSM 63 inch Off White,Poly Cotton Shirting,Blended Shirting,PCS-Q01,80/20 Poly Cotton,115,63,,Off White,Neutral,Woven,Soft Finish,MTR,78.45,250,21,54073000,5,N,2021-01-06
+DD-PCS-0002,80/20 Poly Cotton Blended Shirting 115 GSM 63 inch Mustard,Poly Cotton Shirting,Blended Shirting,PCS-Q01,80/20 Poly Cotton,115,63,,Mustard,Yellow,Woven,Soft Finish,MTR,81.6,200,10,54073000,5,Y,2021-07-11
+DD-PCS-0003,80/20 Poly Cotton Blended Shirting 115 GSM 63 inch Cream,Poly Cotton Shirting,Blended Shirting,PCS-Q01,80/20 Poly Cotton,115,63,,Cream,Neutral,Woven,Soft Finish,MTR,80.45,50,30,54073000,5,Y,2022-12-15
+DD-PCS-0004,80/20 Poly Cotton Blended Shirting 115 GSM 63 inch Charcoal,Poly Cotton Shirting,Blended Shirting,PCS-Q01,80/20 Poly Cotton,115,63,,Charcoal,Grey,Woven,Soft Finish,MTR,81.58,100,10,54073000,5,Y,2022-01-01
+DD-PCS-0005,80/20 Poly Cotton Blended Shirting 115 GSM 63 inch Wine,Poly Cotton Shirting,Blended Shirting,PCS-Q01,80/20 Poly Cotton,115,63,,Wine,Red,Woven,Soft Finish,MTR,82.79,250,30,54073000,5,Y,2022-03-20
+DD-PCS-0006,65/35 Poly Cotton Poplin 140 GSM 58 inch Coffee Brown,Poly Cotton Shirting,Poplin,PCS-Q02,65/35 Poly Cotton,140,58,,Coffee Brown,Brown,Woven,Peach Finish,MTR,94.43,150,15,54073000,5,Y,2021-08-22
+DD-PCS-0007,65/35 Poly Cotton Poplin 140 GSM 58 inch White,Poly Cotton Shirting,Poplin,PCS-Q02,65/35 Poly Cotton,140,58,,White,Neutral,Woven,Peach Finish,MTR,92.84,50,10,54073000,5,Y,2021-09-26
+DD-PCS-0008,65/35 Poly Cotton Poplin 140 GSM 58 inch Camel,Poly Cotton Shirting,Poplin,PCS-Q02,65/35 Poly Cotton,140,58,,Camel,Brown,Woven,Peach Finish,MTR,94.56,250,10,54073000,5,Y,2020-12-24
+DD-PCS-0009,65/35 Poly Cotton Poplin 140 GSM 58 inch Rust,Poly Cotton Shirting,Poplin,PCS-Q02,65/35 Poly Cotton,140,58,,Rust,Red,Woven,Peach Finish,MTR,96.65,300,21,54073000,5,Y,2021-11-06
+DD-PCS-0010,65/35 Poly Cotton Poplin 110 GSM 58 inch Royal Blue,Poly Cotton Shirting,Poplin,PCS-Q03,65/35 Poly Cotton,110,58,,Royal Blue,Blue,Woven,Soft Finish,MTR,76.45,100,25,54073000,5,Y,2021-10-02
+DD-PCS-0011,65/35 Poly Cotton Poplin 110 GSM 58 inch Cream,Poly Cotton Shirting,Poplin,PCS-Q03,65/35 Poly Cotton,110,58,,Cream,Neutral,Woven,Soft Finish,MTR,75.62,150,15,54073000,5,Y,2022-09-10
+DD-PCS-0012,65/35 Poly Cotton Poplin 110 GSM 58 inch Coffee Brown,Poly Cotton Shirting,Poplin,PCS-Q03,65/35 Poly Cotton,110,58,,Coffee Brown,Brown,Woven,Soft Finish,MTR,76.11,200,10,54073000,5,N,2021-05-08
+DD-PCS-0013,65/35 Poly Cotton Poplin 110 GSM 58 inch Off White,Poly Cotton Shirting,Poplin,PCS-Q03,65/35 Poly Cotton,110,58,,Off White,Neutral,Woven,Soft Finish,MTR,75.56,50,15,54073000,5,Y,2021-07-14
+DD-PCS-0014,65/35 Poly Cotton Blended Twill 145 GSM 58 inch White,Poly Cotton Shirting,Blended Twill,PCS-Q04,65/35 Poly Cotton,145,58,,White,Neutral,Woven,Bio Wash,MTR,94.58,200,7,54073000,5,Y,2021-11-13
+DD-PCS-0015,65/35 Poly Cotton Blended Twill 145 GSM 58 inch Beige,Poly Cotton Shirting,Blended Twill,PCS-Q04,65/35 Poly Cotton,145,58,,Beige,Neutral,Woven,Bio Wash,MTR,95.27,100,7,54073000,5,Y,2020-12-17
+DD-PCS-0016,65/35 Poly Cotton Blended Twill 145 GSM 58 inch Lavender,Poly Cotton Shirting,Blended Twill,PCS-Q04,65/35 Poly Cotton,145,58,,Lavender,Purple,Woven,Bio Wash,MTR,97.25,250,7,54073000,5,Y,2022-12-16
+DD-PCS-0017,65/35 Poly Cotton Blended Twill 145 GSM 58 inch Ecru,Poly Cotton Shirting,Blended Twill,PCS-Q04,65/35 Poly Cotton,145,58,,Ecru,Neutral,Woven,Bio Wash,MTR,94.76,250,10,54073000,5,Y,2021-03-19
+DD-PCS-0018,65/35 Poly Cotton Blended Twill 145 GSM 58 inch Mustard,Poly Cotton Shirting,Blended Twill,PCS-Q04,65/35 Poly Cotton,145,58,,Mustard,Yellow,Woven,Bio Wash,MTR,98.25,300,15,54073000,5,Y,2020-10-19
+DD-PCS-0019,65/35 Poly Cotton Poplin 125 GSM 58 inch Lavender,Poly Cotton Shirting,Poplin,PCS-Q05,65/35 Poly Cotton,125,58,,Lavender,Purple,Woven,Bio Wash,MTR,85.04,250,12,54073000,5,N,2022-10-01
+DD-PCS-0020,65/35 Poly Cotton Poplin 125 GSM 58 inch Sky Blue,Poly Cotton Shirting,Poplin,PCS-Q05,65/35 Poly Cotton,125,58,,Sky Blue,Blue,Woven,Bio Wash,MTR,86.11,100,30,54073000,5,Y,2022-10-21
+DD-PCS-0021,65/35 Poly Cotton Poplin 125 GSM 58 inch Olive,Poly Cotton Shirting,Poplin,PCS-Q05,65/35 Poly Cotton,125,58,,Olive,Green,Woven,Bio Wash,MTR,85.61,150,10,54073000,5,Y,2022-08-06
+DD-PCS-0022,65/35 Poly Cotton Poplin 125 GSM 58 inch Off White,Poly Cotton Shirting,Poplin,PCS-Q05,65/35 Poly Cotton,125,58,,Off White,Neutral,Woven,Bio Wash,MTR,84.14,150,7,54073000,5,Y,2022-09-22
+DD-PCS-0023,80/20 Poly Cotton Blended Twill 130 GSM 63 inch Rust,Poly Cotton Shirting,Blended Twill,PCS-Q06,80/20 Poly Cotton,130,63,,Rust,Red,Woven,Anti Crease,MTR,93.49,300,10,54073000,5,Y,2020-11-01
+DD-PCS-0024,80/20 Poly Cotton Blended Twill 130 GSM 63 inch Peach,Poly Cotton Shirting,Blended Twill,PCS-Q06,80/20 Poly Cotton,130,63,,Peach,Pink,Woven,Anti Crease,MTR,92.31,200,15,54073000,5,Y,2023-02-26
+DD-PCS-0025,80/20 Poly Cotton Blended Twill 130 GSM 63 inch Wine,Poly Cotton Shirting,Blended Twill,PCS-Q06,80/20 Poly Cotton,130,63,,Wine,Red,Woven,Anti Crease,MTR,92.97,300,30,54073000,5,Y,2022-12-31
+DD-PCS-0026,80/20 Poly Cotton Blended Twill 130 GSM 63 inch Sea Green,Poly Cotton Shirting,Blended Twill,PCS-Q06,80/20 Poly Cotton,130,63,,Sea Green,Green,Woven,Anti Crease,MTR,91.84,300,30,54073000,5,Y,2023-04-01
+DD-PCS-0027,80/20 Poly Cotton Blended Twill 130 GSM 63 inch Navy Blue,Poly Cotton Shirting,Blended Twill,PCS-Q06,80/20 Poly Cotton,130,63,,Navy Blue,Blue,Woven,Anti Crease,MTR,92.15,300,7,54073000,5,Y,2021-04-21
+DD-PCS-0028,65/35 Poly Cotton Blended Shirting 140 GSM 58 inch Sea Green,Poly Cotton Shirting,Blended Shirting,PCS-Q07,65/35 Poly Cotton,140,58,,Sea Green,Green,Woven,Anti Crease,MTR,95.78,100,25,54073000,5,Y,2022-12-07
+DD-PCS-0029,65/35 Poly Cotton Blended Shirting 140 GSM 58 inch Sky Blue,Poly Cotton Shirting,Blended Shirting,PCS-Q07,65/35 Poly Cotton,140,58,,Sky Blue,Blue,Woven,Anti Crease,MTR,94.91,100,25,54073000,5,Y,2021-12-06
+DD-PCS-0030,65/35 Poly Cotton Blended Shirting 140 GSM 58 inch Cream,Poly Cotton Shirting,Blended Shirting,PCS-Q07,65/35 Poly Cotton,140,58,,Cream,Neutral,Woven,Anti Crease,MTR,94.82,300,10,54073000,5,Y,2022-06-17
+DD-PCS-0031,65/35 Poly Cotton Blended Shirting 140 GSM 58 inch Black,Poly Cotton Shirting,Blended Shirting,PCS-Q07,65/35 Poly Cotton,140,58,,Black,Dark,Woven,Anti Crease,MTR,99.45,300,7,54073000,5,Y,2021-04-21
+DD-PCS-0032,65/35 Poly Cotton Blended Shirting 140 GSM 58 inch Greige RFD,Poly Cotton Shirting,Blended Shirting,PCS-Q07,65/35 Poly Cotton,140,58,,Greige RFD,Undyed,Woven,Anti Crease,MTR,86.02,250,15,54073000,5,Y,2022-06-17
+DD-PCS-0033,80/20 Poly Cotton Poplin 145 GSM 58 inch Beige,Poly Cotton Shirting,Poplin,PCS-Q08,80/20 Poly Cotton,145,58,,Beige,Neutral,Woven,Peach Finish,MTR,97.27,200,7,54073000,5,Y,2021-10-18
+DD-PCS-0034,80/20 Poly Cotton Poplin 145 GSM 58 inch Coffee Brown,Poly Cotton Shirting,Poplin,PCS-Q08,80/20 Poly Cotton,145,58,,Coffee Brown,Brown,Woven,Peach Finish,MTR,97.39,100,30,54073000,5,Y,2022-02-22
+DD-PCS-0035,80/20 Poly Cotton Poplin 145 GSM 58 inch Mint,Poly Cotton Shirting,Poplin,PCS-Q08,80/20 Poly Cotton,145,58,,Mint,Green,Woven,Peach Finish,MTR,97.96,150,12,54073000,5,Y,2023-01-27
+DD-PGT-0001,100% Polyester Chiffon 95 GSM 44 inch Lavender,Polyester Georgette,Chiffon,PGT-Q01,100% Polyester,95,44,,Lavender,Purple,Woven,Sanforised,MTR,64.15,300,30,54076100,5,Y,2021-07-02
+DD-PGT-0002,100% Polyester Chiffon 95 GSM 44 inch Off White,Polyester Georgette,Chiffon,PGT-Q01,100% Polyester,95,44,,Off White,Neutral,Woven,Sanforised,MTR,63.33,250,25,54076100,5,Y,2021-10-21
+DD-PGT-0003,100% Polyester Chiffon 95 GSM 44 inch Rust,Polyester Georgette,Chiffon,PGT-Q01,100% Polyester,95,44,,Rust,Red,Woven,Sanforised,MTR,63.94,100,15,54076100,5,N,2022-07-19
+DD-PGT-0004,100% Polyester Chiffon 95 GSM 44 inch Sky Blue,Polyester Georgette,Chiffon,PGT-Q01,100% Polyester,95,44,,Sky Blue,Blue,Woven,Sanforised,MTR,64.45,50,30,54076100,5,N,2022-01-07
+DD-PGT-0005,100% Polyester Crepe 105 GSM 58 inch Cream,Polyester Georgette,Crepe,PGT-Q02,100% Polyester,105,58,,Cream,Neutral,Woven,Standard,MTR,71.24,300,21,54076100,5,Y,2022-08-17
+DD-PGT-0006,100% Polyester Crepe 105 GSM 58 inch Maroon,Polyester Georgette,Crepe,PGT-Q02,100% Polyester,105,58,,Maroon,Red,Woven,Standard,MTR,74.96,50,12,54076100,5,Y,2021-12-15
+DD-PGT-0007,100% Polyester Crepe 105 GSM 58 inch Baby Pink,Polyester Georgette,Crepe,PGT-Q02,100% Polyester,105,58,,Baby Pink,Pink,Woven,Standard,MTR,72.39,100,21,54076100,5,Y,2023-03-09
+DD-PGT-0008,100% Polyester Crepe 105 GSM 58 inch Beige,Polyester Georgette,Crepe,PGT-Q02,100% Polyester,105,58,,Beige,Neutral,Woven,Standard,MTR,72.62,150,15,54076100,5,Y,2022-12-13
+DD-PGT-0009,100% Polyester Chiffon 85 GSM 58 inch Grey Melange,Polyester Georgette,Chiffon,PGT-Q03,100% Polyester,85,58,,Grey Melange,Grey,Woven,Mercerised,MTR,67.77,50,15,54076100,5,Y,2022-11-05
+DD-PGT-0010,100% Polyester Chiffon 85 GSM 58 inch Off White,Polyester Georgette,Chiffon,PGT-Q03,100% Polyester,85,58,,Off White,Neutral,Woven,Mercerised,MTR,64.0,150,12,54076100,5,Y,2022-01-22
+DD-PGT-0011,100% Polyester Chiffon 85 GSM 58 inch Black,Polyester Georgette,Chiffon,PGT-Q03,100% Polyester,85,58,,Black,Dark,Woven,Mercerised,MTR,65.77,100,21,54076100,5,Y,2021-10-03
+DD-PGT-0012,100% Polyester Georgette 85 GSM 58 inch Coffee Brown,Polyester Georgette,Georgette,PGT-Q04,100% Polyester,85,58,,Coffee Brown,Brown,Woven,Bio Wash,MTR,62.32,50,7,54076100,5,N,2020-12-07
+DD-PGT-0013,100% Polyester Georgette 85 GSM 58 inch Beige,Polyester Georgette,Georgette,PGT-Q04,100% Polyester,85,58,,Beige,Neutral,Woven,Bio Wash,MTR,61.23,300,30,54076100,5,Y,2022-04-13
+DD-PGT-0014,100% Polyester Georgette 85 GSM 58 inch Royal Blue,Polyester Georgette,Georgette,PGT-Q04,100% Polyester,85,58,,Royal Blue,Blue,Woven,Bio Wash,MTR,64.13,300,21,54076100,5,Y,2021-02-24
+DD-PGT-0015,100% Polyester Georgette 85 GSM 58 inch Navy Blue,Polyester Georgette,Georgette,PGT-Q04,100% Polyester,85,58,,Navy Blue,Blue,Woven,Bio Wash,MTR,63.43,200,10,54076100,5,Y,2023-01-11
+DD-PGT-0016,100% Polyester Georgette 85 GSM 58 inch Silver Grey,Polyester Georgette,Georgette,PGT-Q04,100% Polyester,85,58,,Silver Grey,Grey,Woven,Bio Wash,MTR,62.06,250,10,54076100,5,Y,2022-12-14
+DD-PGT-0017,100% Polyester Georgette 85 GSM 58 inch Camel,Polyester Georgette,Georgette,PGT-Q04,100% Polyester,85,58,,Camel,Brown,Woven,Bio Wash,MTR,62.29,50,12,54076100,5,Y,2021-08-09
+DD-PGT-0018,100% Polyester Crepe 85 GSM 58 inch Grey Melange,Polyester Georgette,Crepe,PGT-Q05,100% Polyester,85,58,,Grey Melange,Grey,Woven,Anti Crease,MTR,66.28,50,12,54076100,5,Y,2020-11-17
+DD-PGT-0019,100% Polyester Crepe 85 GSM 58 inch Off White,Polyester Georgette,Crepe,PGT-Q05,100% Polyester,85,58,,Off White,Neutral,Woven,Anti Crease,MTR,63.78,300,25,54076100,5,Y,2022-03-05
+DD-PGT-0020,100% Polyester Crepe 85 GSM 58 inch Lavender,Polyester Georgette,Crepe,PGT-Q05,100% Polyester,85,58,,Lavender,Purple,Woven,Anti Crease,MTR,63.56,50,7,54076100,5,Y,2022-04-12
+DD-PGT-0021,100% Polyester Crepe 85 GSM 58 inch Rust,Polyester Georgette,Crepe,PGT-Q05,100% Polyester,85,58,,Rust,Red,Woven,Anti Crease,MTR,63.72,50,12,54076100,5,Y,2021-08-04
+DD-PGT-0022,100% Polyester Crepe 70 GSM 44 inch Beige,Polyester Georgette,Crepe,PGT-Q06,100% Polyester,70,44,,Beige,Neutral,Woven,Peach Finish,MTR,49.62,250,21,54076100,5,Y,2022-10-02
+DD-PGT-0023,100% Polyester Crepe 70 GSM 44 inch Silver Grey,Polyester Georgette,Crepe,PGT-Q06,100% Polyester,70,44,,Silver Grey,Grey,Woven,Peach Finish,MTR,50.37,150,12,54076100,5,Y,2020-12-30
+DD-PGT-0024,100% Polyester Crepe 70 GSM 44 inch Grey Melange,Polyester Georgette,Crepe,PGT-Q06,100% Polyester,70,44,,Grey Melange,Grey,Woven,Peach Finish,MTR,51.9,150,7,54076100,5,Y,2021-07-29
+DD-PGT-0025,100% Polyester Crepe 70 GSM 44 inch Wine,Polyester Georgette,Crepe,PGT-Q06,100% Polyester,70,44,,Wine,Red,Woven,Peach Finish,MTR,51.8,100,15,54076100,5,Y,2022-07-25
+DD-PGT-0026,100% Polyester Crepe 70 GSM 44 inch Teal,Polyester Georgette,Crepe,PGT-Q06,100% Polyester,70,44,,Teal,Blue,Woven,Peach Finish,MTR,51.24,250,25,54076100,5,Y,2021-03-01
+DD-PGT-0027,100% Polyester Crepe 70 GSM 44 inch Sky Blue,Polyester Georgette,Crepe,PGT-Q06,100% Polyester,70,44,,Sky Blue,Blue,Woven,Peach Finish,MTR,50.23,150,21,54076100,5,Y,2022-11-21
+DD-PGT-0028,100% Polyester Georgette 110 GSM 44 inch Greige RFD,Polyester Georgette,Georgette,PGT-Q07,100% Polyester,110,44,,Greige RFD,Undyed,Woven,Sanforised,MTR,63.79,50,15,54076100,5,Y,2022-12-17
+DD-PGT-0029,100% Polyester Georgette 110 GSM 44 inch Wine,Polyester Georgette,Georgette,PGT-Q07,100% Polyester,110,44,,Wine,Red,Woven,Sanforised,MTR,74.85,100,12,54076100,5,Y,2021-09-10
+DD-PGT-0030,100% Polyester Georgette 110 GSM 44 inch Beige,Polyester Georgette,Georgette,PGT-Q07,100% Polyester,110,44,,Beige,Neutral,Woven,Sanforised,MTR,71.7,50,21,54076100,5,Y,2021-09-30
+DD-PGT-0031,100% Polyester Georgette 110 GSM 44 inch Mint,Polyester Georgette,Georgette,PGT-Q07,100% Polyester,110,44,,Mint,Green,Woven,Sanforised,MTR,71.74,250,25,54076100,5,Y,2021-07-20
+DD-PGT-0032,100% Polyester Crepe 110 GSM 58 inch Ecru,Polyester Georgette,Crepe,PGT-Q08,100% Polyester,110,58,,Ecru,Neutral,Woven,Calendered,MTR,75.16,50,7,54076100,5,Y,2022-04-22
+DD-PGT-0033,100% Polyester Crepe 110 GSM 58 inch Teal,Polyester Georgette,Crepe,PGT-Q08,100% Polyester,110,58,,Teal,Blue,Woven,Calendered,MTR,78.43,250,25,54076100,5,Y,2022-01-12
+DD-PGT-0034,100% Polyester Crepe 110 GSM 58 inch Charcoal,Polyester Georgette,Crepe,PGT-Q08,100% Polyester,110,58,,Charcoal,Grey,Woven,Calendered,MTR,78.17,250,12,54076100,5,Y,2023-02-11
+DD-PGT-0035,100% Polyester Crepe 110 GSM 58 inch Navy Blue,Polyester Georgette,Crepe,PGT-Q08,100% Polyester,110,58,,Navy Blue,Blue,Woven,Calendered,MTR,77.82,300,25,54076100,5,N,2021-06-18
+DD-PGT-0036,100% Polyester Crepe 110 GSM 58 inch Firozi,Polyester Georgette,Crepe,PGT-Q08,100% Polyester,110,58,,Firozi,Blue,Woven,Calendered,MTR,76.97,100,21,54076100,5,Y,2021-06-09
+DD-PGT-0037,100% Polyester Crepe 110 GSM 58 inch Mint,Polyester Georgette,Crepe,PGT-Q08,100% Polyester,110,58,,Mint,Green,Woven,Calendered,MTR,77.27,300,10,54076100,5,Y,2021-01-28
+DD-PRB-0001,100% Polyester Print Base 105 GSM 58 inch Teal,Print Base Fabric,Print Base,PRB-Q01,100% Polyester,105,58,,Teal,Blue,Woven,Sanforised,MTR,119.7,50,12,52085200,5,Y,2022-06-22
+DD-PRB-0002,100% Polyester Print Base 105 GSM 58 inch Olive,Print Base Fabric,Print Base,PRB-Q01,100% Polyester,105,58,,Olive,Green,Woven,Sanforised,MTR,120.72,250,15,52085200,5,Y,2021-03-12
+DD-PRB-0003,100% Polyester Print Base 105 GSM 58 inch Baby Pink,Print Base Fabric,Print Base,PRB-Q01,100% Polyester,105,58,,Baby Pink,Pink,Woven,Sanforised,MTR,119.28,250,30,52085200,5,Y,2021-08-21
+DD-PRB-0004,100% Polyester Print Base 105 GSM 58 inch Peach,Print Base Fabric,Print Base,PRB-Q01,100% Polyester,105,58,,Peach,Pink,Woven,Sanforised,MTR,117.24,300,12,52085200,5,Y,2022-10-11
+DD-PRB-0005,100% Polyester Printed Plain 120 GSM 58 inch Mint,Print Base Fabric,Printed Plain,PRB-Q02,100% Polyester,120,58,,Mint,Green,Woven,Standard,MTR,128.17,50,21,52085200,5,Y,2022-02-06
+DD-PRB-0006,100% Polyester Printed Plain 120 GSM 58 inch Wine,Print Base Fabric,Printed Plain,PRB-Q02,100% Polyester,120,58,,Wine,Red,Woven,Standard,MTR,131.4,200,7,52085200,5,Y,2022-05-13
+DD-PRB-0007,100% Polyester Printed Plain 120 GSM 58 inch Beige,Print Base Fabric,Printed Plain,PRB-Q02,100% Polyester,120,58,,Beige,Neutral,Woven,Standard,MTR,127.18,50,30,52085200,5,N,2022-01-30
+DD-PRB-0008,100% Polyester Printed Plain 120 GSM 58 inch Firozi,Print Base Fabric,Printed Plain,PRB-Q02,100% Polyester,120,58,,Firozi,Blue,Woven,Standard,MTR,130.18,100,10,52085200,5,Y,2022-11-13
+DD-PRB-0009,100% Polyester Digital Print Base 130 GSM 58 inch Maroon,Print Base Fabric,Digital Print Base,PRB-Q03,100% Polyester,130,58,,Maroon,Red,Woven,Standard,MTR,140.58,150,30,52085200,5,Y,2021-07-04
+DD-PRB-0010,100% Polyester Digital Print Base 130 GSM 58 inch Charcoal,Print Base Fabric,Digital Print Base,PRB-Q03,100% Polyester,130,58,,Charcoal,Grey,Woven,Standard,MTR,141.61,100,10,52085200,5,N,2021-07-11
+DD-PRB-0011,100% Polyester Digital Print Base 130 GSM 58 inch Sky Blue,Print Base Fabric,Digital Print Base,PRB-Q03,100% Polyester,130,58,,Sky Blue,Blue,Woven,Standard,MTR,137.57,150,15,52085200,5,Y,2021-03-25
+DD-PRB-0012,100% Polyester Digital Print Base 130 GSM 58 inch Off White,Print Base Fabric,Digital Print Base,PRB-Q03,100% Polyester,130,58,,Off White,Neutral,Woven,Standard,MTR,138.69,100,10,52085200,5,Y,2021-09-24
+DD-PRB-0013,100% Polyester Digital Print Base 130 GSM 58 inch Teal,Print Base Fabric,Digital Print Base,PRB-Q03,100% Polyester,130,58,,Teal,Blue,Woven,Standard,MTR,139.03,300,12,52085200,5,Y,2021-08-10
+DD-PRB-0014,100% Polyester Digital Print Base 130 GSM 58 inch White,Print Base Fabric,Digital Print Base,PRB-Q03,100% Polyester,130,58,,White,Neutral,Woven,Standard,MTR,136.26,200,7,52085200,5,Y,2023-01-09
+DD-PRB-0015,100% Viscose Printed Plain 90 GSM 58 inch Off White,Print Base Fabric,Printed Plain,PRB-Q04,100% Viscose,90,58,,Off White,Neutral,Woven,Mercerised,MTR,104.89,250,25,52085200,5,Y,2023-01-14
+DD-PRB-0016,100% Viscose Printed Plain 90 GSM 58 inch Mustard,Print Base Fabric,Printed Plain,PRB-Q04,100% Viscose,90,58,,Mustard,Yellow,Woven,Mercerised,MTR,107.21,50,30,52085200,5,Y,2022-11-29
+DD-PRB-0017,100% Viscose Printed Plain 90 GSM 58 inch Baby Pink,Print Base Fabric,Printed Plain,PRB-Q04,100% Viscose,90,58,,Baby Pink,Pink,Woven,Mercerised,MTR,108.63,200,25,52085200,5,Y,2021-10-15
+DD-PRB-0018,100% Viscose Printed Plain 90 GSM 58 inch Cream,Print Base Fabric,Printed Plain,PRB-Q04,100% Viscose,90,58,,Cream,Neutral,Woven,Mercerised,MTR,106.68,50,10,52085200,5,Y,2023-01-24
+DD-PRB-0019,100% Viscose Print Base 105 GSM 44 inch Rust,Print Base Fabric,Print Base,PRB-Q05,100% Viscose,105,44,,Rust,Red,Woven,Enzyme Wash,MTR,112.93,50,7,52085200,5,Y,2021-10-18
+DD-PRB-0020,100% Viscose Print Base 105 GSM 44 inch Off White,Print Base Fabric,Print Base,PRB-Q05,100% Viscose,105,44,,Off White,Neutral,Woven,Enzyme Wash,MTR,112.76,250,15,52085200,5,Y,2022-02-13
+DD-PRB-0021,100% Viscose Print Base 105 GSM 44 inch Grey Melange,Print Base Fabric,Print Base,PRB-Q05,100% Viscose,105,44,,Grey Melange,Grey,Woven,Enzyme Wash,MTR,116.21,50,21,52085200,5,Y,2022-08-13
+DD-PRB-0022,100% Viscose Print Base 105 GSM 44 inch Mustard,Print Base Fabric,Print Base,PRB-Q05,100% Viscose,105,44,,Mustard,Yellow,Woven,Enzyme Wash,MTR,113.63,100,30,52085200,5,Y,2020-12-15
+DD-PRB-0023,100% Viscose Print Base 105 GSM 44 inch Wine,Print Base Fabric,Print Base,PRB-Q05,100% Viscose,105,44,,Wine,Red,Woven,Enzyme Wash,MTR,113.2,200,25,52085200,5,Y,2021-09-18
+DD-PRB-0024,100% Polyester Printed Plain 100 GSM 44 inch Navy Blue,Print Base Fabric,Printed Plain,PRB-Q06,100% Polyester,100,44,,Navy Blue,Blue,Woven,Soft Finish,MTR,110.24,250,25,52085200,5,Y,2022-09-04
+DD-PRB-0025,100% Polyester Printed Plain 100 GSM 44 inch Black,Print Base Fabric,Printed Plain,PRB-Q06,100% Polyester,100,44,,Black,Dark,Woven,Soft Finish,MTR,110.95,300,7,52085200,5,Y,2022-08-22
+DD-PRB-0026,100% Polyester Printed Plain 100 GSM 44 inch Greige RFD,Print Base Fabric,Printed Plain,PRB-Q06,100% Polyester,100,44,,Greige RFD,Undyed,Woven,Soft Finish,MTR,94.8,200,12,52085200,5,N,2022-05-23
+DD-PRB-0027,100% Polyester Printed Plain 100 GSM 44 inch Baby Pink,Print Base Fabric,Printed Plain,PRB-Q06,100% Polyester,100,44,,Baby Pink,Pink,Woven,Soft Finish,MTR,106.56,200,10,52085200,5,Y,2021-01-22
+DD-PRB-0028,100% Polyester Printed Plain 100 GSM 44 inch Bottle Green,Print Base Fabric,Printed Plain,PRB-Q06,100% Polyester,100,44,,Bottle Green,Green,Woven,Soft Finish,MTR,108.11,250,21,52085200,5,Y,2023-01-08
+DD-PRB-0029,100% Polyester Printed Plain 140 GSM 58 inch Ecru,Print Base Fabric,Printed Plain,PRB-Q07,100% Polyester,140,58,,Ecru,Neutral,Woven,Enzyme Wash,MTR,149.32,150,10,52085200,5,Y,2022-07-02
+DD-PRB-0030,100% Polyester Printed Plain 140 GSM 58 inch Maroon,Print Base Fabric,Printed Plain,PRB-Q07,100% Polyester,140,58,,Maroon,Red,Woven,Enzyme Wash,MTR,156.11,150,25,52085200,5,Y,2021-10-01
+DD-PRB-0031,100% Polyester Printed Plain 140 GSM 58 inch Baby Pink,Print Base Fabric,Printed Plain,PRB-Q07,100% Polyester,140,58,,Baby Pink,Pink,Woven,Enzyme Wash,MTR,149.96,200,15,52085200,5,Y,2021-12-07
+DD-PRB-0032,100% Polyester Printed Plain 140 GSM 58 inch Bottle Green,Print Base Fabric,Printed Plain,PRB-Q07,100% Polyester,140,58,,Bottle Green,Green,Woven,Enzyme Wash,MTR,156.84,300,15,52085200,5,Y,2020-10-19
+DD-PRB-0033,100% Polyester Printed Plain 140 GSM 58 inch Silver Grey,Print Base Fabric,Printed Plain,PRB-Q07,100% Polyester,140,58,,Silver Grey,Grey,Woven,Enzyme Wash,MTR,151.69,300,25,52085200,5,Y,2022-12-02
+DD-PRB-0034,100% Viscose Printed Plain 140 GSM 58 inch Charcoal,Print Base Fabric,Printed Plain,PRB-Q08,100% Viscose,140,58,,Charcoal,Grey,Woven,Bio Wash,MTR,152.71,250,10,52085200,5,Y,2021-09-15
+DD-PRB-0035,100% Viscose Printed Plain 140 GSM 58 inch Mint,Print Base Fabric,Printed Plain,PRB-Q08,100% Viscose,140,58,,Mint,Green,Woven,Bio Wash,MTR,151.5,300,15,52085200,5,Y,2021-10-20
+DD-PRB-0036,100% Viscose Printed Plain 140 GSM 58 inch White,Print Base Fabric,Printed Plain,PRB-Q08,100% Viscose,140,58,,White,Neutral,Woven,Bio Wash,MTR,148.81,200,7,52085200,5,N,2020-11-22
+DD-PRB-0037,100% Viscose Printed Plain 140 GSM 58 inch Sea Green,Print Base Fabric,Printed Plain,PRB-Q08,100% Viscose,140,58,,Sea Green,Green,Woven,Bio Wash,MTR,152.23,300,15,52085200,5,Y,2022-06-13
+DD-PRB-0038,100% Viscose Printed Plain 140 GSM 58 inch Cream,Print Base Fabric,Printed Plain,PRB-Q08,100% Viscose,140,58,,Cream,Neutral,Woven,Bio Wash,MTR,151.14,250,12,52085200,5,Y,2022-07-05
+DD-PRB-0039,100% Viscose Printed Plain 140 GSM 58 inch Navy Blue,Print Base Fabric,Printed Plain,PRB-Q08,100% Viscose,140,58,,Navy Blue,Blue,Woven,Bio Wash,MTR,152.91,300,30,52085200,5,Y,2021-05-09
+DD-PRB-0040,100% Polyester Digital Print Base 130 GSM 58 inch Olive,Print Base Fabric,Digital Print Base,PRB-Q03,100% Polyester,130,58,,Olive,Green,Woven,Standard,MTR,141.41,250,10,52085200,5,Y,2022-06-12
+DD-RBL-0001,100% Viscose Rubia Cloth 80 GSM 36 inch Off White,Rubia and Lining,Rubia Cloth,RBL-Q01,100% Viscose,80,36,,Off White,Neutral,Woven,Sanforised,MTR,45.06,100,12,52081100,5,Y,2020-10-21
+DD-RBL-0002,100% Viscose Rubia Cloth 80 GSM 36 inch Black,Rubia and Lining,Rubia Cloth,RBL-Q01,100% Viscose,80,36,,Black,Dark,Woven,Sanforised,MTR,47.82,250,12,52081100,5,Y,2022-08-31
+DD-RBL-0003,100% Viscose Rubia Cloth 80 GSM 36 inch Lavender,Rubia and Lining,Rubia Cloth,RBL-Q01,100% Viscose,80,36,,Lavender,Purple,Woven,Sanforised,MTR,46.25,150,7,52081100,5,Y,2021-02-04
+DD-RBL-0004,100% Viscose Rubia Cloth 80 GSM 36 inch Sea Green,Rubia and Lining,Rubia Cloth,RBL-Q01,100% Viscose,80,36,,Sea Green,Green,Woven,Sanforised,MTR,46.56,150,25,52081100,5,Y,2021-03-09
+DD-RBL-0005,100% Viscose Rubia Cloth 80 GSM 44 inch Navy Blue,Rubia and Lining,Rubia Cloth,RBL-Q02,100% Viscose,80,44,,Navy Blue,Blue,Woven,Standard,MTR,47.31,250,15,52081100,5,Y,2022-07-04
+DD-RBL-0006,100% Viscose Rubia Cloth 80 GSM 44 inch Sea Green,Rubia and Lining,Rubia Cloth,RBL-Q02,100% Viscose,80,44,,Sea Green,Green,Woven,Standard,MTR,46.07,100,7,52081100,5,Y,2022-06-14
+DD-RBL-0007,100% Viscose Rubia Cloth 80 GSM 44 inch Mint,Rubia and Lining,Rubia Cloth,RBL-Q02,100% Viscose,80,44,,Mint,Green,Woven,Standard,MTR,46.41,100,30,52081100,5,Y,2021-08-07
+DD-RBL-0008,100% Viscose Lining Plain 100 GSM 44 inch Sea Green,Rubia and Lining,Lining Plain,RBL-Q03,100% Viscose,100,44,,Sea Green,Green,Woven,Calendered,MTR,57.85,250,21,52081100,5,Y,2021-09-27
+DD-RBL-0009,100% Viscose Lining Plain 100 GSM 44 inch Peach,Rubia and Lining,Lining Plain,RBL-Q03,100% Viscose,100,44,,Peach,Pink,Woven,Calendered,MTR,58.32,150,21,52081100,5,Y,2022-06-04
+DD-RBL-0010,100% Viscose Lining Plain 100 GSM 44 inch Olive,Rubia and Lining,Lining Plain,RBL-Q03,100% Viscose,100,44,,Olive,Green,Woven,Calendered,MTR,57.8,200,21,52081100,5,Y,2021-07-07
+DD-RBL-0011,100% Viscose Lining Plain 100 GSM 44 inch Baby Pink,Rubia and Lining,Lining Plain,RBL-Q03,100% Viscose,100,44,,Baby Pink,Pink,Woven,Calendered,MTR,56.86,150,21,52081100,5,Y,2021-06-04
+DD-RBL-0012,100% Viscose Rubia Cloth 65 GSM 36 inch Camel,Rubia and Lining,Rubia Cloth,RBL-Q04,100% Viscose,65,36,,Camel,Brown,Woven,Calendered,MTR,39.46,200,7,52081100,5,Y,2021-10-26
+DD-RBL-0013,100% Viscose Rubia Cloth 65 GSM 36 inch Royal Blue,Rubia and Lining,Rubia Cloth,RBL-Q04,100% Viscose,65,36,,Royal Blue,Blue,Woven,Calendered,MTR,39.6,200,30,52081100,5,Y,2021-07-12
+DD-RBL-0014,100% Viscose Rubia Cloth 65 GSM 36 inch Bottle Green,Rubia and Lining,Rubia Cloth,RBL-Q04,100% Viscose,65,36,,Bottle Green,Green,Woven,Calendered,MTR,38.83,50,7,52081100,5,Y,2021-08-14
+DD-RBL-0015,100% Cotton Lining Plain 105 GSM 58 inch Greige RFD,Rubia and Lining,Lining Plain,RBL-Q05,100% Cotton,105,58,,Greige RFD,Undyed,Woven,Standard,MTR,56.3,50,21,52081100,5,Y,2022-05-05
+DD-RBL-0016,100% Cotton Lining Plain 105 GSM 58 inch Maroon,Rubia and Lining,Lining Plain,RBL-Q05,100% Cotton,105,58,,Maroon,Red,Woven,Standard,MTR,63.39,200,10,52081100,5,Y,2021-02-01
+DD-RBL-0017,100% Cotton Lining Plain 105 GSM 58 inch Peach,Rubia and Lining,Lining Plain,RBL-Q05,100% Cotton,105,58,,Peach,Pink,Woven,Standard,MTR,61.98,150,15,52081100,5,Y,2023-02-03
+DD-RBL-0018,100% Cotton Lining Plain 105 GSM 58 inch Bottle Green,Rubia and Lining,Lining Plain,RBL-Q05,100% Cotton,105,58,,Bottle Green,Green,Woven,Standard,MTR,62.74,300,15,52081100,5,Y,2021-04-14
+DD-RBL-0019,100% Cotton Lining Twill 90 GSM 36 inch Sky Blue,Rubia and Lining,Lining Twill,RBL-Q06,100% Cotton,90,36,,Sky Blue,Blue,Woven,Soft Finish,MTR,50.35,200,21,52081100,5,Y,2023-03-17
+DD-RBL-0020,100% Cotton Lining Twill 90 GSM 36 inch Royal Blue,Rubia and Lining,Lining Twill,RBL-Q06,100% Cotton,90,36,,Royal Blue,Blue,Woven,Soft Finish,MTR,52.47,100,7,52081100,5,Y,2022-01-24
+DD-RBL-0021,100% Cotton Lining Twill 90 GSM 36 inch Cream,Rubia and Lining,Lining Twill,RBL-Q06,100% Cotton,90,36,,Cream,Neutral,Woven,Soft Finish,MTR,50.68,300,15,52081100,5,Y,2022-05-08
+DD-RBL-0022,100% Polyester Lining Twill 70 GSM 36 inch Off White,Rubia and Lining,Lining Twill,RBL-Q07,100% Polyester,70,36,,Off White,Neutral,Woven,Mercerised,MTR,42.82,150,25,52081100,5,Y,2021-01-30
+DD-RBL-0023,100% Polyester Lining Twill 70 GSM 36 inch Ecru,Rubia and Lining,Lining Twill,RBL-Q07,100% Polyester,70,36,,Ecru,Neutral,Woven,Mercerised,MTR,42.03,150,30,52081100,5,Y,2022-03-16
+DD-RBL-0024,100% Polyester Lining Twill 70 GSM 36 inch Rust,Rubia and Lining,Lining Twill,RBL-Q07,100% Polyester,70,36,,Rust,Red,Woven,Mercerised,MTR,43.42,250,7,52081100,5,Y,2022-05-04
+DD-RBL-0025,100% Polyester Lining Twill 70 GSM 36 inch Coffee Brown,Rubia and Lining,Lining Twill,RBL-Q07,100% Polyester,70,36,,Coffee Brown,Brown,Woven,Mercerised,MTR,43.4,150,30,52081100,5,Y,2023-03-23
+DD-RBL-0026,100% Polyester Lining Twill 70 GSM 36 inch Grey Melange,Rubia and Lining,Lining Twill,RBL-Q07,100% Polyester,70,36,,Grey Melange,Grey,Woven,Mercerised,MTR,44.79,150,25,52081100,5,Y,2022-12-19
+DD-RBL-0027,100% Polyester Lining Twill 70 GSM 36 inch Firozi,Rubia and Lining,Lining Twill,RBL-Q07,100% Polyester,70,36,,Firozi,Blue,Woven,Mercerised,MTR,42.78,300,10,52081100,5,Y,2022-07-11
+DD-RBL-0028,100% Cotton Lining Twill 80 GSM 58 inch Charcoal,Rubia and Lining,Lining Twill,RBL-Q08,100% Cotton,80,58,,Charcoal,Grey,Woven,Standard,MTR,50.82,50,12,52081100,5,Y,2022-02-12
+DD-RBL-0029,100% Cotton Lining Twill 80 GSM 58 inch Navy Blue,Rubia and Lining,Lining Twill,RBL-Q08,100% Cotton,80,58,,Navy Blue,Blue,Woven,Standard,MTR,51.02,200,10,52081100,5,Y,2022-12-25
+DD-RBL-0030,100% Cotton Lining Twill 80 GSM 58 inch Peach,Rubia and Lining,Lining Twill,RBL-Q08,100% Cotton,80,58,,Peach,Pink,Woven,Standard,MTR,49.96,250,15,52081100,5,Y,2022-08-12
+DD-RBL-0031,100% Viscose Rubia Cloth 80 GSM 36 inch Baby Pink,Rubia and Lining,Rubia Cloth,RBL-Q01,100% Viscose,80,36,,Baby Pink,Pink,Woven,Sanforised,MTR,46.21,300,7,52081100,5,Y,2022-04-26
+DD-SAT-0001,95/5 Poly Spandex Satin 215 GSM 58 inch Royal Blue,Satin and Sateen,Satin,SAT-Q01,95/5 Poly Spandex,215,58,,Royal Blue,Blue,Woven,Anti Crease,MTR,185.7,50,15,54075300,5,Y,2021-01-22
+DD-SAT-0002,95/5 Poly Spandex Satin 215 GSM 58 inch Grey Melange,Satin and Sateen,Satin,SAT-Q01,95/5 Poly Spandex,215,58,,Grey Melange,Grey,Woven,Anti Crease,MTR,186.99,250,7,54075300,5,Y,2022-10-21
+DD-SAT-0003,95/5 Poly Spandex Satin 215 GSM 58 inch White,Satin and Sateen,Satin,SAT-Q01,95/5 Poly Spandex,215,58,,White,Neutral,Woven,Anti Crease,MTR,178.13,150,30,54075300,5,Y,2022-01-09
+DD-SAT-0004,95/5 Poly Spandex Satin 215 GSM 58 inch Lavender,Satin and Sateen,Satin,SAT-Q01,95/5 Poly Spandex,215,58,,Lavender,Purple,Woven,Anti Crease,MTR,179.32,250,7,54075300,5,Y,2022-04-12
+DD-SAT-0005,95/5 Poly Spandex Sateen 205 GSM 58 inch Baby Pink,Satin and Sateen,Sateen,SAT-Q02,95/5 Poly Spandex,205,58,,Baby Pink,Pink,Woven,Peach Finish,MTR,172.62,300,25,54075300,5,Y,2021-06-05
+DD-SAT-0006,95/5 Poly Spandex Sateen 205 GSM 58 inch Bottle Green,Satin and Sateen,Sateen,SAT-Q02,95/5 Poly Spandex,205,58,,Bottle Green,Green,Woven,Peach Finish,MTR,176.66,100,25,54075300,5,N,2022-06-24
+DD-SAT-0007,95/5 Poly Spandex Sateen 205 GSM 58 inch Greige RFD,Satin and Sateen,Sateen,SAT-Q02,95/5 Poly Spandex,205,58,,Greige RFD,Undyed,Woven,Peach Finish,MTR,150.11,250,10,54075300,5,Y,2022-01-08
+DD-SAT-0008,95/5 Poly Spandex Sateen 205 GSM 58 inch Charcoal,Satin and Sateen,Sateen,SAT-Q02,95/5 Poly Spandex,205,58,,Charcoal,Grey,Woven,Peach Finish,MTR,175.7,50,7,54075300,5,Y,2021-02-22
+DD-SAT-0009,95/5 Poly Spandex Sateen 205 GSM 58 inch Navy Blue,Satin and Sateen,Sateen,SAT-Q02,95/5 Poly Spandex,205,58,,Navy Blue,Blue,Woven,Peach Finish,MTR,174.05,50,30,54075300,5,Y,2021-03-28
+DD-SAT-0010,95/5 Poly Spandex Sateen 205 GSM 58 inch Sky Blue,Satin and Sateen,Sateen,SAT-Q02,95/5 Poly Spandex,205,58,,Sky Blue,Blue,Woven,Peach Finish,MTR,170.63,50,15,54075300,5,Y,2022-09-30
+DD-SAT-0011,100% Polyester Sateen 220 GSM 44 inch Royal Blue,Satin and Sateen,Sateen,SAT-Q03,100% Polyester,220,44,,Royal Blue,Blue,Woven,Bio Wash,MTR,157.61,200,15,54075300,5,Y,2021-06-14
+DD-SAT-0012,100% Polyester Sateen 220 GSM 44 inch Mint,Satin and Sateen,Sateen,SAT-Q03,100% Polyester,220,44,,Mint,Green,Woven,Bio Wash,MTR,154.48,150,30,54075300,5,Y,2020-12-08
+DD-SAT-0013,100% Polyester Sateen 220 GSM 44 inch Coffee Brown,Satin and Sateen,Sateen,SAT-Q03,100% Polyester,220,44,,Coffee Brown,Brown,Woven,Bio Wash,MTR,156.86,150,21,54075300,5,Y,2020-11-28
+DD-SAT-0014,100% Polyester Sateen 220 GSM 44 inch Mustard,Satin and Sateen,Sateen,SAT-Q03,100% Polyester,220,44,,Mustard,Yellow,Woven,Bio Wash,MTR,159.01,100,7,54075300,5,Y,2022-08-18
+DD-SAT-0015,95/5 Poly Spandex Sateen 175 GSM 58 inch Royal Blue,Satin and Sateen,Sateen,SAT-Q04,95/5 Poly Spandex,175,58,,Royal Blue,Blue,Woven,Mercerised,MTR,153.5,100,15,54075300,5,Y,2022-05-26
+DD-SAT-0016,95/5 Poly Spandex Sateen 175 GSM 58 inch Ecru,Satin and Sateen,Sateen,SAT-Q04,95/5 Poly Spandex,175,58,,Ecru,Neutral,Woven,Mercerised,MTR,148.12,300,12,54075300,5,Y,2021-11-17
+DD-SAT-0017,95/5 Poly Spandex Sateen 175 GSM 58 inch Lavender,Satin and Sateen,Sateen,SAT-Q04,95/5 Poly Spandex,175,58,,Lavender,Purple,Woven,Mercerised,MTR,154.52,250,15,54075300,5,Y,2020-12-23
+DD-SAT-0018,95/5 Poly Spandex Sateen 175 GSM 58 inch Cream,Satin and Sateen,Sateen,SAT-Q04,95/5 Poly Spandex,175,58,,Cream,Neutral,Woven,Mercerised,MTR,152.67,50,10,54075300,5,Y,2021-01-13
+DD-SAT-0019,95/5 Poly Spandex Sateen 175 GSM 58 inch Grey Melange,Satin and Sateen,Sateen,SAT-Q04,95/5 Poly Spandex,175,58,,Grey Melange,Grey,Woven,Mercerised,MTR,159.58,300,25,54075300,5,Y,2021-01-19
+DD-SAT-0020,95/5 Poly Spandex Sateen 175 GSM 58 inch Off White,Satin and Sateen,Sateen,SAT-Q04,95/5 Poly Spandex,175,58,,Off White,Neutral,Woven,Mercerised,MTR,149.23,150,10,54075300,5,Y,2022-07-25
+DD-SAT-0021,95/5 Poly Spandex Satin 155 GSM 58 inch Rust,Satin and Sateen,Satin,SAT-Q05,95/5 Poly Spandex,155,58,,Rust,Red,Woven,Peach Finish,MTR,135.12,300,7,54075300,5,Y,2021-03-20
+DD-SAT-0022,95/5 Poly Spandex Satin 155 GSM 58 inch Silver Grey,Satin and Sateen,Satin,SAT-Q05,95/5 Poly Spandex,155,58,,Silver Grey,Grey,Woven,Peach Finish,MTR,133.02,200,10,54075300,5,Y,2022-05-14
+DD-SAT-0023,95/5 Poly Spandex Satin 155 GSM 58 inch Camel,Satin and Sateen,Satin,SAT-Q05,95/5 Poly Spandex,155,58,,Camel,Brown,Woven,Peach Finish,MTR,135.44,250,21,54075300,5,Y,2022-06-29
+DD-SAT-0024,95/5 Poly Spandex Satin 155 GSM 58 inch Cream,Satin and Sateen,Satin,SAT-Q05,95/5 Poly Spandex,155,58,,Cream,Neutral,Woven,Peach Finish,MTR,131.91,250,30,54075300,5,Y,2021-04-06
+DD-SAT-0025,95/5 Poly Spandex Sateen 190 GSM 58 inch Teal,Satin and Sateen,Sateen,SAT-Q06,95/5 Poly Spandex,190,58,,Teal,Blue,Woven,Calendered,MTR,161.1,250,12,54075300,5,Y,2023-01-02
+DD-SAT-0026,95/5 Poly Spandex Sateen 190 GSM 58 inch Peach,Satin and Sateen,Sateen,SAT-Q06,95/5 Poly Spandex,190,58,,Peach,Pink,Woven,Calendered,MTR,158.26,100,12,54075300,5,Y,2021-01-27
+DD-SAT-0027,95/5 Poly Spandex Sateen 190 GSM 58 inch Sea Green,Satin and Sateen,Sateen,SAT-Q06,95/5 Poly Spandex,190,58,,Sea Green,Green,Woven,Calendered,MTR,155.47,300,15,54075300,5,Y,2021-04-17
+DD-SAT-0028,100% Polyester Satin 105 GSM 58 inch Baby Pink,Satin and Sateen,Satin,SAT-Q07,100% Polyester,105,58,,Baby Pink,Pink,Woven,Standard,MTR,86.23,100,10,54075300,5,Y,2022-11-11
+DD-SAT-0029,100% Polyester Satin 105 GSM 58 inch Mint,Satin and Sateen,Satin,SAT-Q07,100% Polyester,105,58,,Mint,Green,Woven,Standard,MTR,85.46,100,7,54075300,5,Y,2021-05-17
+DD-SAT-0030,100% Polyester Satin 105 GSM 58 inch Bottle Green,Satin and Sateen,Satin,SAT-Q07,100% Polyester,105,58,,Bottle Green,Green,Woven,Standard,MTR,86.24,200,30,54075300,5,Y,2021-02-10
+DD-SAT-0031,100% Polyester Satin 105 GSM 58 inch Black,Satin and Sateen,Satin,SAT-Q07,100% Polyester,105,58,,Black,Dark,Woven,Standard,MTR,87.52,300,30,54075300,5,Y,2021-06-12
+DD-SAT-0032,100% Polyester Satin 110 GSM 58 inch Greige RFD,Satin and Sateen,Satin,SAT-Q08,100% Polyester,110,58,,Greige RFD,Undyed,Woven,Anti Crease,MTR,82.3,250,30,54075300,5,Y,2022-03-17
+DD-SAT-0033,100% Polyester Satin 110 GSM 58 inch Olive,Satin and Sateen,Satin,SAT-Q08,100% Polyester,110,58,,Olive,Green,Woven,Anti Crease,MTR,94.91,250,21,54075300,5,N,2022-11-02
+DD-SAT-0034,100% Polyester Satin 110 GSM 58 inch Charcoal,Satin and Sateen,Satin,SAT-Q08,100% Polyester,110,58,,Charcoal,Grey,Woven,Anti Crease,MTR,94.88,150,7,54075300,5,Y,2023-03-26
+DD-SAT-0035,100% Polyester Satin 110 GSM 58 inch Sea Green,Satin and Sateen,Satin,SAT-Q08,100% Polyester,110,58,,Sea Green,Green,Woven,Anti Crease,MTR,93.14,150,25,54075300,5,Y,2022-12-10
+DD-SAT-0036,100% Polyester Satin 110 GSM 58 inch Firozi,Satin and Sateen,Satin,SAT-Q08,100% Polyester,110,58,,Firozi,Blue,Woven,Anti Crease,MTR,95.14,50,12,54075300,5,Y,2020-12-02
+DD-SAT-0037,100% Polyester Satin 110 GSM 58 inch Silver Grey,Satin and Sateen,Satin,SAT-Q08,100% Polyester,110,58,,Silver Grey,Grey,Woven,Anti Crease,MTR,93.02,250,12,54075300,5,Y,2020-10-23
+DD-SAT-0038,95/5 Poly Spandex Sateen 205 GSM 58 inch Royal Blue,Satin and Sateen,Sateen,SAT-Q02,95/5 Poly Spandex,205,58,,Royal Blue,Blue,Woven,Peach Finish,MTR,174.61,100,12,54075300,5,Y,2020-12-03
+DD-SUT-0001,55/45 Poly Wool Twill Suiting 230 GSM 58 inch Black,PV Suiting,Twill Suiting,SUT-Q01,55/45 Poly Wool,230,58,,Black,Dark,Woven,Sanforised,MTR,218.05,50,7,55151200,5,Y,2022-09-05
+DD-SUT-0002,55/45 Poly Wool Twill Suiting 230 GSM 58 inch Sky Blue,PV Suiting,Twill Suiting,SUT-Q01,55/45 Poly Wool,230,58,,Sky Blue,Blue,Woven,Sanforised,MTR,206.02,300,21,55151200,5,Y,2022-12-03
+DD-SUT-0003,55/45 Poly Wool Twill Suiting 230 GSM 58 inch Maroon,PV Suiting,Twill Suiting,SUT-Q01,55/45 Poly Wool,230,58,,Maroon,Red,Woven,Sanforised,MTR,214.73,200,7,55151200,5,Y,2022-03-11
+DD-SUT-0004,55/45 Poly Wool Twill Suiting 230 GSM 58 inch Peach,PV Suiting,Twill Suiting,SUT-Q01,55/45 Poly Wool,230,58,,Peach,Pink,Woven,Sanforised,MTR,207.59,300,25,55151200,5,Y,2020-10-21
+DD-SUT-0005,55/45 Poly Wool Twill Suiting 230 GSM 58 inch Rust,PV Suiting,Twill Suiting,SUT-Q01,55/45 Poly Wool,230,58,,Rust,Red,Woven,Sanforised,MTR,211.83,200,21,55151200,5,Y,2022-03-07
+DD-SUT-0006,55/45 Poly Wool Twill Suiting 230 GSM 58 inch Camel,PV Suiting,Twill Suiting,SUT-Q01,55/45 Poly Wool,230,58,,Camel,Brown,Woven,Sanforised,MTR,207.99,100,15,55151200,5,Y,2023-03-30
+DD-SUT-0007,70/30 Poly Viscose Twill Suiting 240 GSM 60 inch Royal Blue,PV Suiting,Twill Suiting,SUT-Q02,70/30 Poly Viscose,240,60,,Royal Blue,Blue,Woven,Calendered,MTR,188.6,150,10,55151200,5,Y,2022-07-01
+DD-SUT-0008,70/30 Poly Viscose Twill Suiting 240 GSM 60 inch Lavender,PV Suiting,Twill Suiting,SUT-Q02,70/30 Poly Viscose,240,60,,Lavender,Purple,Woven,Calendered,MTR,184.59,150,12,55151200,5,Y,2022-01-26
+DD-SUT-0009,70/30 Poly Viscose Twill Suiting 240 GSM 60 inch Black,PV Suiting,Twill Suiting,SUT-Q02,70/30 Poly Viscose,240,60,,Black,Dark,Woven,Calendered,MTR,188.94,50,7,55151200,5,Y,2022-11-22
+DD-SUT-0010,70/30 Poly Viscose Twill Suiting 240 GSM 60 inch Firozi,PV Suiting,Twill Suiting,SUT-Q02,70/30 Poly Viscose,240,60,,Firozi,Blue,Woven,Calendered,MTR,184.0,150,30,55151200,5,Y,2022-05-04
+DD-SUT-0011,70/30 Poly Viscose Twill Suiting 240 GSM 60 inch Sky Blue,PV Suiting,Twill Suiting,SUT-Q02,70/30 Poly Viscose,240,60,,Sky Blue,Blue,Woven,Calendered,MTR,182.13,200,7,55151200,5,Y,2022-05-08
+DD-SUT-0012,70/30 Poly Viscose Twill Suiting 240 GSM 60 inch Beige,PV Suiting,Twill Suiting,SUT-Q02,70/30 Poly Viscose,240,60,,Beige,Neutral,Woven,Calendered,MTR,182.67,100,10,55151200,5,Y,2023-03-20
+DD-SUT-0013,55/45 Poly Wool Twill Suiting 290 GSM 60 inch Coffee Brown,PV Suiting,Twill Suiting,SUT-Q03,55/45 Poly Wool,290,60,,Coffee Brown,Brown,Woven,Peach Finish,MTR,265.34,150,7,55151200,5,Y,2021-11-27
+DD-SUT-0014,55/45 Poly Wool Twill Suiting 290 GSM 60 inch White,PV Suiting,Twill Suiting,SUT-Q03,55/45 Poly Wool,290,60,,White,Neutral,Woven,Peach Finish,MTR,261.73,150,10,55151200,5,Y,2021-07-30
+DD-SUT-0015,55/45 Poly Wool Twill Suiting 290 GSM 60 inch Navy Blue,PV Suiting,Twill Suiting,SUT-Q03,55/45 Poly Wool,290,60,,Navy Blue,Blue,Woven,Peach Finish,MTR,262.85,50,12,55151200,5,Y,2022-07-02
+DD-SUT-0016,80/20 Poly Viscose Suiting 250 GSM 58 inch Beige,PV Suiting,Suiting,SUT-Q04,80/20 Poly Viscose,250,58,,Beige,Neutral,Woven,Anti Crease,MTR,195.72,250,10,55151200,5,Y,2020-11-03
+DD-SUT-0017,80/20 Poly Viscose Suiting 250 GSM 58 inch Maroon,PV Suiting,Suiting,SUT-Q04,80/20 Poly Viscose,250,58,,Maroon,Red,Woven,Anti Crease,MTR,200.93,200,30,55151200,5,Y,2021-02-02
+DD-SUT-0018,80/20 Poly Viscose Suiting 250 GSM 58 inch Firozi,PV Suiting,Suiting,SUT-Q04,80/20 Poly Viscose,250,58,,Firozi,Blue,Woven,Anti Crease,MTR,198.27,300,15,55151200,5,Y,2021-08-08
+DD-SUT-0019,55/45 Poly Wool Twill Suiting 275 GSM 58 inch Wine,PV Suiting,Twill Suiting,SUT-Q05,55/45 Poly Wool,275,58,,Wine,Red,Woven,Enzyme Wash,MTR,248.39,150,15,55151200,5,Y,2022-10-20
+DD-SUT-0020,55/45 Poly Wool Twill Suiting 275 GSM 58 inch Coffee Brown,PV Suiting,Twill Suiting,SUT-Q05,55/45 Poly Wool,275,58,,Coffee Brown,Brown,Woven,Enzyme Wash,MTR,251.06,300,21,55151200,5,Y,2021-09-28
+DD-SUT-0021,55/45 Poly Wool Twill Suiting 275 GSM 58 inch Charcoal,PV Suiting,Twill Suiting,SUT-Q05,55/45 Poly Wool,275,58,,Charcoal,Grey,Woven,Enzyme Wash,MTR,253.28,150,7,55151200,5,Y,2021-05-16
+DD-SUT-0022,55/45 Poly Wool Twill Suiting 275 GSM 58 inch Peach,PV Suiting,Twill Suiting,SUT-Q05,55/45 Poly Wool,275,58,,Peach,Pink,Woven,Enzyme Wash,MTR,247.57,300,21,55151200,5,Y,2023-01-07
+DD-SUT-0023,55/45 Poly Wool Twill Suiting 275 GSM 58 inch Royal Blue,PV Suiting,Twill Suiting,SUT-Q05,55/45 Poly Wool,275,58,,Royal Blue,Blue,Woven,Enzyme Wash,MTR,250.15,50,30,55151200,5,Y,2023-02-14
+DD-SUT-0024,80/20 Poly Viscose Suiting 290 GSM 60 inch Rust,PV Suiting,Suiting,SUT-Q06,80/20 Poly Viscose,290,60,,Rust,Red,Woven,Sanforised,MTR,217.78,250,30,55151200,5,Y,2022-10-18
+DD-SUT-0025,80/20 Poly Viscose Suiting 290 GSM 60 inch Coffee Brown,PV Suiting,Suiting,SUT-Q06,80/20 Poly Viscose,290,60,,Coffee Brown,Brown,Woven,Sanforised,MTR,217.44,150,10,55151200,5,Y,2022-12-20
+DD-SUT-0026,80/20 Poly Viscose Suiting 290 GSM 60 inch Firozi,PV Suiting,Suiting,SUT-Q06,80/20 Poly Viscose,290,60,,Firozi,Blue,Woven,Sanforised,MTR,221.55,50,21,55151200,5,Y,2022-04-20
+DD-SUT-0027,80/20 Poly Viscose Suiting 290 GSM 60 inch Silver Grey,PV Suiting,Suiting,SUT-Q06,80/20 Poly Viscose,290,60,,Silver Grey,Grey,Woven,Sanforised,MTR,215.52,50,7,55151200,5,Y,2022-03-15
+DD-SUT-0028,55/45 Poly Wool Suiting 220 GSM 58 inch Bottle Green,PV Suiting,Suiting,SUT-Q07,55/45 Poly Wool,220,58,,Bottle Green,Green,Woven,Enzyme Wash,MTR,206.94,100,12,55151200,5,Y,2022-04-02
+DD-SUT-0029,55/45 Poly Wool Suiting 220 GSM 58 inch Camel,PV Suiting,Suiting,SUT-Q07,55/45 Poly Wool,220,58,,Camel,Brown,Woven,Enzyme Wash,MTR,203.5,250,12,55151200,5,Y,2022-08-24
+DD-SUT-0030,55/45 Poly Wool Suiting 220 GSM 58 inch White,PV Suiting,Suiting,SUT-Q07,55/45 Poly Wool,220,58,,White,Neutral,Woven,Enzyme Wash,MTR,203.87,300,12,55151200,5,Y,2021-12-11
+DD-SUT-0031,55/45 Poly Wool Suiting 220 GSM 58 inch Baby Pink,PV Suiting,Suiting,SUT-Q07,55/45 Poly Wool,220,58,,Baby Pink,Pink,Woven,Enzyme Wash,MTR,203.65,300,21,55151200,5,Y,2022-09-28
+DD-SUT-0032,55/45 Poly Wool Suiting 220 GSM 58 inch Ecru,PV Suiting,Suiting,SUT-Q07,55/45 Poly Wool,220,58,,Ecru,Neutral,Woven,Enzyme Wash,MTR,197.09,100,15,55151200,5,Y,2021-04-30
+DD-SUT-0033,80/20 Poly Viscose Twill Suiting 235 GSM 60 inch Beige,PV Suiting,Twill Suiting,SUT-Q08,80/20 Poly Viscose,235,60,,Beige,Neutral,Woven,Bio Wash,MTR,181.0,50,15,55151200,5,Y,2021-09-10
+DD-SUT-0034,80/20 Poly Viscose Twill Suiting 235 GSM 60 inch Teal,PV Suiting,Twill Suiting,SUT-Q08,80/20 Poly Viscose,235,60,,Teal,Blue,Woven,Bio Wash,MTR,184.13,150,12,55151200,5,Y,2023-03-29
+DD-SUT-0035,80/20 Poly Viscose Twill Suiting 235 GSM 60 inch Peach,PV Suiting,Twill Suiting,SUT-Q08,80/20 Poly Viscose,235,60,,Peach,Pink,Woven,Bio Wash,MTR,184.37,250,21,55151200,5,Y,2021-07-19
+DD-SUT-0036,80/20 Poly Viscose Twill Suiting 235 GSM 60 inch Rust,PV Suiting,Twill Suiting,SUT-Q08,80/20 Poly Viscose,235,60,,Rust,Red,Woven,Bio Wash,MTR,186.19,50,7,55151200,5,Y,2021-07-28
+DD-SUT-0037,80/20 Poly Viscose Twill Suiting 235 GSM 60 inch Bottle Green,PV Suiting,Twill Suiting,SUT-Q08,80/20 Poly Viscose,235,60,,Bottle Green,Green,Woven,Bio Wash,MTR,186.33,150,25,55151200,5,Y,2022-03-03
+DD-SUT-0038,80/20 Poly Viscose Twill Suiting 235 GSM 60 inch Silver Grey,PV Suiting,Twill Suiting,SUT-Q08,80/20 Poly Viscose,235,60,,Silver Grey,Grey,Woven,Bio Wash,MTR,181.04,250,30,55151200,5,Y,2021-06-12
+DD-TWL-0001,100% Cotton Terry Hand Towel 380 GSM 30x60 inch Royal Blue,Terry Towel,Hand Towel,TWL-Q01,100% Cotton Terry,380,,30x60 inch,Royal Blue,Blue,Terry,Peach Finish,PCS,197.28,300,7,63026000,5,Y,2022-12-31
+DD-TWL-0002,100% Cotton Terry Hand Towel 380 GSM 30x60 inch Grey Melange,Terry Towel,Hand Towel,TWL-Q01,100% Cotton Terry,380,,30x60 inch,Grey Melange,Grey,Terry,Peach Finish,PCS,201.02,150,25,63026000,5,Y,2021-07-29
+DD-TWL-0003,100% Cotton Terry Hand Towel 380 GSM 30x60 inch Charcoal,Terry Towel,Hand Towel,TWL-Q01,100% Cotton Terry,380,,30x60 inch,Charcoal,Grey,Terry,Peach Finish,PCS,198.68,250,10,63026000,5,Y,2021-05-17
+DD-TWL-0004,100% Cotton Terry Hand Towel 470 GSM 12x12 inch Charcoal,Terry Towel,Hand Towel,TWL-Q02,100% Cotton Terry,470,,12x12 inch,Charcoal,Grey,Terry,Mercerised,PCS,243.51,50,7,63026000,5,Y,2021-11-27
+DD-TWL-0005,100% Cotton Terry Hand Towel 470 GSM 16x24 inch Royal Blue,Terry Towel,Hand Towel,TWL-Q02,100% Cotton Terry,470,,16x24 inch,Royal Blue,Blue,Terry,Mercerised,PCS,241.31,300,7,63026000,5,Y,2021-05-16
+DD-TWL-0006,100% Cotton Terry Hand Towel 470 GSM 27x54 inch Silver Grey,Terry Towel,Hand Towel,TWL-Q02,100% Cotton Terry,470,,27x54 inch,Silver Grey,Grey,Terry,Mercerised,PCS,239.29,300,21,63026000,5,Y,2023-01-29
+DD-TWL-0007,100% Cotton Terry Hand Towel 470 GSM 12x12 inch Bottle Green,Terry Towel,Hand Towel,TWL-Q02,100% Cotton Terry,470,,12x12 inch,Bottle Green,Green,Terry,Mercerised,PCS,239.6,150,10,63026000,5,Y,2022-08-30
+DD-TWL-0008,100% Cotton Terry Hand Towel 470 GSM 27x54 inch Camel,Terry Towel,Hand Towel,TWL-Q02,100% Cotton Terry,470,,27x54 inch,Camel,Brown,Terry,Mercerised,PCS,236.58,50,25,63026000,5,Y,2021-04-12
+DD-TWL-0009,100% Cotton Terry Hand Towel 470 GSM 30x60 inch Peach,Terry Towel,Hand Towel,TWL-Q02,100% Cotton Terry,470,,30x60 inch,Peach,Pink,Terry,Mercerised,PCS,237.19,200,30,63026000,5,Y,2021-01-20
+DD-TWL-0010,100% Cotton Terry Hand Towel 385 GSM 27x54 inch Silver Grey,Terry Towel,Hand Towel,TWL-Q03,100% Cotton Terry,385,,27x54 inch,Silver Grey,Grey,Terry,Calendered,PCS,192.29,50,21,63026000,5,Y,2022-02-14
+DD-TWL-0011,100% Cotton Terry Hand Towel 385 GSM 30x60 inch Charcoal,Terry Towel,Hand Towel,TWL-Q03,100% Cotton Terry,385,,30x60 inch,Charcoal,Grey,Terry,Calendered,PCS,197.7,250,7,63026000,5,Y,2021-12-16
+DD-TWL-0012,100% Cotton Terry Hand Towel 385 GSM 12x12 inch Coffee Brown,Terry Towel,Hand Towel,TWL-Q03,100% Cotton Terry,385,,12x12 inch,Coffee Brown,Brown,Terry,Calendered,PCS,192.53,50,25,63026000,5,Y,2022-02-05
+DD-TWL-0013,100% Cotton Terry Hand Towel 385 GSM 12x12 inch Rust,Terry Towel,Hand Towel,TWL-Q03,100% Cotton Terry,385,,12x12 inch,Rust,Red,Terry,Calendered,PCS,193.63,300,25,63026000,5,Y,2022-02-01
+DD-TWL-0014,100% Cotton Terry Hand Towel 425 GSM 27x54 inch Cream,Terry Towel,Hand Towel,TWL-Q04,100% Cotton Terry,425,,27x54 inch,Cream,Neutral,Terry,Bio Wash,PCS,212.88,300,30,63026000,5,Y,2021-08-27
+DD-TWL-0015,100% Cotton Terry Hand Towel 425 GSM 16x24 inch Royal Blue,Terry Towel,Hand Towel,TWL-Q04,100% Cotton Terry,425,,16x24 inch,Royal Blue,Blue,Terry,Bio Wash,PCS,215.7,200,10,63026000,5,Y,2022-06-10
+DD-TWL-0016,100% Cotton Terry Hand Towel 425 GSM 30x60 inch Greige RFD,Terry Towel,Hand Towel,TWL-Q04,100% Cotton Terry,425,,30x60 inch,Greige RFD,Undyed,Terry,Bio Wash,PCS,191.58,150,12,63026000,5,Y,2022-01-07
+DD-TWL-0017,100% Cotton Terry Hand Towel 425 GSM 27x54 inch Ecru,Terry Towel,Hand Towel,TWL-Q04,100% Cotton Terry,425,,27x54 inch,Ecru,Neutral,Terry,Bio Wash,PCS,205.57,100,7,63026000,5,Y,2022-11-18
+DD-TWL-0018,100% Cotton Terry Hand Towel 425 GSM 30x60 inch Black,Terry Towel,Hand Towel,TWL-Q04,100% Cotton Terry,425,,30x60 inch,Black,Dark,Terry,Bio Wash,PCS,215.49,300,15,63026000,5,Y,2020-12-13
+DD-TWL-0019,100% Cotton Terry Hand Towel 425 GSM 16x24 inch Firozi,Terry Towel,Hand Towel,TWL-Q04,100% Cotton Terry,425,,16x24 inch,Firozi,Blue,Terry,Bio Wash,PCS,216.62,300,12,63026000,5,Y,2022-10-10
+DD-TWL-0020,100% Cotton Terry Face Towel 415 GSM 16x24 inch Olive,Terry Towel,Face Towel,TWL-Q05,100% Cotton Terry,415,,16x24 inch,Olive,Green,Terry,Anti Crease,PCS,213.52,50,15,63026000,5,Y,2020-12-09
+DD-TWL-0021,100% Cotton Terry Face Towel 415 GSM 12x12 inch Rust,Terry Towel,Face Towel,TWL-Q05,100% Cotton Terry,415,,12x12 inch,Rust,Red,Terry,Anti Crease,PCS,216.89,150,25,63026000,5,Y,2022-03-31
+DD-TWL-0022,100% Cotton Terry Face Towel 415 GSM 12x12 inch Royal Blue,Terry Towel,Face Towel,TWL-Q05,100% Cotton Terry,415,,12x12 inch,Royal Blue,Blue,Terry,Anti Crease,PCS,215.5,100,15,63026000,5,Y,2021-01-20
+DD-TWL-0023,100% Cotton Terry Face Towel 415 GSM 27x54 inch Bottle Green,Terry Towel,Face Towel,TWL-Q05,100% Cotton Terry,415,,27x54 inch,Bottle Green,Green,Terry,Anti Crease,PCS,213.58,250,10,63026000,5,Y,2022-03-10
+DD-TWL-0024,100% Cotton Terry Face Towel 415 GSM 12x12 inch Charcoal,Terry Towel,Face Towel,TWL-Q05,100% Cotton Terry,415,,12x12 inch,Charcoal,Grey,Terry,Anti Crease,PCS,215.5,300,7,63026000,5,Y,2021-10-12
+DD-TWL-0025,100% Cotton Terry Face Towel 450 GSM 16x24 inch Wine,Terry Towel,Face Towel,TWL-Q06,100% Cotton Terry,450,,16x24 inch,Wine,Red,Terry,Standard,PCS,220.68,300,15,63026000,5,Y,2020-12-22
+DD-TWL-0026,100% Cotton Terry Face Towel 450 GSM 27x54 inch Charcoal,Terry Towel,Face Towel,TWL-Q06,100% Cotton Terry,450,,27x54 inch,Charcoal,Grey,Terry,Standard,PCS,217.99,50,7,63026000,5,Y,2022-07-20
+DD-TWL-0027,100% Cotton Terry Face Towel 450 GSM 16x24 inch Maroon,Terry Towel,Face Towel,TWL-Q06,100% Cotton Terry,450,,16x24 inch,Maroon,Red,Terry,Standard,PCS,218.63,150,15,63026000,5,Y,2022-03-13
+DD-TWL-0028,100% Cotton Terry Face Towel 450 GSM 27x54 inch Navy Blue,Terry Towel,Face Towel,TWL-Q06,100% Cotton Terry,450,,27x54 inch,Navy Blue,Blue,Terry,Standard,PCS,220.71,50,10,63026000,5,Y,2021-08-24
+DD-TWL-0029,100% Cotton Terry Hand Towel 505 GSM 27x54 inch Ecru,Terry Towel,Hand Towel,TWL-Q07,100% Cotton Terry,505,,27x54 inch,Ecru,Neutral,Terry,Calendered,PCS,241.61,200,7,63026000,5,Y,2021-07-23
+DD-TWL-0030,100% Cotton Terry Hand Towel 505 GSM 16x24 inch White,Terry Towel,Hand Towel,TWL-Q07,100% Cotton Terry,505,,16x24 inch,White,Neutral,Terry,Calendered,PCS,242.99,50,15,63026000,5,Y,2022-04-28
+DD-TWL-0031,100% Cotton Terry Hand Towel 505 GSM 12x12 inch Camel,Terry Towel,Hand Towel,TWL-Q07,100% Cotton Terry,505,,12x12 inch,Camel,Brown,Terry,Calendered,PCS,248.65,50,25,63026000,5,Y,2022-05-10
+DD-TWL-0032,100% Cotton Terry Face Towel 575 GSM 27x54 inch Beige,Terry Towel,Face Towel,TWL-Q08,100% Cotton Terry,575,,27x54 inch,Beige,Neutral,Terry,Anti Crease,PCS,279.94,250,30,63026000,5,Y,2021-01-03
+DD-TWL-0033,100% Cotton Terry Face Towel 575 GSM 30x60 inch Mustard,Terry Towel,Face Towel,TWL-Q08,100% Cotton Terry,575,,30x60 inch,Mustard,Yellow,Terry,Anti Crease,PCS,280.35,200,21,63026000,5,Y,2021-02-23
+DD-TWL-0034,100% Cotton Terry Face Towel 575 GSM 27x54 inch Teal,Terry Towel,Face Towel,TWL-Q08,100% Cotton Terry,575,,27x54 inch,Teal,Blue,Terry,Anti Crease,PCS,283.07,250,21,63026000,5,Y,2021-08-03
+DD-VSR-0001,100% Viscose Rayon Crepe 155 GSM 44 inch White,Viscose Rayon,Rayon Crepe,VSR-Q01,100% Viscose,155,44,,White,Neutral,Woven,Anti Crease,MTR,107.41,200,21,54075200,5,Y,2020-10-18
+DD-VSR-0002,100% Viscose Rayon Crepe 155 GSM 44 inch Teal,Viscose Rayon,Rayon Crepe,VSR-Q01,100% Viscose,155,44,,Teal,Blue,Woven,Anti Crease,MTR,109.65,50,7,54075200,5,Y,2021-06-03
+DD-VSR-0003,100% Viscose Rayon Crepe 155 GSM 44 inch Maroon,Viscose Rayon,Rayon Crepe,VSR-Q01,100% Viscose,155,44,,Maroon,Red,Woven,Anti Crease,MTR,110.25,50,25,54075200,5,Y,2021-04-17
+DD-VSR-0004,95/5 Viscose Lycra Rayon Crepe 110 GSM 58 inch Ecru,Viscose Rayon,Rayon Crepe,VSR-Q02,95/5 Viscose Lycra,110,58,,Ecru,Neutral,Woven,Peach Finish,MTR,90.55,200,7,54075200,5,Y,2021-01-05
+DD-VSR-0005,95/5 Viscose Lycra Rayon Crepe 110 GSM 58 inch Cream,Viscose Rayon,Rayon Crepe,VSR-Q02,95/5 Viscose Lycra,110,58,,Cream,Neutral,Woven,Peach Finish,MTR,93.94,300,21,54075200,5,Y,2021-08-30
+DD-VSR-0006,95/5 Viscose Lycra Rayon Crepe 110 GSM 58 inch Olive,Viscose Rayon,Rayon Crepe,VSR-Q02,95/5 Viscose Lycra,110,58,,Olive,Green,Woven,Peach Finish,MTR,93.46,300,12,54075200,5,Y,2022-11-26
+DD-VSR-0007,95/5 Viscose Lycra Rayon Plain 110 GSM 44 inch Mint,Viscose Rayon,Rayon Plain,VSR-Q03,95/5 Viscose Lycra,110,44,,Mint,Green,Woven,Standard,MTR,85.18,300,10,54075200,5,Y,2020-12-01
+DD-VSR-0008,95/5 Viscose Lycra Rayon Plain 110 GSM 44 inch Lavender,Viscose Rayon,Rayon Plain,VSR-Q03,95/5 Viscose Lycra,110,44,,Lavender,Purple,Woven,Standard,MTR,85.29,50,21,54075200,5,Y,2022-11-11
+DD-VSR-0009,95/5 Viscose Lycra Rayon Plain 110 GSM 44 inch Coffee Brown,Viscose Rayon,Rayon Plain,VSR-Q03,95/5 Viscose Lycra,110,44,,Coffee Brown,Brown,Woven,Standard,MTR,86.4,50,21,54075200,5,Y,2023-01-01
+DD-VSR-0010,95/5 Viscose Lycra Rayon Plain 110 GSM 44 inch Greige RFD,Viscose Rayon,Rayon Plain,VSR-Q03,95/5 Viscose Lycra,110,44,,Greige RFD,Undyed,Woven,Standard,MTR,75.47,250,15,54075200,5,Y,2021-04-01
+DD-VSR-0011,95/5 Viscose Lycra Rayon Plain 110 GSM 44 inch Royal Blue,Viscose Rayon,Rayon Plain,VSR-Q03,95/5 Viscose Lycra,110,44,,Royal Blue,Blue,Woven,Standard,MTR,85.32,50,12,54075200,5,Y,2022-03-24
+DD-VSR-0012,95/5 Viscose Lycra Rayon Slub 95 GSM 58 inch Mint,Viscose Rayon,Rayon Slub,VSR-Q04,95/5 Viscose Lycra,95,58,,Mint,Green,Woven,Sanforised,MTR,81.92,200,7,54075200,5,Y,2022-11-01
+DD-VSR-0013,95/5 Viscose Lycra Rayon Slub 95 GSM 58 inch Cream,Viscose Rayon,Rayon Slub,VSR-Q04,95/5 Viscose Lycra,95,58,,Cream,Neutral,Woven,Sanforised,MTR,80.56,250,7,54075200,5,Y,2020-11-01
+DD-VSR-0014,95/5 Viscose Lycra Rayon Slub 95 GSM 58 inch Baby Pink,Viscose Rayon,Rayon Slub,VSR-Q04,95/5 Viscose Lycra,95,58,,Baby Pink,Pink,Woven,Sanforised,MTR,79.85,300,25,54075200,5,Y,2021-06-05
+DD-VSR-0015,95/5 Viscose Lycra Rayon Slub 95 GSM 58 inch Wine,Viscose Rayon,Rayon Slub,VSR-Q04,95/5 Viscose Lycra,95,58,,Wine,Red,Woven,Sanforised,MTR,83.71,300,10,54075200,5,Y,2021-07-15
+DD-VSR-0016,95/5 Viscose Lycra Rayon Slub 95 GSM 58 inch Lavender,Viscose Rayon,Rayon Slub,VSR-Q04,95/5 Viscose Lycra,95,58,,Lavender,Purple,Woven,Sanforised,MTR,81.61,150,12,54075200,5,Y,2021-03-29
+DD-VSR-0017,95/5 Viscose Lycra Rayon Slub 95 GSM 58 inch Olive,Viscose Rayon,Rayon Slub,VSR-Q04,95/5 Viscose Lycra,95,58,,Olive,Green,Woven,Sanforised,MTR,83.02,100,21,54075200,5,Y,2022-03-15
+DD-VSR-0018,95/5 Viscose Lycra Rayon Slub 105 GSM 58 inch White,Viscose Rayon,Rayon Slub,VSR-Q05,95/5 Viscose Lycra,105,58,,White,Neutral,Woven,Calendered,MTR,86.13,200,12,54075200,5,Y,2022-01-07
+DD-VSR-0019,95/5 Viscose Lycra Rayon Slub 105 GSM 58 inch Off White,Viscose Rayon,Rayon Slub,VSR-Q05,95/5 Viscose Lycra,105,58,,Off White,Neutral,Woven,Calendered,MTR,86.75,100,25,54075200,5,Y,2021-11-28
+DD-VSR-0020,95/5 Viscose Lycra Rayon Slub 135 GSM 44 inch Bottle Green,Viscose Rayon,Rayon Slub,VSR-Q06,95/5 Viscose Lycra,135,44,,Bottle Green,Green,Woven,Enzyme Wash,MTR,107.49,300,25,54075200,5,Y,2022-10-23
+DD-VSR-0021,95/5 Viscose Lycra Rayon Slub 135 GSM 44 inch Navy Blue,Viscose Rayon,Rayon Slub,VSR-Q06,95/5 Viscose Lycra,135,44,,Navy Blue,Blue,Woven,Enzyme Wash,MTR,107.53,100,21,54075200,5,Y,2021-05-12
+DD-VSR-0022,95/5 Viscose Lycra Rayon Slub 135 GSM 44 inch Charcoal,Viscose Rayon,Rayon Slub,VSR-Q06,95/5 Viscose Lycra,135,44,,Charcoal,Grey,Woven,Enzyme Wash,MTR,106.23,250,15,54075200,5,Y,2021-06-20
+DD-VSR-0023,95/5 Viscose Lycra Rayon Slub 135 GSM 44 inch Camel,Viscose Rayon,Rayon Slub,VSR-Q06,95/5 Viscose Lycra,135,44,,Camel,Brown,Woven,Enzyme Wash,MTR,105.93,150,12,54075200,5,Y,2021-02-21
+DD-VSR-0024,95/5 Viscose Lycra Rayon Slub 135 GSM 44 inch Coffee Brown,Viscose Rayon,Rayon Slub,VSR-Q06,95/5 Viscose Lycra,135,44,,Coffee Brown,Brown,Woven,Enzyme Wash,MTR,106.56,200,10,54075200,5,Y,2022-03-24
+DD-VSR-0025,95/5 Viscose Lycra Rayon Crepe 125 GSM 58 inch Bottle Green,Viscose Rayon,Rayon Crepe,VSR-Q07,95/5 Viscose Lycra,125,58,,Bottle Green,Green,Woven,Calendered,MTR,104.53,200,30,54075200,5,Y,2021-06-19
+DD-VSR-0026,95/5 Viscose Lycra Rayon Crepe 125 GSM 58 inch Teal,Viscose Rayon,Rayon Crepe,VSR-Q07,95/5 Viscose Lycra,125,58,,Teal,Blue,Woven,Calendered,MTR,102.29,200,30,54075200,5,Y,2022-01-04
+DD-VSR-0027,95/5 Viscose Lycra Rayon Crepe 125 GSM 58 inch Ecru,Viscose Rayon,Rayon Crepe,VSR-Q07,95/5 Viscose Lycra,125,58,,Ecru,Neutral,Woven,Calendered,MTR,101.43,250,21,54075200,5,Y,2020-12-17
+DD-VSR-0028,95/5 Viscose Lycra Rayon Crepe 125 GSM 58 inch Mustard,Viscose Rayon,Rayon Crepe,VSR-Q07,95/5 Viscose Lycra,125,58,,Mustard,Yellow,Woven,Calendered,MTR,102.4,200,10,54075200,5,Y,2021-03-11
+DD-VSR-0029,100% Viscose Rayon Crepe 155 GSM 58 inch Navy Blue,Viscose Rayon,Rayon Crepe,VSR-Q08,100% Viscose,155,58,,Navy Blue,Blue,Woven,Peach Finish,MTR,115.58,50,25,54075200,5,Y,2022-06-23
+DD-VSR-0030,100% Viscose Rayon Crepe 155 GSM 58 inch Maroon,Viscose Rayon,Rayon Crepe,VSR-Q08,100% Viscose,155,58,,Maroon,Red,Woven,Peach Finish,MTR,115.68,250,25,54075200,5,Y,2022-06-27
+DD-VSR-0031,100% Viscose Rayon Crepe 155 GSM 58 inch Coffee Brown,Viscose Rayon,Rayon Crepe,VSR-Q08,100% Viscose,155,58,,Coffee Brown,Brown,Woven,Peach Finish,MTR,115.93,50,30,54075200,5,Y,2021-10-04
+DD-VSR-0032,100% Viscose Rayon Crepe 155 GSM 58 inch Mustard,Viscose Rayon,Rayon Crepe,VSR-Q08,100% Viscose,155,58,,Mustard,Yellow,Woven,Peach Finish,MTR,114.38,250,15,54075200,5,Y,2021-09-30
+DD-VSR-0033,100% Viscose Rayon Crepe 155 GSM 58 inch Olive,Viscose Rayon,Rayon Crepe,VSR-Q08,100% Viscose,155,58,,Olive,Green,Woven,Peach Finish,MTR,115.41,150,25,54075200,5,Y,2021-06-23
+DD-VSR-0034,100% Viscose Rayon Crepe 155 GSM 58 inch Camel,Viscose Rayon,Rayon Crepe,VSR-Q08,100% Viscose,155,58,,Camel,Brown,Woven,Peach Finish,MTR,116.82,100,21,54075200,5,Y,2022-04-24
+DD-VSR-0035,95/5 Viscose Lycra Rayon Plain 110 GSM 44 inch Charcoal,Viscose Rayon,Rayon Plain,VSR-Q03,95/5 Viscose Lycra,110,44,,Charcoal,Grey,Woven,Standard,MTR,87.27,50,12,54075200,5,Y,2021-08-08

@@ -1,0 +1,36 @@
+The project is about building an AI-powered agent that automates the process of converting customer Purchase Orders into Sales Orders for a B2B textile/distribution business.
+
+Companies often receive customer POs in different formats—PDFs, scans, images, or documents—with inconsistent product names, abbreviations, prices and units. Employees then manually read these orders, identify the correct internal product, check whether the quoted price is valid, and create a sales order.
+Our system will automate this workflow.
+
+How it will work:
+
+A customer PO is uploaded → the AI extracts details such as product description, quantity, price and delivery information → matches the customer's product description with the company's internal product catalogue → checks the price against historical transactions or approved pricing → and then decides whether the order can be processed automatically.
+
+If everything is correct, the system generates the Sales Order automatically. If there is an issue—such as a wrong price, unclear product match, missing quantity, duplicate PO, wrong GSM/colour, unknown product, etc.—the system flags it for human review instead of blindly processing it.
+
+The dataset will contain different realistic scenarios, not just clean orders.
+For example:
+
+Exact product matches
+Abbreviations and spelling mistakes
+Ambiguous product names
+Incorrect prices
+Missing fields
+Wrong unit of measure
+Unknown products
+Duplicate orders
+Customer-specific product codes
+New customers with no price history
+
+We can evaluate:
+
+Product/SKU matching accuracy
+Data extraction accuracy
+Price validation accuracy
+Exception detection accuracy
+Percentage of orders processed without human intervention
+False auto-approval rate
+Performance on easy vs difficult cases
+
+The final output can be a simple dashboard where a user uploads a PO, sees what the AI extracted, what products it matched, whether prices are valid, and whether the order is auto-approved or sent for review.

@@ -1,0 +1,42 @@
+D1 one document per PO                                             PASS   1000
+D2 manifest po_id set == purchase_orders                           PASS   
+D3 every manifest file exists on disk                              PASS   []
+D4 no empty/near-empty files                                       PASS   0
+D5 file extension matches quality tier                             PASS   
+D6 all six layouts and all five quality tiers present              PASS   
+D7 at least 25 layout x quality cells populated                    PASS   28
+D8 extraction GT has one row per PO line                           PASS   4985 vs 4985
+D9 GT po_line_id set == purchase_order_lines                       PASS   
+D10 every line was actually rendered                               PASS   0
+D11 header GT has one row per document                             PASS   
+D12 printed quantity == source quantity_text verbatim              PASS   
+D13 printed uom == source uom_text verbatim                        PASS   
+D14 printed unit price == source unit_price_text verbatim          PASS   
+D15 printed colour/gsm == source verbatim                          PASS   
+D16 printed description carries the source description             PASS   0
+D17 header GT matches purchase_orders                              PASS   
+D18 printed line count == actual line count                        PASS   
+D19 order total printed only where an amount column exists         PASS   
+D20 clean digital PDFs expose the PO number in the text layer      PASS   40/40
+D21 clean digital PDFs expose line descriptions in the text layer  PASS   40/40
+D22 scanned PDFs have NO text layer (OCR mandatory)                PASS   25/25
+D23 image documents are legible resolution (min side >= 700 px)    PASS   
+D24 multi-page documents exist                                     PASS   67
+D25 page_no never exceeds the document's page count                PASS   
+D26 annexure pages carry no line items                             PASS   
+
+26/26 checks passed.
+
+Layout x quality:
+quality_id              q1_clean_digital  q2_print_scan  q3_poor_scan  q4_phone_photo  q5_fax_bitonal
+layout_id                                                                                            
+L1_classic_tabular                   162             50            46              54              12
+L2_exporter_letterhead                84             22            13               2               3
+L3_email_body                         57             11            16              22               3
+L4_excel_grid                        153             24             8              23               3
+L5_handwritten_slip                    0              3            26              46               0
+L6_erp_portal_print                  114             10            12              17               4
+
+Corpus size: 67.1 MB across 1000 files
+OCR required: {'N': 570, 'Y': 430}
+Multi-page: 67 | with T&C annexure: 61 | line items spanning pages: 8
