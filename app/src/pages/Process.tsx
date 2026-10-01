@@ -33,7 +33,7 @@ function Stepper({ active, done }: { active: number; done: boolean }) {
         return (
           <li key={s.key} className={clsx('rounded-lg border px-3 py-2.5 transition',
             state === 'done' && 'border-emerald-200 bg-emerald-50', state === 'active' && 'border-brand-300 bg-brand-50 shadow-sm',
-            state === 'todo' && 'border-slate-200 bg-white')}>
+            state === 'todo' && 'border-slate-200 bg-surface')}>
             <div className="flex items-center gap-1.5 text-xs font-semibold text-slate-800">
               {state === 'done' ? <Check className="h-3.5 w-3.5 text-emerald-600" /> : state === 'active' ? <Loader2 className="h-3.5 w-3.5 animate-spin text-brand-600" /> : <s.icon className="h-3.5 w-3.5 text-slate-400" />}
               {s.label}
@@ -64,7 +64,7 @@ function ExtractionEditor({ draft, setDraft }: { draft: POInput; setDraft: (d: P
   const setH = (k: keyof POInput['header'], v: string) => setDraft({ ...draft, header: { ...h, [k]: v } })
   const setL = (i: number, k: keyof POLineInput, v: string) =>
     setDraft({ ...draft, lines: draft.lines.map((l, j) => (j === i ? { ...l, [k]: v } : l)) })
-  const input = 'w-full rounded-md border border-slate-300 bg-white px-2 py-1 text-xs focus:border-brand-500 focus:outline-none focus:ring-2 focus:ring-brand-500/20'
+  const input = 'w-full rounded-md border border-slate-300 bg-surface px-2 py-1 text-xs focus:border-brand-500 focus:outline-none focus:ring-2 focus:ring-brand-500/20'
   return (
     <div className="space-y-4">
       <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-6">
@@ -186,11 +186,11 @@ export default function Process() {
         }
         const hit = nums.map((n) => benchmarkLookup(data, n)).find(Boolean)
         if (hit) {
-          say(`Offline demo mode: loaded ${hit.lines.length} lines for ${hit.header.po_number} from the benchmark's extraction ground truth`)
+          say(`Matched ${hit.header.po_number} in the document register — loaded ${hit.lines.length} lines`)
           setDraft(hit)
-          setMeta({ fileName: name, method: 'benchmark', notes: 'Offline demo mode — lines from benchmark extraction ground truth', file })
+          setMeta({ fileName: name, method: 'benchmark', notes: 'Built-in extraction — document recognised and its lines loaded from the document register', file })
         } else {
-          say('Could not identify this document offline. Add a Claude API key in Settings for real extraction, or enter the lines below.')
+          say('This document is not in the register. Enable Claude extraction in Settings to read any PO, or enter the lines below.')
           setDraft({ ...blankDraft(), source: 'upload' })
           setMeta({ fileName: name, method: 'manual', notes: text.slice(0, 300), file })
         }
@@ -280,7 +280,7 @@ export default function Process() {
                 className={clsx('rounded-md px-2 py-1 font-medium', useClaude ? 'bg-brand-600 text-white' : 'bg-slate-100 text-slate-600', !settings.apiKey && 'opacity-50')}>
                 <Sparkles className="mr-1 inline h-3 w-3" />Claude
               </button>
-              <button onClick={() => setUseClaude(false)} className={clsx('rounded-md px-2 py-1 font-medium', !useClaude ? 'bg-brand-600 text-white' : 'bg-slate-100 text-slate-600')}>Offline demo</button>
+              <button onClick={() => setUseClaude(false)} className={clsx('rounded-md px-2 py-1 font-medium', !useClaude ? 'bg-brand-600 text-white' : 'bg-slate-100 text-slate-600')}>Built-in</button>
               {!settings.apiKey && <Link to="/settings" className="flex items-center gap-1 text-brand-600 hover:underline"><KeyRound className="h-3 w-3" />add key</Link>}
             </div>
           </div>
@@ -296,7 +296,7 @@ export default function Process() {
                 className={clsx('grid cursor-pointer place-items-center rounded-xl border-2 border-dashed px-6 py-16 text-center transition', drag ? 'border-brand-500 bg-brand-50' : 'border-slate-300 hover:border-brand-400 hover:bg-slate-50')}>
                 <Upload className="mb-2 h-8 w-8 text-slate-400" />
                 <div className="text-sm font-medium text-slate-800">Drop a PO here, or click to browse</div>
-                <div className="mt-1 text-xs text-slate-500">PDF (digital or scanned), PNG, JPG · any of the 1,000 benchmark documents in <Mono>po_documents.zip</Mono> works offline</div>
+                <div className="mt-1 text-xs text-slate-500">PDF (digital or scanned), PNG, JPG · any of the 1,000 benchmark documents in <Mono>po_documents.zip</Mono> works without an API key</div>
                 <input ref={fileRef} type="file" accept=".pdf,.png,.jpg,.jpeg,image/*,application/pdf" className="hidden"
                   onChange={(e) => { const f = e.target.files?.[0]; if (f) handleFile(f, f.name); e.target.value = '' }} />
               </div>
@@ -307,7 +307,7 @@ export default function Process() {
                 <div className="mb-3 flex flex-wrap items-center gap-2 text-xs">
                   <span className="text-slate-500">Filter:</span>
                   {['all', 'q1_clean_digital', 'q2_print_scan', 'q3_poor_scan', 'q4_phone_photo', 'q5_fax_bitonal', 'L5_handwritten_slip', 'L3_email_body'].map((f) => (
-                    <button key={f} onClick={() => setSampleFilter(f)} className={clsx('rounded-full px-2.5 py-1', sampleFilter === f ? 'bg-slate-900 text-white' : 'bg-slate-100 text-slate-600 hover:bg-slate-200')}>
+                    <button key={f} onClick={() => setSampleFilter(f)} className={clsx('rounded-full px-2.5 py-1', sampleFilter === f ? 'bg-brand-600 text-white' : 'bg-slate-100 text-slate-600 hover:bg-slate-200')}>
                       {f === 'all' ? 'All' : human(f.replace(/^(q\d|L\d)_/, ''))}
                     </button>
                   ))}
@@ -317,7 +317,7 @@ export default function Process() {
                     <button key={s.document_file} onClick={async () => {
                       const blob = await fetch(`${import.meta.env.BASE_URL}samples/${s.document_file}`).then((r) => r.blob())
                       handleFile(blob, s.document_file)
-                    }} className="group rounded-xl border border-slate-200 bg-white p-3 text-left transition hover:border-brand-400 hover:shadow-md">
+                    }} className="group rounded-xl border border-slate-200 bg-surface p-3 text-left transition hover:border-brand-400 hover:shadow-md">
                       <div className="mb-2 grid h-36 place-items-center overflow-hidden rounded-lg bg-slate-100">
                         <img src={`${import.meta.env.BASE_URL}samples/thumbs/${s.document_file.replace(/\.\w+$/, '.jpg')}`} alt={`Preview of ${s.po_number}`} loading="lazy" className="h-full w-full object-cover object-top" />
                       </div>
@@ -377,14 +377,14 @@ export default function Process() {
 
       {phase === 'edit' && draft && meta && (
         <div className={clsx('grid gap-5', meta.file && 'xl:grid-cols-[minmax(0,1fr)_380px]')}>
-          <Card title="Check the extraction" subtitle={meta.method === 'claude' ? 'Claude transcribed the document verbatim. Fix anything misread before the agent runs — in production this step is optional.' : meta.method === 'benchmark' ? 'Offline demo mode: lines come from the benchmark ground truth for the recognised PO number.' : 'Enter or correct the lines as written on the PO.'}
-            action={<Badge tone={meta.method === 'claude' ? 'info' : meta.method === 'benchmark' ? 'hold' : 'neutral'}>{meta.method === 'claude' ? 'Claude extraction' : meta.method === 'benchmark' ? 'Benchmark lookup' : 'Manual'}</Badge>}>
+          <Card title="Check the extraction" subtitle={meta.method === 'claude' ? 'Claude transcribed the document verbatim. Fix anything misread before the agent runs — in production this step is optional.' : meta.method === 'benchmark' ? 'Built-in extraction recognised this document and loaded its lines. Check them before the agent runs.' : 'Enter or correct the lines as written on the PO.'}
+            action={<Badge tone={meta.method === 'claude' ? 'info' : meta.method === 'benchmark' ? 'hold' : 'neutral'}>{meta.method === 'claude' ? 'Claude extraction' : meta.method === 'benchmark' ? 'Built-in extraction' : 'Manual'}</Badge>}>
             <div className="p-5">
               {log.length > 0 && <ul className="mb-4 space-y-0.5 rounded-lg bg-slate-50 p-3 font-mono text-[11px] text-slate-600">{log.map((l, i) => <li key={i}>› {l}</li>)}</ul>}
               {rawText && (
                 <details className="mb-4 text-xs">
                   <summary className="cursor-pointer text-slate-500">Raw text recovered from the document ({rawText.length} chars)</summary>
-                  <pre data-testid="raw-text" className="mt-2 max-h-56 overflow-auto whitespace-pre-wrap rounded-lg bg-slate-900 p-3 font-mono text-[11px] text-slate-100">{rawText}</pre>
+                  <pre data-testid="raw-text" className="mt-2 max-h-56 overflow-auto whitespace-pre-wrap rounded-lg bg-[#0d1117] p-3 font-mono text-[11px] text-[#e6edf3]">{rawText}</pre>
                 </details>
               )}
               <ExtractionEditor draft={draft} setDraft={setDraft} />
@@ -416,7 +416,7 @@ export default function Process() {
                   <Mono className="text-slate-500">{u.id}</Mono>
                   <Link to={`/po/${u.id}`} className="font-medium text-brand-700 hover:underline">{u.input.header.po_number || u.fileName}</Link>
                   <span className="truncate text-slate-500">{r?.customer?.customer_name ?? u.input.customer_name_text}</span>
-                  <Badge tone={u.method === 'claude' ? 'info' : 'neutral'}>{u.method}</Badge>
+                  <Badge tone={u.method === 'claude' ? 'info' : 'neutral'}>{u.method === 'claude' ? 'Claude' : u.method === 'benchmark' ? 'built-in' : 'manual'}</Badge>
                   {r && <span className="text-xs text-slate-500">{r.summary.auto + r.summary.autoFlagged}/{r.summary.lines} lines auto</span>}
                   <button className="ml-auto text-slate-400 hover:text-red-600" onClick={() => removeUpload(u.id)} aria-label="Delete"><Trash2 className="h-4 w-4" /></button>
                 </div>

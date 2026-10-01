@@ -53,7 +53,7 @@ export default function ReviewQueue() {
       <div className="mb-4 flex flex-wrap gap-2">
         {QUEUES.map((qd) => (
           <button key={qd.key} onClick={() => { setQueue(qd.key); setLimit(30) }} title={qd.hint}
-            className={clsx('rounded-lg border px-3 py-2 text-left text-sm transition', queue === qd.key ? 'border-brand-500 bg-brand-50 text-brand-700' : 'border-slate-200 bg-white text-slate-700 hover:border-slate-300')}>
+            className={clsx('rounded-lg border px-3 py-2 text-left text-sm transition', queue === qd.key ? 'border-brand-500 bg-brand-50 text-brand-700' : 'border-slate-200 bg-surface text-slate-700 hover:border-slate-300')}>
             <div className="font-medium">{qd.label}</div>
             <div className="text-xs tabular-nums text-slate-500">{num(counts.get(qd.key) ?? 0)} open</div>
           </button>

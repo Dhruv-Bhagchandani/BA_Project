@@ -1,8 +1,8 @@
 // ---------------------------------------------------------------------------
-// Offline document helpers (no API key needed):
+// Built-in document helpers (no API key needed):
 //  - pdf.js reads the text layer of native-digital PDFs
 //  - tesseract.js OCRs images and image-only (scanned) PDFs, in the browser
-// In offline demo mode we use the recovered text to identify the PO number and
+// With built-in extraction we use the recovered text to identify the PO number and
 // look the order up in the benchmark (whose extracted lines are the oracle
 // "perfect extractor" output). With a Claude key, Claude does real extraction.
 // ---------------------------------------------------------------------------

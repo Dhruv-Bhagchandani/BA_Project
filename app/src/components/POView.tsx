@@ -106,7 +106,7 @@ export default function POView({ po, showTruthDefault = false, docUrl }: { po: P
             ['Held for review', num(po.summary.review - po.summary.rejected)],
             ['Auto SO value', inr(po.summary.autoValue, true)],
           ].map(([k, v]) => (
-            <div key={k} className="bg-white px-5 py-3">
+            <div key={k} className="bg-surface px-5 py-3">
               <div className="text-[11px] text-slate-500">{k}</div>
               <div className="text-base font-semibold tabular-nums text-slate-900">{v}</div>
             </div>

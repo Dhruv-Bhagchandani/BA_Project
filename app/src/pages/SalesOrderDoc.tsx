@@ -33,7 +33,7 @@ export default function SalesOrderDoc() {
         </div>
       </div>
 
-      <article className="print-full mx-auto max-w-5xl rounded-xl border border-slate-200 bg-white p-8 shadow-sm">
+      <article className="print-full mx-auto max-w-5xl rounded-xl border border-slate-200 bg-surface p-8 shadow-sm">
         <header className="flex flex-wrap items-start justify-between gap-6 border-b border-slate-200 pb-6">
           <div>
             <div className="text-xs font-semibold uppercase tracking-widest text-brand-600">Sales Order</div>

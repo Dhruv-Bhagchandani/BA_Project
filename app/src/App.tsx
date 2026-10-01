@@ -2,6 +2,7 @@ import { AlertTriangle, Loader2 } from 'lucide-react'
 import { lazy, Suspense } from 'react'
 import { Navigate, Route, Routes } from 'react-router-dom'
 import Layout from './components/Layout'
+import { LogoMark } from './components/Logo'
 import { useStore } from './lib/store'
 
 const Dashboard = lazy(() => import('./pages/Dashboard'))
@@ -31,7 +32,7 @@ export default function App() {
   if (status === 'error')
     return (
       <div className="grid h-full place-items-center p-6">
-        <div className="max-w-md rounded-xl border border-red-200 bg-white p-6 text-sm">
+        <div className="max-w-md rounded-xl border border-red-200 bg-surface p-6 text-sm">
           <div className="mb-2 flex items-center gap-2 font-semibold text-red-700"><AlertTriangle className="h-4 w-4" /> Could not load the dataset</div>
           <p className="text-slate-600">{error}</p>
           <p className="mt-2 text-slate-500">Make sure <code>public/data/*.parquet</code> exist (run <code>python3 scripts/build_data.py</code>).</p>
@@ -42,9 +43,7 @@ export default function App() {
     return (
       <div className="grid h-full place-items-center">
         <div className="w-72 text-center">
-          <div className="mx-auto mb-4 grid h-10 w-10 place-items-center rounded-xl bg-brand-600 text-white">
-            <svg viewBox="0 0 32 32" className="h-6 w-6"><path d="M7 9h10l6 7-6 7H7l6-7z" fill="currentColor" /></svg>
-          </div>
+          <LogoMark size={48} className="mx-auto mb-4" />
           <div className="text-sm font-medium text-slate-800">Loading catalogue, customers & history</div>
           <div className="mt-3 h-1.5 overflow-hidden rounded-full bg-slate-200">
             <div className="h-full rounded-full bg-brand-500 transition-all" style={{ width: `${(progress.done / progress.total) * 100}%` }} />

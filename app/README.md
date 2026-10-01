@@ -41,7 +41,7 @@ Browser (everything runs here)
 ├── /data/*.parquet   ~1.3 MB of master data, history, POs and labels  →  read with hyparquet
 ├── Stage 1: extraction
 │   ├── Claude (your API key, called directly from the browser, structured JSON output)
-│   └── Offline: pdf.js text layer / tesseract.js OCR → identify the PO → benchmark lines
+│   └── Built-in: pdf.js text layer / tesseract.js OCR → identify the PO → benchmark lines
 ├── Stage 2: agent (src/lib/engine.ts) — deterministic and auditable
 │   normalise → match quality group → colour within group → UOM / qty / price / duplicate
 │   checks → 20-rung precedence ladder → exception + action → SO line
@@ -104,7 +104,7 @@ src/lib/engine.ts      the agent: matching, validation, decision ladder, SO line
 src/lib/normalize.ts   abbreviations, colour synonyms, OCR-damage detection, qty/UOM/price parsing
 src/lib/evaluate.ts    §10 evaluation protocol + threshold sweep + confusion matrix
 src/lib/claude.ts      Claude document extraction (browser)
-src/lib/docExtract.ts  pdf.js / tesseract.js offline extraction + benchmark lookup
+src/lib/docExtract.ts  pdf.js / tesseract.js built-in extraction + document register lookup
 src/lib/salesOrder.ts  SO assembly from agent results + review decisions
 src/lib/store.tsx      app state (Parquet load, inbox processing, localStorage)
 src/pages/*            UI

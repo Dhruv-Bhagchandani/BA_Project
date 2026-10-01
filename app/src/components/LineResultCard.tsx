@@ -100,20 +100,20 @@ function ReviewPanel({ l, customerId }: { l: LineResult; customerId: string }) {
       <div className="mb-2 text-xs font-semibold text-amber-900">Reviewer decision</div>
       <div className="grid gap-2 md:grid-cols-[1fr_120px_140px]">
         <div className="space-y-1.5">
-          <select value={sku} onChange={(e) => setSku(e.target.value)} className="w-full rounded-md border border-slate-300 bg-white px-2 py-1.5 text-xs">
+          <select value={sku} onChange={(e) => setSku(e.target.value)} className="w-full rounded-md border border-slate-300 bg-surface px-2 py-1.5 text-xs">
             <option value="">— choose SKU —</option>
             {pool.map(([s, n]) => <option key={s} value={s}>{s} · {n}</option>)}
           </select>
-          <input value={skuSearch} onChange={(e) => setSkuSearch(e.target.value)} placeholder="Search catalogue for another SKU…" className="w-full rounded-md border border-slate-300 bg-white px-2 py-1.5 text-xs" />
+          <input value={skuSearch} onChange={(e) => setSkuSearch(e.target.value)} placeholder="Search catalogue for another SKU…" className="w-full rounded-md border border-slate-300 bg-surface px-2 py-1.5 text-xs" />
         </div>
         <label className="text-[11px] text-slate-500">Qty ({ctx?.productBySku.get(sku)?.uom ?? l.parsed.uomRaw})
-          <input value={qty} onChange={(e) => setQty(e.target.value)} inputMode="decimal" className="mt-0.5 w-full rounded-md border border-slate-300 bg-white px-2 py-1.5 text-xs text-slate-800" />
+          <input value={qty} onChange={(e) => setQty(e.target.value)} inputMode="decimal" className="mt-0.5 w-full rounded-md border border-slate-300 bg-surface px-2 py-1.5 text-xs text-slate-800" />
         </label>
         <label className="text-[11px] text-slate-500">Unit price ₹
-          <input value={price} onChange={(e) => setPrice(e.target.value)} inputMode="decimal" className="mt-0.5 w-full rounded-md border border-slate-300 bg-white px-2 py-1.5 text-xs text-slate-800" />
+          <input value={price} onChange={(e) => setPrice(e.target.value)} inputMode="decimal" className="mt-0.5 w-full rounded-md border border-slate-300 bg-surface px-2 py-1.5 text-xs text-slate-800" />
         </label>
       </div>
-      <input value={note} onChange={(e) => setNote(e.target.value)} placeholder="Note (optional) — e.g. confirmed colour with buyer on call" className="mt-2 w-full rounded-md border border-slate-300 bg-white px-2 py-1.5 text-xs" />
+      <input value={note} onChange={(e) => setNote(e.target.value)} placeholder="Note (optional) — e.g. confirmed colour with buyer on call" className="mt-2 w-full rounded-md border border-slate-300 bg-surface px-2 py-1.5 text-xs" />
       <div className="mt-2 flex flex-wrap items-center gap-2">
         <Button variant="success" disabled={!sku || !(Number(qty) > 0) || !(Number(price) > 0)}
           onClick={() => decide(l.input.po_line_id, { status: 'approved', sku, qty: Number(qty), unitPrice: Number(price), note }, code ? { customerId, code } : undefined)}>
@@ -178,7 +178,7 @@ export default function LineResultCard({ l, gt, showTruth, customerId, defaultOp
       {open && (
         <div className="space-y-3 bg-slate-50/60 px-4 pb-4 pt-1 lg:pl-12">
           <div className="grid gap-3 lg:grid-cols-3">
-            <div className="rounded-lg border border-slate-200 bg-white p-3">
+            <div className="rounded-lg border border-slate-200 bg-surface p-3">
               <div className="mb-1 text-xs font-semibold text-slate-700">1 · What the agent read</div>
               <Field label="Quantity" value={l.parsed.qty !== null ? `${num(l.parsed.qty, 2)}${l.parsed.qtyApprox ? ' (approx.)' : ''}` : 'missing'} raw={l.input.quantity_text} />
               <Field label="UOM" value={l.parsed.uom ?? '—'} raw={l.input.uom_text} />
@@ -190,7 +190,7 @@ export default function LineResultCard({ l, gt, showTruth, customerId, defaultOp
               {l.input.requested_delivery_date && <Field label="Delivery" value={l.input.requested_delivery_date} />}
               {l.parsed.desc.corrected.length > 0 && <Field label="Spelling fixes" value={l.parsed.desc.corrected.map((c) => `${c.from}→${c.to}`).join(', ')} />}
             </div>
-            <div className="rounded-lg border border-slate-200 bg-white p-3">
+            <div className="rounded-lg border border-slate-200 bg-surface p-3">
               <div className="mb-1 flex items-center justify-between text-xs font-semibold text-slate-700">
                 <span>2 · Catalogue match</span><Badge tone="info">{human(l.match.status)}</Badge>
               </div>
@@ -217,7 +217,7 @@ export default function LineResultCard({ l, gt, showTruth, customerId, defaultOp
                 </>
               )}
             </div>
-            <div className="rounded-lg border border-slate-200 bg-white p-3">
+            <div className="rounded-lg border border-slate-200 bg-surface p-3">
               <div className="mb-1 flex items-center justify-between text-xs font-semibold text-slate-700">
                 <span>3 · Price check</span><Badge tone={l.price.status.startsWith('outside') ? 'reject' : l.price.status === 'within_tolerance' ? 'good' : 'neutral'}>{human(l.price.status)}</Badge>
               </div>
@@ -231,7 +231,7 @@ export default function LineResultCard({ l, gt, showTruth, customerId, defaultOp
             </div>
           </div>
 
-          <div className="rounded-lg border border-slate-200 bg-white p-3">
+          <div className="rounded-lg border border-slate-200 bg-surface p-3">
             <div className="mb-2 flex flex-wrap items-center justify-between gap-2 text-xs font-semibold text-slate-700">
               <span>4 · Agent reasoning</span>
               <span className="flex items-center gap-2 font-normal">

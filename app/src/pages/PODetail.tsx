@@ -25,7 +25,7 @@ export default function PODetail() {
       </Link>
       {up && (
         <div className="mb-4 rounded-lg border border-brand-100 bg-brand-50 px-4 py-2.5 text-xs text-brand-700">
-          Extracted from <b>{up.fileName}</b> via {up.method === 'claude' ? 'Claude document extraction' : up.method === 'benchmark' ? 'benchmark lookup (offline demo mode)' : 'manual entry'} on {new Date(up.createdAt).toLocaleString()}.
+          Extracted from <b>{up.fileName}</b> via {up.method === 'claude' ? 'Claude document extraction' : up.method === 'benchmark' ? 'built-in extraction' : 'manual entry'} on {new Date(up.createdAt).toLocaleString()}.
           {up.notes && <> Notes: {up.notes}</>}
         </div>
       )}

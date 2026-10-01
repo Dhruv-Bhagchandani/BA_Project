@@ -27,7 +27,7 @@ const LADDER = [
 
 const STAGES = [
   { icon: FileUp, title: 'Ingest', text: 'PDF, scan, phone photo, fax or email text — uploaded in the browser.' },
-  { icon: ScanText, title: 'Extract', text: 'Claude reads the document verbatim into header + lines (never fixes typos or invents quantities). Offline: pdf.js text layer / tesseract OCR + benchmark lookup.' },
+  { icon: ScanText, title: 'Extract', text: 'Claude reads the document verbatim into header + lines (never fixes typos or invents quantities). Without a key: built-in pdf.js text layer / tesseract OCR, matched against the document register.' },
   { icon: FileSearch, title: 'Match', text: 'Normalise abbreviations, typos, colour synonyms and trade jargon; IDF-weighted match over 192+ quality groups; then colour within the group. Never guesses between siblings.' },
   { icon: ShieldCheck, title: 'Validate', text: 'Price vs this customer\'s last transacted price (as of PO date, ≤180 days) or tier list price; UOM convertibility; quantity outliers; duplicate POs; contradicting remarks.' },
   { icon: Bot, title: 'Decide', text: 'A fixed 20-rung precedence ladder turns findings into one exception + one action. Only rungs 16–20 may auto-process.' },
@@ -105,7 +105,7 @@ export default function HowItWorks() {
           </div>
           <div className="rounded-lg border border-slate-200 p-4">
             <div className="mb-1 flex items-center gap-2 font-semibold"><Bot className="h-4 w-4 text-brand-600" /> Claude API (optional)</div>
-            <p className="text-xs leading-relaxed text-slate-600">For real document extraction the browser calls the Anthropic API directly with the user's own key (Settings), using structured output so the response always fits the PO schema. Without a key the app runs in offline demo mode.</p>
+            <p className="text-xs leading-relaxed text-slate-600">For real document extraction the browser calls the Anthropic API directly with the user's own key (Settings), using structured output so the response always fits the PO schema. Without a key, built-in extraction is used.</p>
           </div>
         </div>
       </Card>

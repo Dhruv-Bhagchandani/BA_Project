@@ -1,5 +1,7 @@
 @import "tailwindcss";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
 @theme {
   --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
   --font-mono: "JetBrains Mono", ui-monospace, monospace;
@@ -13,10 +15,67 @@
   --color-warn: #fab219;
   --color-serious: #ec835a;
   --color-critical: #d03b3b;
+  /* semantic surfaces — redefined for dark below */
+  --color-surface: #ffffff;
+  --color-canvas: #f6f7f9;
+  /* sidebar stays dark in both themes */
+  --color-side: #0f1729;
+  --color-side-text: #cbd5e1;
+  --color-side-muted: #8b98ad;
+}
+
+/* ---------------------------------------------------------------------------
+   Dark theme: remap the neutral scale and tint steps so every existing
+   utility (bg-slate-50, text-emerald-800, border-slate-200 …) adapts.
+   --------------------------------------------------------------------------- */
+.dark {
+  color-scheme: dark;
+  --color-surface: #161a22;
+  --color-canvas: #0d1016;
+  --color-side: #0a0e16;
+
+  --color-slate-50: #1c212b;
+  --color-slate-100: #232935;
+  --color-slate-200: #2d3441;
+  --color-slate-300: #3c4454;
+  --color-slate-400: #6c7689;
+  --color-slate-500: #919bad;
+  --color-slate-600: #abb3c1;
+  --color-slate-700: #c6ccd6;
+  --color-slate-800: #dde1e8;
+  --color-slate-900: #f1f3f6;
+
+  --color-brand-50: #14243d;
+  --color-brand-100: #1a3152;
+  --color-brand-300: #5b8fd6;
+  --color-brand-500: #3987e5;
+  --color-brand-600: #3478d0;
+  --color-brand-700: #8db9f2;
+
+  --color-emerald-50: #0d2a1f; --color-emerald-100: #12372a; --color-emerald-200: #1b4d3a;
+  --color-emerald-700: #6ee7b7; --color-emerald-800: #86efc4; --color-emerald-900: #a7f3d0;
+  --color-teal-50: #0b2a2b; --color-teal-100: #0f3839; --color-teal-200: #175052;
+  --color-teal-700: #5eead4; --color-teal-800: #7af0dd; --color-teal-900: #99f6e4;
+  --color-amber-50: #2c2210; --color-amber-100: #3a2d12; --color-amber-200: #5a4518;
+  --color-amber-700: #fbbf24; --color-amber-800: #fcd34d; --color-amber-900: #fde68a;
+  --color-orange-50: #2e1b10; --color-orange-100: #3b2314; --color-orange-200: #5a331c;
+  --color-orange-700: #fb923c; --color-orange-800: #fdba74; --color-orange-900: #fed7aa;
+  --color-violet-50: #201a37; --color-violet-100: #2a2147; --color-violet-200: #3d3066;
+  --color-violet-700: #c4b5fd; --color-violet-800: #d6ccfe; --color-violet-900: #e4dcff;
+  --color-red-50: #2e1416; --color-red-100: #3d181b; --color-red-200: #5c2328;
+  --color-red-700: #f87171; --color-red-800: #fca5a5; --color-red-900: #fecaca;
 }
 
 html, body, #root { height: 100%; }
-body { background: #f6f7f9; color: #0b0b0b; -webkit-font-smoothing: antialiased; }
+body { background: var(--color-canvas); color: var(--color-slate-900); -webkit-font-smoothing: antialiased; transition: background-color .2s; }
+
+/* charts (recharts draws with inline SVG attributes) */
+.dark .recharts-cartesian-axis-tick-value, .dark .recharts-label, .dark .recharts-text { fill: #abb3c1 !important; }
+.dark .recharts-cartesian-grid line { stroke: #2d3441 !important; }
+.dark .recharts-default-tooltip { background: #1c212b !important; border-color: #3c4454 !important; color: #dde1e8 !important; }
+.dark .recharts-tooltip-cursor { fill: #232935 !important; }
+.recharts-legend-item-text { color: var(--color-slate-700) !important; }
+.dark .recharts-bar-rectangle path[stroke="#fff"] { stroke: var(--color-surface); }
 
 @media print {
   .no-print { display: none !important; }

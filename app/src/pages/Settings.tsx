@@ -27,14 +27,14 @@ export default function Settings() {
       <PageHeader title="Settings" />
 
       <Card title={<span className="flex items-center gap-1.5"><KeyRound className="h-4 w-4" /> Claude document extraction</span>}
-        subtitle="Optional. Without a key the app runs in offline demo mode (pdf.js / OCR + benchmark lookup).">
+        subtitle="Optional. Without a key, built-in extraction is used (PDF text layer / in-browser OCR, matched against the document register).">
         <div className="space-y-3 p-5">
           <label className="block text-xs font-medium text-slate-600">Anthropic API key
             <input type="password" value={key} onChange={(e) => setKey(e.target.value)} placeholder="sk-ant-…" autoComplete="off"
               className="mt-1 w-full rounded-lg border border-slate-300 px-3 py-2 font-mono text-sm" />
           </label>
           <label className="block text-xs font-medium text-slate-600">Model
-            <select value={settings.model} onChange={(e) => setSettings({ ...settings, model: e.target.value })} className="mt-1 w-full rounded-lg border border-slate-300 bg-white px-3 py-2 text-sm">
+            <select value={settings.model} onChange={(e) => setSettings({ ...settings, model: e.target.value })} className="mt-1 w-full rounded-lg border border-slate-300 bg-surface px-3 py-2 text-sm">
               {CLAUDE_MODELS.map((m) => <option key={m.id} value={m.id}>{m.label}</option>)}
             </select>
           </label>

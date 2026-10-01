@@ -6,7 +6,7 @@ import type { Action } from '../lib/types'
 
 export function Card({ children, className, title, action, subtitle }: { children: ReactNode; className?: string; title?: ReactNode; subtitle?: ReactNode; action?: ReactNode }) {
   return (
-    <section className={clsx('rounded-xl border border-slate-200 bg-white shadow-sm', className)}>
+    <section className={clsx('rounded-xl border border-slate-200 bg-surface shadow-sm', className)}>
       {(title || action) && (
         <header className="flex items-start justify-between gap-3 border-b border-slate-100 px-5 py-3.5">
           <div>
@@ -47,7 +47,7 @@ export function ActionBadge({ action, short }: { action: Action; short?: boolean
 
 export function Stat({ label, value, sub, tone, icon }: { label: string; value: ReactNode; sub?: ReactNode; tone?: 'good' | 'bad' | 'neutral'; icon?: ReactNode }) {
   return (
-    <div className="rounded-xl border border-slate-200 bg-white p-4 shadow-sm">
+    <div className="rounded-xl border border-slate-200 bg-surface p-4 shadow-sm">
       <div className="flex items-center justify-between text-xs font-medium text-slate-500">
         <span>{label}</span>
         {icon}
@@ -79,11 +79,11 @@ export function Button({ children, onClick, variant = 'primary', className, disa
   return (
     <button type={type} onClick={onClick} disabled={disabled} title={title}
       className={clsx('inline-flex items-center justify-center gap-1.5 rounded-lg px-3 py-1.5 text-sm font-medium transition disabled:cursor-not-allowed disabled:opacity-50',
-        variant === 'primary' && 'bg-brand-600 text-white shadow-sm hover:bg-brand-700',
-        variant === 'secondary' && 'border border-slate-300 bg-white text-slate-700 shadow-sm hover:bg-slate-50',
+        variant === 'primary' && 'bg-brand-600 text-white shadow-sm hover:brightness-110',
+        variant === 'secondary' && 'border border-slate-300 bg-surface text-slate-700 shadow-sm hover:bg-slate-50',
         variant === 'ghost' && 'text-slate-600 hover:bg-slate-100',
-        variant === 'danger' && 'border border-red-200 bg-white text-red-700 hover:bg-red-50',
-        variant === 'success' && 'bg-emerald-600 text-white shadow-sm hover:bg-emerald-700',
+        variant === 'danger' && 'border border-red-200 bg-surface text-red-700 hover:bg-red-50',
+        variant === 'success' && 'bg-emerald-600 text-white shadow-sm hover:brightness-110',
         className)}>
       {children}
     </button>
@@ -111,7 +111,7 @@ export function Select({ value, onChange, options, className, label }: { value: 
     <label className={clsx('flex items-center gap-2 text-xs text-slate-500', className)}>
       {label}
       <select value={value} onChange={(e) => onChange(e.target.value)}
-        className="rounded-lg border border-slate-300 bg-white px-2.5 py-1.5 text-sm text-slate-800 shadow-sm focus:border-brand-500 focus:outline-none focus:ring-2 focus:ring-brand-500/20">
+        className="rounded-lg border border-slate-300 bg-surface px-2.5 py-1.5 text-sm text-slate-800 shadow-sm focus:border-brand-500 focus:outline-none focus:ring-2 focus:ring-brand-500/20">
         {options.map((o) => <option key={o.value} value={o.value}>{o.label}</option>)}
       </select>
     </label>

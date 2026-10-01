@@ -28,7 +28,7 @@ const r = (x: Ratio, d = 1) => (x.value === null ? '—' : pct(x.value, d))
 
 function MetricTile({ m, def }: { m: Ratio; def: (typeof METRIC_DEFS)[number] }) {
   return (
-    <div className={clsx('rounded-xl border bg-white p-4 shadow-sm', def.safety ? 'border-emerald-200' : 'border-slate-200')}>
+    <div className={clsx('rounded-xl border bg-surface p-4 shadow-sm', def.safety ? 'border-emerald-200' : 'border-slate-200')}>
       <div className="flex items-start justify-between gap-2 text-xs font-medium text-slate-500">
         <span>{def.label}</span>{def.safety && <Badge tone="good">safety</Badge>}
       </div>
@@ -107,7 +107,7 @@ export default function Evaluation() {
           { value: 'test', label: 'Test (199 POs)' }, { value: 'validation', label: 'Validation' }, { value: 'train', label: 'Train' },
           { value: 'test_temporal', label: 'Temporal hold-out (newest 15%)' }, { value: 'all', label: 'All 1,000 POs' }]} />} />
 
-      <div className="mb-5 flex items-start gap-2 rounded-lg border border-slate-200 bg-white p-3 text-xs text-slate-600">
+      <div className="mb-5 flex items-start gap-2 rounded-lg border border-slate-200 bg-surface p-3 text-xs text-slate-600">
         <Info className="mt-0.5 h-4 w-4 shrink-0 text-brand-600" />
         <div><b>Read these numbers honestly.</b> The data is synthetic and its messiness comes from a finite set of generator rules; the agent's
           normalisation rules were developed with knowledge of those rules and against all splits, so the test split is not a blind hold-out and
@@ -194,8 +194,8 @@ export default function Evaluation() {
                         const v = row?.get(b) ?? 0
                         const share = total ? v / total : 0
                         return (
-                          <td key={b} title={`${human(a)} → ${human(b)}: ${v}`} className="h-8 w-9 border border-white text-center tabular-nums"
-                            style={{ background: v ? (a === b ? `rgba(42,120,214,${0.15 + share * 0.85})` : `rgba(208,59,59,${0.15 + share * 0.85})`) : '#f8fafc', color: share > 0.55 ? 'white' : '#334155' }}>
+                          <td key={b} title={`${human(a)} → ${human(b)}: ${v}`} className="h-8 w-9 border border-surface text-center tabular-nums"
+                            style={{ background: v ? (a === b ? `rgba(42,120,214,${0.15 + share * 0.85})` : `rgba(208,59,59,${0.15 + share * 0.85})`) : 'var(--color-slate-50)', color: share > 0.55 ? 'white' : 'var(--color-slate-700)' }}>
                             {v || ''}
                           </td>
                         )
@@ -265,7 +265,7 @@ export default function Evaluation() {
                       <th className="whitespace-nowrap pr-2 text-right font-normal text-slate-600">{human(l.replace(/^L\d_/, ''))}</th>
                       {coverage.quals.map((q) => {
                         const v = coverage.cell.get(`${l}|${q}`) ?? 0
-                        return <td key={q} className="h-8 w-20 border border-white text-center tabular-nums" style={{ background: v ? `rgba(42,120,214,${0.1 + Math.min(1, v / 170) * 0.8})` : '#f8fafc', color: v > 110 ? 'white' : '#334155' }}>{v || ''}</td>
+                        return <td key={q} className="h-8 w-20 border border-surface text-center tabular-nums" style={{ background: v ? `rgba(42,120,214,${0.1 + Math.min(1, v / 170) * 0.8})` : 'var(--color-slate-50)', color: v > 110 ? 'white' : 'var(--color-slate-700)' }}>{v || ''}</td>
                       })}
                     </tr>
                   ))}
