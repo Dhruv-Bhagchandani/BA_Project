@@ -77,7 +77,7 @@ export default function Settings() {
 
       <Card title="Demo data">
         <div className="flex flex-wrap items-center justify-between gap-3 p-5 text-sm text-slate-600">
-          <span>Clear review decisions, learned customer codes, uploads and policy changes in this browser.</span>
+          <span>Clear review decisions, learned customer codes, uploads, customers you added and policy changes in this browser.</span>
           <Button variant="danger" onClick={() => { if (confirm('Reset all local demo state?')) { resetDemo(); setDraft(DEFAULT_RULES) } }}><RotateCcw className="h-4 w-4" /> Reset demo</Button>
         </div>
       </Card>

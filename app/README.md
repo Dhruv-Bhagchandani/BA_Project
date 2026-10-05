@@ -18,9 +18,9 @@ The app is **frontend-only**: a static React site with no backend, no server and
 | **Review queue** | Held lines grouped by the judgement they need (match, price, clarify, manual, duplicate, UOM, quantity). Approve (choose the SKU, qty and price), reject, or ask the customer. Approving a customer-coded line **teaches** the agent that code |
 | **Sales orders** | One SO per PO: auto lines, flagged lines and reviewer-approved lines, with GST, HSN and totals. Print to PDF, or export CSV or ERP-style JSON |
 | **Evaluation** | The dataset's full evaluation protocol: SKU accuracy, candidate recall, exception accuracy and recall, **false auto-approval** and **hallucination** (the safety metrics), STP at line and order level, sliced by difficulty and scenario, plus an action confusion matrix and the confidence-threshold trade-off. Live stage-1 extraction scoring when Claude is used |
-| **Catalogue / Customers** | 750 SKUs grouped by quality group (why "no colour" means ambiguity); customer profiles with buying portfolio and price-history charts |
+| **Catalogue / Customers** | 750 SKUs grouped by quality group (why "no colour" means ambiguity); customer profiles with buying portfolio and price-history charts. **Add customer** button creates a new buyer (saved in the browser) that can be chosen when processing a PO; new buyers have no history, so their first orders always go to review |
 | **How it works** | Architecture, the 20-rung decision ladder, tolerance bands, and the safety rules |
-| **Settings** | Claude API key and model, reviewer name, editable agent policy (tolerances, thresholds; re-runs all 1,000 POs), demo reset |
+| **Settings** | Claude API key and model, reviewer name, editable agent policy (tolerances, thresholds; re-runs all 1,000 POs), demo reset (also clears added customers) |
 
 Agent results on the **test split** (199 POs, 1,000 lines):
 

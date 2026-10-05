@@ -9,7 +9,7 @@ import { useStore } from '../lib/store'
 
 export default function CustomerDetail() {
   const { id = '' } = useParams()
-  const { data, ctx, inbox } = useStore()
+  const { data, ctx, inbox, uploadResults } = useStore()
   const c = data?.customers.find((x) => x.customer_id === id)
   const txns = useMemo(() => ctx?.txnsByCustomer.get(id) ?? [], [ctx, id])
   const portfolio = useMemo(() => {
@@ -25,7 +25,7 @@ export default function CustomerDetail() {
   const [sku, setSku] = useState<string | null>(null)
   const active = sku ?? portfolio[0]?.sku ?? null
   const series = txns.filter((t) => t.sku === active).map((t) => ({ date: t.transaction_date, price: t.unit_price_inr }))
-  const pos = inbox.filter((p) => p.input.header.customer_id === id)
+  const pos = [...uploadResults.values(), ...inbox].filter((p) => p.input.header.customer_id === id)
 
   if (!c || !ctx) return <Empty>Customer not found.</Empty>
   const p = active ? ctx.productBySku.get(active) : undefined

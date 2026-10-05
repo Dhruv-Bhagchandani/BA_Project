@@ -4,7 +4,7 @@ import { createContext, useCallback, useContext, useEffect, useMemo, useState, t
 import { loadDataset, type Dataset } from './data'
 import { buildContext, processPO, registerPO, type EngineContext, type POResult } from './engine'
 import type { ReviewDecision } from './salesOrder'
-import { DEFAULT_RULES, type POInput, type Rules } from './types'
+import { DEFAULT_RULES, type Customer, type POInput, type Rules } from './types'
 
 export interface UploadRecord {
   id: string
@@ -14,6 +14,13 @@ export interface UploadRecord {
   notes: string
   input: POInput
 }
+
+/** What the Add customer form collects; the store fills in id, discount and "new customer" status. */
+export type NewCustomer = Pick<Customer, 'customer_name' | 'customer_segment' | 'city' | 'state_code' | 'commercial_tier'
+  | 'credit_terms_days' | 'credit_limit_inr' | 'preferred_uom' | 'uses_own_item_codes' | 'customer_code_prefix'
+  | 'po_channel_preference'> & { gstin: string }
+
+export const TIER_DISCOUNT_PCT: Record<Customer['commercial_tier'], number> = { A: 12, B: 7, C: 3 }
 
 export interface Settings {
   apiKey: string
@@ -43,6 +50,10 @@ interface Store {
   setSettings: (s: Settings) => void
   getPO: (id: string) => POResult | undefined
   processing: boolean
+  /** Customers added through the app (kept in this browser), already included in data.customers. */
+  customCustomers: Customer[]
+  addCustomer: (c: NewCustomer) => Customer
+  removeCustomer: (id: string) => void
 }
 
 const Ctx = createContext<Store | null>(null)
@@ -90,12 +101,13 @@ export function StoreProvider({ children }: { children: ReactNode }) {
   const [status, setStatus] = useState<Store['status']>('loading')
   const [progress, setProgress] = useState({ done: 0, total: 1, label: 'starting' })
   const [error, setError] = useState<string | null>(null)
-  const [data, setData] = useState<Dataset | null>(null)
+  const [baseData, setBaseData] = useState<Dataset | null>(null)
   const [ctx, setCtx] = useState<EngineContext | null>(null)
   const [rules, setRulesState] = useLocal<Rules>('po2so.rules', DEFAULT_RULES)
   const [reviews, setReviews] = useLocal<Record<string, ReviewDecision>>('po2so.reviews', {})
   const [learned, setLearned] = useLocal<Record<string, string>>('po2so.learnedCodes', {})
   const [uploads, setUploads] = useLocalArray<UploadRecord>('po2so.uploads')
+  const [customCustomers, setCustomCustomers] = useLocalArray<Customer>('po2so.customCustomers')
   const [settings, setSettingsState] = useLocal<Settings>('po2so.settings', {
     apiKey: '', model: (import.meta.env.VITE_CLAUDE_MODEL as string) || 'claude-opus-5-5', reviewer: 'Order Desk',
   })
@@ -105,8 +117,7 @@ export function StoreProvider({ children }: { children: ReactNode }) {
   useEffect(() => {
     loadDataset((done, total, label) => setProgress({ done, total, label }))
       .then((d) => {
-        setData(d)
-        setCtx(buildContext(d.products, d.customers, d.txns))
+        setBaseData(d)
         setStatus('ready')
       })
       .catch((e) => {
@@ -114,6 +125,12 @@ export function StoreProvider({ children }: { children: ReactNode }) {
         setStatus('error')
       })
   }, [])
+
+  // Master data = the shipped customers plus any added in the app.
+  const data = useMemo<Dataset | null>(
+    () => (baseData ? { ...baseData, customers: [...baseData.customers, ...customCustomers] } : null),
+    [baseData, customCustomers],
+  )
 
   // The inbox: every PO is processed in arrival order, so duplicate detection only
   // ever sees POs that had already been received (no look-ahead).
@@ -175,6 +192,24 @@ export function StoreProvider({ children }: { children: ReactNode }) {
     setReviews(next)
   }
 
+  const addCustomer: Store['addCustomer'] = (c) => {
+    const ids = [...(baseData?.customers ?? []), ...customCustomers].map((x) => Number(x.customer_id.replace(/\D/g, '')) || 0)
+    const id = `CUST${String(Math.max(0, ...ids) + 1).padStart(4, '0')}`
+    const tail = c.gstin.trim() || '00XXXXX0000X1Z0'
+    const created: Customer = {
+      customer_id: id, customer_name: c.customer_name.trim(), customer_segment: c.customer_segment, city: c.city.trim(),
+      state_code: c.state_code.trim().toUpperCase(), gstin_masked: tail.toUpperCase(), commercial_tier: c.commercial_tier,
+      standard_discount_pct: TIER_DISCOUNT_PCT[c.commercial_tier], credit_terms_days: c.credit_terms_days,
+      credit_limit_inr: c.credit_limit_inr, preferred_uom: c.preferred_uom, uses_own_item_codes: c.uses_own_item_codes,
+      customer_code_prefix: c.uses_own_item_codes ? c.customer_code_prefix.trim().toUpperCase() : '',
+      onboarding_date: new Date().toISOString().slice(0, 10),
+      // brand-new buyers have no history: the agent never auto-approves their first orders
+      is_new_customer: true, po_channel_preference: c.po_channel_preference, avg_monthly_order_value_inr: 0,
+    }
+    setCustomCustomers([...customCustomers, created])
+    return created
+  }
+
   const value: Store = {
     status, progress, error, data, ctx, rules, setRules: setRulesState, inbox, inboxById, uploads, uploadResults,
     addUpload, removeUpload: (id) => setUploads(uploads.filter((u) => u.id !== id)),
@@ -183,12 +218,14 @@ export function StoreProvider({ children }: { children: ReactNode }) {
       setReviews({})
       setLearned({})
       setUploads([])
+      setCustomCustomers([])
       setRulesState(DEFAULT_RULES)
     },
     settings: { ...settings, apiKey: settings.apiKey || ENV_KEY },
     setSettings: setSettingsState,
     getPO: (id) => inboxById.get(id) ?? uploadResults.get(id),
-    processing,
+    processing, customCustomers, addCustomer,
+    removeCustomer: (id) => setCustomCustomers(customCustomers.filter((c) => c.customer_id !== id)),
   }
   return <Ctx.Provider value={value}>{children}</Ctx.Provider>
 }
